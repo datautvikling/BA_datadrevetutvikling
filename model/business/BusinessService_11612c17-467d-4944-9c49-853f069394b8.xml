@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapportere og betale mva aka. mva-melding (2. hver måned eller årlig)"
+    id="11612c17-467d-4944-9c49-853f069394b8"
+    documentation="Elektronisk via Altinn. Virksomheter som er registrert i MVA-registeret.&#xA;Når du har vært mva-registrert i minst ett år, kan du søke om årlig innlevering (årsterminoppgave) av meldingen dersom omsetningen din er under 1 mill. For å søke om dette benytter du skjema &quot;Samordnet registermelding&quot;.&#xA;Foretak innen jordbruk, skogbruk og fiske (primærnæringene) vil alltid ha årlig innlevering."/>
