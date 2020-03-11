@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bokføring (daglig)"
+    id="id-8b9bd5e8-97f7-4a9a-b8c1-e663adf8bf04"
+    documentation="Alle virksomheter som driver næring har bokføringsplikt, men det er som nevnt ikke et krav om at dette må gjøres av en regnskapsfører.&#xA;&#xA;Å være bokføringspliktig innebærer at selskapet har plikt til bokføring, spesifikasjon, dokumentasjon og oppbevaring av regnskapsopplysninger. Plikten til løpende bokføring innebærer at man må registrere transaksjoner og andre regnskapsmessige disposisjoner som direkte påvirker resultat og balanse."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betale arbeidsgiveravgift og forskuddstrekk for ansatte aka. terminoppgave (annenhver mnd.)"
+    id="id-a2109da2-282e-4ed9-843f-6ba63617786d"
+    documentation="Alle virksomheter som betaler arbeidsgiveravgift og forskuddstrekk for ansatte i lønnet arbeid  skal levere terminoppgaven. Terminoppgaven kan sendes inn elektronisk via Altinn, både ved manuell innfylling, men også ved å laste opp informasjon direkte fra godkjente regnskaps- og  lønnssystemer (såkalte fagsystemer) til Altinn"/>

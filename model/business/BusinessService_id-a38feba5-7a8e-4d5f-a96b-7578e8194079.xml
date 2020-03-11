@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registrere bedrift i enhetsregisteret"
+    id="id-a38feba5-7a8e-4d5f-a96b-7578e8194079"
+    documentation="Alle virksomheter er pliktige til å registrere seg i Enhetsregisteret. &#xA;Inkluderer bankbekreftelse"/>
