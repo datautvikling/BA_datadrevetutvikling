@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandling av sykemelding"
+    id="143e94e3-8990-4238-b98a-0bc357d79f4b"
+    documentation="Ved sykdom kan arbeidstaker gi egenmelding de tre første dagene av sykdomsforløpet opptil fire ganger per 12 måneder (tilsvarende er egenmelding de åtte første dagene for IA-bedrifter med&#xA;maksimalt 24 dager per 12 måneder). Fravær fra og med fjerde dag skal være dokumentert med sykemelding.&#xA;&#xA;Arbeidsgiver skal betale sykepenger til og med 16 kalenderdager (arbeidsgiverperioden) i hvert sykdomstilfelle. Egenmeldingsperioden inngår i arbeidsgiverperioden. Når det er gått mindre enn 16 dager siden forrige sykefravær skal nytt sykefravær regnes med i samme arbeidsgiverperiode.&#xA;"/>

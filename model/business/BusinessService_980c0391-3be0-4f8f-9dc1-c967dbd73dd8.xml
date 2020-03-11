@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Første innbetaling av forskuddsskatt"
+    id="980c0391-3be0-4f8f-9dc1-c967dbd73dd8"
+    documentation="Annen hver måned må alle bedrifter med ansatte (også hvor kun eier er ansatt) sende terminoppgave hvor det rapporteres total utbetalt lønn og andre skattepliktige fordeler samt trukket skattetrekk i løpet av terminen. Dette danner grunnlaget for innbetaling av arbeidsgiveravgift og skattetrekk til kemneren. Terminoppgaven sendes via Altinn.no. Innsendings- og betalingsfrist er den 15. i måneden etter utløpet av terminen, dvs 15. mars for januar-februar, 15. mai for mars-april osv."/>
