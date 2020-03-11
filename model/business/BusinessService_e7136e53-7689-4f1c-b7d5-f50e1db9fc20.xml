@@ -1,5 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Søknad om tollkreditt"
-    id="e7136e53-7689-4f1c-b7d5-f50e1db9fc20"
-    documentation="Importør/eksportør, kalt tollskyldner, får ikke frigitt varene sine før skyldig toll er betalt. Tollen kan enten betales kontant eller ved å opprette en såkalt tollkreditt. Sistnevnte forenkler betalingen betraktelig ettersom toll, avgifter og omkostninger kan trekkes direkte av denne kontoen fremfor å måtte betales kontant. &#xA;&#xA;Det er kun selskaper som innfører eller utfører varer i eget navn som kan søke om tollkreditt. Foretaket må i utgangspunktet være registrert i Foretaksregisteret og MVA-registeret. Søknaden må derfor sendes etter at selskapet er registrert i disse to registrene. "/>

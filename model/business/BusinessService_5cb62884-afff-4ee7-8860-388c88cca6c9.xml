@@ -1,5 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aa-registrering (NAV) (10.1)"
-    id="5cb62884-afff-4ee7-8860-388c88cca6c9"
-    documentation="Alle virksomheter som har arbeidstakere plikter å melde seg og sine ansatte inn i Aa-registeret.&#xA;&#xA;Det må skilles mellom det å ha arbeidstakere og det å leie inn en selvstendig næringsdrivende til å utføre tjenester for virksomheten. Selvstendig næringsdrivende skal ha utbetalt hele det opptjente beløpet, og den næringsdrivende må selv sørge for å betale inn skatter og avgifter. Dersom virksomheten har arbeidstakere er det virksomheten som har ansvaret for å trekke skatt på vegne av arbeidstakerne og betale arbeidsgiveravgift. &#xA;&#xA;Dersom etablerer vet at han eller hun skal ansette arbeidstakere allerede ved oppstart av virksomheten kan dette registreres direkte i ”Samordnet registermelding”. "/>
