@@ -45,10 +45,10 @@
       fillColor="#ffffff"
       content="1. oktober">
     <bounds
-        x="740"
-        y="142"
+        x="624"
+        y="144"
         width="185"
-        height="80"/>
+        height="32"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
