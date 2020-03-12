@@ -357,6 +357,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-241bb475-9ca0-4df7-9519-4be2bfde56fc"
+      targetConnections="f84fab1c-98b0-4b6f-8c23-493b94c5ee70"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -371,40 +372,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-98d86b05-2f0b-4135-9494-d38d84ef4a3d"
-      targetConnections="id-bef654ba-a284-4c43-8803-bb022b72a33d"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffe0e0">
-    <bounds
-        x="312"
-        y="701"
-        width="133"
-        height="50"/>
-    <archimateElement
-        xsi:type="archimate:WorkPackage"
-        href="WorkPackage_id-8f708c83-87c6-405d-bcb2-7b2ae931db24.xml#id-8f708c83-87c6-405d-bcb2-7b2ae931db24"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-83945a0c-2885-4b84-9b22-38f34c9d5513"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-bef654ba-a284-4c43-8803-bb022b72a33d"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-83945a0c-2885-4b84-9b22-38f34c9d5513"
-        target="id-98d86b05-2f0b-4135-9494-d38d84ef4a3d">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-a53a688d-55ed-48aa-a8fe-5da2e6afea69.xml#id-a53a688d-55ed-48aa-a8fe-5da2e6afea69"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-23623f2d-5f96-498c-ad2b-a3f3257cc9ea"
@@ -424,6 +396,18 @@
         lineColor="#000000"
         source="id-83945a0c-2885-4b84-9b22-38f34c9d5513"
         target="id-9cb281e1-9f66-4121-bfb2-c1354d94adda"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-bef654ba-a284-4c43-8803-bb022b72a33d"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-83945a0c-2885-4b84-9b22-38f34c9d5513"
+        target="6a306414-2331-4fb1-824c-98ca291cf19a">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-a53a688d-55ed-48aa-a8fe-5da2e6afea69.xml#id-a53a688d-55ed-48aa-a8fe-5da2e6afea69"/>
+    </sourceConnections>
     <bounds
         x="163"
         y="721"
@@ -611,5 +595,22 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-ab4f3960-743d-4bc7-b16c-7a00f7d83602.xml#id-ab4f3960-743d-4bc7-b16c-7a00f7d83602"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6a306414-2331-4fb1-824c-98ca291cf19a"
+      targetConnections="id-bef654ba-a284-4c43-8803-bb022b72a33d">
+    <sourceConnections
+        id="f84fab1c-98b0-4b6f-8c23-493b94c5ee70"
+        source="6a306414-2331-4fb1-824c-98ca291cf19a"
+        target="id-241bb475-9ca0-4df7-9519-4be2bfde56fc"/>
+    <bounds
+        x="312"
+        y="696"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-07cb631e-f055-4ade-833d-8e69d00036fd.xml#id-07cb631e-f055-4ade-833d-8e69d00036fd"/>
   </children>
 </archimate:ArchimateDiagramModel>

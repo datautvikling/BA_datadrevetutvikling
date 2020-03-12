@@ -11,8 +11,8 @@
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
     <bounds
-        x="312"
-        y="408"
+        x="311"
+        y="390"
         width="175"
         height="70"/>
     <archimateElement
@@ -27,8 +27,8 @@
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
     <bounds
-        x="313"
-        y="285"
+        x="312"
+        y="336"
         width="175"
         height="55"/>
     <archimateElement
@@ -77,7 +77,7 @@
       fillColor="#f5deaa">
     <bounds
         x="311"
-        y="343"
+        y="276"
         width="175"
         height="61"/>
     <archimateElement
@@ -93,8 +93,8 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="1108"
-        y="4"
+        x="696"
+        y="48"
         width="240"
         height="55"/>
     <archimateElement
@@ -110,7 +110,7 @@
       fillColor="#f5deaa">
     <bounds
         x="312"
-        y="480"
+        y="459"
         width="175"
         height="85"/>
     <archimateElement
@@ -126,7 +126,7 @@
       fillColor="#f5deaa">
     <bounds
         x="312"
-        y="239"
+        y="233"
         width="175"
         height="43"/>
     <archimateElement
@@ -198,8 +198,8 @@
           href="AssociationRelationship_id-226e49bb-2117-49ea-a0b0-cb2559ba6bd7.xml#id-226e49bb-2117-49ea-a0b0-cb2559ba6bd7"/>
     </sourceConnections>
     <bounds
-        x="1144"
-        y="88"
+        x="732"
+        y="132"
         width="187"
         height="61"/>
     <archimateElement
@@ -317,8 +317,8 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="456"
-        y="48"
+        x="313"
+        y="22"
         width="188"
         height="55"/>
     <archimateElement
