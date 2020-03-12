@@ -1,0 +1,615 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DSOP"
+    id="id-c321509b-ab14-4518-84a6-b6e860ea312f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-377edd20-09a5-4c85-85d5-86d927ced60b"
+      targetConnections="id-f9be3871-0b77-4bdd-afb7-8bd57f9f9b57 id-66cf2c8b-0c72-4c20-95e4-978355d7e8e1"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <bounds
+        x="312"
+        y="24"
+        width="121"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-1cc75898.xml#id-1cc75898"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-458a63f5-e9a5-439b-809f-a21e4c6b4f7a"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Bakteppet her er de langsiktige proglemstillingene rundt utgifter og inntekter. Det er inntekter vi først og fremst trenger i fremtiden. Køen er kort. Utgiftene øker pga. befolkningssammensetningen. I dag: regner vi på hvor mye dyrere er det å levere de samme tenestene uten kvalitetshevninger: 2,5 mrd. Samt langtidsplaner - transport, forsvar. Ikke bra å bruke penger vi ikke har. Vi må effektivisere.&#xA;&#xA;De beste nyhetene på digitalisering er hvor mye bedre og effektiv tjenestene er blitt - spart på andre områder. Vi trenger mer ala. bolighandel og samtykkebasert lånesøknad&#xA;&#xA;En strategi: Noen problemstillinger går på tvers. Offentlig sektor - det som skjer *innenfor* en sektor er det mulig å få til, andre ganger kan gevinstene hentes ut kun når det gjøres på tvers. Problem for lederen som øker utgiftene... Vi har et ansvar for å se på tvers. Offentlig-Privat, Stat-kommune. Det vi legger til rette av digitale muligheter blir ikke tatt i bruk, stritter i mot og mangel på komptanse.&#xA;&#xA;Mer på tvers: Landet har fått en digitaliseringsminister. Porteføljen er det flere som henger sammen. Digital agenda - prinsipper og retninger. 1) dig. i offentlig sektor, 2) næringsliv og verdiskapning 3) digital infrastruktur (fysisk, nett, frekvens). Disse tre er nå samlet under en minister.&#xA;&#xA;Sektorene vil ikke gi fra seg sin digitalisering. Men utfordringen er å få de rverrgående virkemidlene til å fungere. Insentiver og mekanismer. Vi suboptimaliserer. Gevinsten kommer andre steder. Registrene - fordi man ikke blir belønnet som man gjør og andre har glede av. &#xA;&#xA;Lov og regelverksvask - digitalt førstevalg til og med - skrape i overflaten. En kjede som ellers ville fungert fint, ikke gjør det. Et ledd fungerer ikke. Prioritering. Kan være lurt å ha noen som ser på tvers.&#xA;&#xA;Gevinstrealisering. Det går ikke like bra. Fordi omstillingen som skal få det til, egentlig ikke handler om teknologi. En vanskelig lederoppgave og gi støtte til dette. &#xA;&#xA;Ande land: Går mye i å hente ut . Vi har opplysninger folk stoler på. Vi har veldig mye mer data vi kan bruke på fornufig måte. Med det som kreves av personvern, med semantisk samhandling. Lovgiverne mente at det skulle defineres forskjellig. Dette er ting vi må gjøre! Spennende. Bring videre til oss hva *vi* må gjøre&quot;.">
+    <sourceConnections
+        id="id-f9be3871-0b77-4bdd-afb7-8bd57f9f9b57"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-458a63f5-e9a5-439b-809f-a21e4c6b4f7a"
+        target="id-377edd20-09a5-4c85-85d5-86d927ced60b"/>
+    <bounds
+        x="444"
+        y="3"
+        width="1045"
+        height="370"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9e01e7cb-ed82-41a3-a4bb-882ea0de6730"
+      targetConnections="id-ad1df10b-ebab-4803-80c8-f003805aa9a7 id-d2f7347e-769c-4acd-b7db-bb35ed5f6f19"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <sourceConnections
+        id="id-7c17689a-14a1-43f2-b650-e0727e9d85e3"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-9e01e7cb-ed82-41a3-a4bb-882ea0de6730"
+        target="id-01eebce3-7f0e-4ebc-a137-bad446510ec6"/>
+    <sourceConnections
+        id="id-8592174a-69c0-4fc8-9366-81c1a3cdd817"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-9e01e7cb-ed82-41a3-a4bb-882ea0de6730"
+        target="id-1ef33b96-2bfd-4bea-95dc-1a058d58212a"/>
+    <bounds
+        x="313"
+        y="468"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-254a7121-9d37-476f-88eb-6bdd59e68796.xml#id-254a7121-9d37-476f-88eb-6bdd59e68796"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b4f99f67-2811-4ead-bbd7-20e8f22484e5"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <sourceConnections
+        id="id-6122940a-9644-4374-9e99-1e4e72f72c07"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-b4f99f67-2811-4ead-bbd7-20e8f22484e5"
+        target="id-167dcf70-e29e-4a03-8eb6-2652fa3f4dc4"/>
+    <bounds
+        x="312"
+        y="186"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-afefae03-1aa3-488b-87e9-797518e2b9aa.xml#id-afefae03-1aa3-488b-87e9-797518e2b9aa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4ba01a02-77cd-4106-a805-11b42abfddb9"
+      targetConnections="id-0eb2624c-ad64-4b5a-bf17-0b5ad9806365 id-d95dcd6a-81aa-4d1b-aacc-fe027ac68280"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <bounds
+        x="312"
+        y="552"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-1699d3c6-4398-4d55-bdb3-c82bcab0fcf2.xml#id-1699d3c6-4398-4d55-bdb3-c82bcab0fcf2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-597ec59a-c029-4d90-8582-13b607ffe602"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
+    <bounds
+        x="150"
+        y="594"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-9e72cf92-e275-4a0e-a0c5-0258c8254ef3.xml#id-9e72cf92-e275-4a0e-a0c5-0258c8254ef3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-01eebce3-7f0e-4ebc-a137-bad446510ec6"
+      targetConnections="id-7c17689a-14a1-43f2-b650-e0727e9d85e3"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="3.000.000 myndighetsvedtak i året i BRREG.">
+    <bounds
+        x="30"
+        y="540"
+        width="265"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-089cc28e-e0cf-4b0b-9ca8-5f777bddb8dc"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Hvorfor fungerer dette såpass godt. Vi sliter jo med det samme - ulike arkitekturer osv. Det som kjennetegner dette samarbeidet, er at vi dyrker frem de tingene vi er enige om. Mange av oss sitter trykt i våre siloer. Pragmatisk samspill er viktig. Utfordring for deg (Paul Chaffy). Pass på at ikke smaspillet mellom offentlgi privat blir borte. Det er noe av det unike vi har fått til. Tillit: Kommer ikke av seg selv. Her er det bygget et reelt tillitsbasert samarbeid. Hvis vi har problemer… ringer jeg til Lars Peder eller Hans Christian for å finne en løsning. &#xA;&#xA;Tydelig målbilde, tillitsbasert samarbeid og pragmatisk.&#xA;&#xA;Det som skaper resultater er flinke folk som har tid til å jobbe sammen. Det er en klar grense for hvor mange folk som klarer å jobbe samtidig. Vi må være lette nok i prosjektporeflåøljen til å klare å gjennomføre. Flinke folk er en flaskehals. &#xA;&#xA;Det er ikke slik at teknologien i utgangpsunktet setter begrensnignene. En ganske stor utfordring er at lover og regler er laget for en analog verden, og vi skal anvende det på digital verden. Teknologene står å venter. Noen bråstopp: &quot;Informasjon hentet inn til et formål, kan ikke brukes til et annet&quot;.">
+    <sourceConnections
+        id="id-0eb2624c-ad64-4b5a-bf17-0b5ad9806365"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-089cc28e-e0cf-4b0b-9ca8-5f777bddb8dc"
+        target="id-4ba01a02-77cd-4106-a805-11b42abfddb9"/>
+    <bounds
+        x="444"
+        y="408"
+        width="973"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1ef33b96-2bfd-4bea-95dc-1a058d58212a"
+      targetConnections="id-8592174a-69c0-4fc8-9366-81c1a3cdd817"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Det nyskapende var at vi satte oss ned på tvers… Tidligere var vi opptatt av det offentlige-offentlig.">
+    <bounds
+        x="30"
+        y="396"
+        width="271"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-167dcf70-e29e-4a03-8eb6-2652fa3f4dc4"
+      targetConnections="id-6122940a-9644-4374-9e99-1e4e72f72c07"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Mye begynner å rulle. Sundt at vi får opp prosjekter som nærmest tvinger seg fram pga. verdien. Vi må ha med noen gode prinsipper. Hvilke rammer tregner vi for å få dette til å fly. Hvilke prinsipper for deling av data tregner vi? Semantisk interoperabilitet - det sexy begrepet - Nordic forum for noen år siden. Gruppearbeid med statsministere... tema: Semantisk interoperabilitet. Sier noe om betydningen. Basic men så vankselig. Hvilke begreper bruker vi, hvor presise er de.  Og betydningen av lovverket. Og en skog av prosjekter vi ønsker å drive med. Vi har også klart å holde igjen. Kontrollinformasjon fra baneken. Dert er vi på gang. &lt;vi må lykkes med dette før vi lesser på med flere prosjekter.">
+    <bounds
+        x="30"
+        y="108"
+        width="271"
+        height="277"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a55c83e9-6e3b-42b0-99f3-3837cff9ca7f"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Komme vekk fra powerpoint til resultater. De gode løsnignene må komme fort. Vi lyktes bedre om vi er bedre på å levere.">
+    <sourceConnections
+        id="id-ad1df10b-ebab-4803-80c8-f003805aa9a7"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-a55c83e9-6e3b-42b0-99f3-3837cff9ca7f"
+        target="id-9e01e7cb-ed82-41a3-a4bb-882ea0de6730"/>
+    <bounds
+        x="30"
+        y="464"
+        width="271"
+        height="64"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ac3e4dd8-7568-413e-94dc-97c70e2a2b38"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="GDPR et hinder for digitalisering. Ja. Men kort sikt og lang sikt. Løsninger er avhenig av tillitt. Uten GDPR - vår jobb er å finne handlingsrommet innenfor regelverket. Ingenting sparer samfunnet for mer enn tillitt.">
+    <sourceConnections
+        id="id-66cf2c8b-0c72-4c20-95e4-978355d7e8e1"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-ac3e4dd8-7568-413e-94dc-97c70e2a2b38"
+        target="id-377edd20-09a5-4c85-85d5-86d927ced60b"/>
+    <bounds
+        x="36"
+        y="3"
+        width="265"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0afdcddd-8b51-466d-a95d-b49c53ef52c4"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Innsatsen til de offentlige etatene må synliggjøres på tildelingsbrev">
+    <sourceConnections
+        id="id-d95dcd6a-81aa-4d1b-aacc-fe027ac68280"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-0afdcddd-8b51-466d-a95d-b49c53ef52c4"
+        target="id-4ba01a02-77cd-4106-a805-11b42abfddb9"/>
+    <bounds
+        x="444"
+        y="564"
+        width="421"
+        height="26"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-83b8874f-3d7a-44f6-9947-5fdc866d9b59"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Vi må passe oss for å endre på modeller som fungerer.">
+    <sourceConnections
+        id="id-d2f7347e-769c-4acd-b7db-bb35ed5f6f19"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-83b8874f-3d7a-44f6-9947-5fdc866d9b59"
+        target="id-9e01e7cb-ed82-41a3-a4bb-882ea0de6730"/>
+    <bounds
+        x="444"
+        y="384"
+        width="421"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a161a307-2aef-46ed-a72a-f23e825514de"
+      targetConnections="id-d995e901-da1f-45b2-b539-4356be608f86 id-0a45264e-c366-4040-837c-22eaac3dae19"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <bounds
+        x="317"
+        y="624"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-e93cbd30-da61-433b-89e4-9564a6e8b692.xml#id-e93cbd30-da61-433b-89e4-9564a6e8b692"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bad6f9ce-cd9c-4341-a72b-105c381d5897"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="500.000 timer spart på samtykkebasert lånesøknad. Lang tid på kunden. Regulative krav. Tiden er over når kredittbehandlingen var basert på rådgiverns kunnskap om kunden og familien. Nå: innhenting av opplysninger. Har jobbet i 15 år med å digitalisere låneprosessen. Men har ikke tatt helt av. På det meste 3%. Kunden har mått finne fram informasjonen selv. Sende, ta med... Punshing. Digitalisering gjør det letter for oss å være GDPR complient. Mål: 90% starter digitalt. Vanligvis tar dette et par timer. 2:20 i dag. I februar: 73% startet digitalt. 12.000 søknader, 22 mrd. i omsøkte midler pr. mnd. &#xA;&#xA;Sparer kunden for 30 min. (Sparebank1 alene: 150.000 på kunde og bank). Fakta: Utlånsvolum på 1 mrd om dagen...">
+    <sourceConnections
+        id="id-d995e901-da1f-45b2-b539-4356be608f86"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-bad6f9ce-cd9c-4341-a72b-105c381d5897"
+        target="id-a161a307-2aef-46ed-a72a-f23e825514de"/>
+    <bounds
+        x="444"
+        y="594"
+        width="865"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f85ad792-6a50-41a0-84ba-266c583a9d15"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0a45264e-c366-4040-837c-22eaac3dae19"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-f85ad792-6a50-41a0-84ba-266c583a9d15"
+        target="id-a161a307-2aef-46ed-a72a-f23e825514de">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-c40da737-07f6-4bcd-98fa-aab596fa179d.xml#id-c40da737-07f6-4bcd-98fa-aab596fa179d"/>
+    </sourceConnections>
+    <bounds
+        x="163"
+        y="660"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-12a139df-cb53-46fb-9702-15d37ab9f5a2.xml#id-12a139df-cb53-46fb-9702-15d37ab9f5a2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-241bb475-9ca0-4df7-9519-4be2bfde56fc"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Kontrollinformasjon for Skatteetaten. Før var kilden opp til ett år gamle opplysninger. Skatteetaten spurte per post, epost (5 dagers svarfrist). Saksbehandkler benytter dataene. Opplysninger nå via KAR. På minutter. Mål: Hindre svart økonomi, arbeidslivskriminalitet. Over 150000 kontorllhevendelser sendes årlig., ca. 110.000 saldoforespørsler.&#xA;Tidslinje: November 2018: Oppstart av pilot,  Febuar 2019: Utvidelse&#xA;Erfaringer: &#xA;- rask stabil og enkel i bruk&#xA;- Dette som kan ta opptil 10 dager tar nå ett minutt&#xA;- Oppslag i ferdkse data i KAR gir verdi&#xA;Femover: Flere banker kommer på, ogd kvalitet. nok volum, samhandlingsprosesser&#xA;Lenger sikt: innføre løsningene til flere brukere og ffagområder. &#xA;ta steget videre - utnytte muligetene i digtialere løsninger for: bedre utvelsgelse av kontrollobjekter, utføre flere og riktigere kontrollhandlinger, automatisering av prosesser. Mer effektivt forebygge og bekjenmpe økonomisk- og arbeidslivskriminalitet. Forenkle for næringslivet.&#xA;&#xA;Når forventes det at øverige banker kommer på? Nordea 20.6&#xA;140 banker. 100-banker som">
+    <bounds
+        x="447"
+        y="696"
+        width="859"
+        height="241"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-98d86b05-2f0b-4135-9494-d38d84ef4a3d"
+      targetConnections="id-bef654ba-a284-4c43-8803-bb022b72a33d"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffe0e0">
+    <bounds
+        x="312"
+        y="701"
+        width="133"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-8f708c83-87c6-405d-bcb2-7b2ae931db24.xml#id-8f708c83-87c6-405d-bcb2-7b2ae931db24"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-83945a0c-2885-4b84-9b22-38f34c9d5513"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-bef654ba-a284-4c43-8803-bb022b72a33d"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-83945a0c-2885-4b84-9b22-38f34c9d5513"
+        target="id-98d86b05-2f0b-4135-9494-d38d84ef4a3d">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-a53a688d-55ed-48aa-a8fe-5da2e6afea69.xml#id-a53a688d-55ed-48aa-a8fe-5da2e6afea69"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-23623f2d-5f96-498c-ad2b-a3f3257cc9ea"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-83945a0c-2885-4b84-9b22-38f34c9d5513"
+        target="id-d99298ba-4405-4c62-8b77-f1759fc2e7de">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-0a98debe-4bd3-41a1-94cc-401f17c2c41e.xml#id-0a98debe-4bd3-41a1-94cc-401f17c2c41e"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-06519435-db09-40dc-87ff-7238fd50d9ba"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-83945a0c-2885-4b84-9b22-38f34c9d5513"
+        target="id-9cb281e1-9f66-4121-bfb2-c1354d94adda"/>
+    <bounds
+        x="163"
+        y="721"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-e19d2811-a29c-4e9a-986b-48ac47b26d0d.xml#id-e19d2811-a29c-4e9a-986b-48ac47b26d0d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d99298ba-4405-4c62-8b77-f1759fc2e7de"
+      targetConnections="id-23623f2d-5f96-498c-ad2b-a3f3257cc9ea"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <bounds
+        x="312"
+        y="768"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-d23252a9-fc74-458c-9981-210b21187514.xml#id-d23252a9-fc74-458c-9981-210b21187514"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9cb281e1-9f66-4121-bfb2-c1354d94adda"
+      targetConnections="id-06519435-db09-40dc-87ff-7238fd50d9ba id-d55f1995-a03e-45e4-a7e7-56fa63af3586"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="NAV kontroll. Hentet inn via brev til banke. 1-2 uker. Etter at kontoinformasjon må saksbehanleren gjøre ne manuell siling. Ny løsning. NAV kontroll får … kontoopplysninger og transaksjonshistorikk. &#xA;Samme informasjon som skatteetaen får. Hva er gevinstene for NAV?  Når betingelsene ikke lenger er oppfylt... Blir ytelsene stoppes, krav om tilbakebetaling, anmeldelse. Ca. 1000 personer hvert år blir anmeldt for trygdesvindel. For å avsløre mange av disse er vi avhngige av kontoinformasjon fra bankene.">
+    <bounds
+        y="828"
+        width="437"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5a6a8af2-405c-4eb3-8562-36c4d48608c7"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-811f5b14-e5c6-4dcf-b207-60913ece9a5d"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-5a6a8af2-405c-4eb3-8562-36c4d48608c7"
+        target="id-1f6bb3a1-fad3-4b67-b35c-b29641171a83">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-78b32254-e603-45ee-9d3c-6b9922a3f660.xml#id-78b32254-e603-45ee-9d3c-6b9922a3f660"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-d55f1995-a03e-45e4-a7e7-56fa63af3586"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-5a6a8af2-405c-4eb3-8562-36c4d48608c7"
+        target="id-9cb281e1-9f66-4121-bfb2-c1354d94adda"/>
+    <bounds
+        x="36"
+        y="732"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-8e8391b9-7b81-41cb-b746-907f6cd30773.xml#id-8e8391b9-7b81-41cb-b746-907f6cd30773"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1f6bb3a1-fad3-4b67-b35c-b29641171a83"
+      targetConnections="id-811f5b14-e5c6-4dcf-b207-60913ece9a5d"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <bounds
+        x="24"
+        y="648"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-c72c67d3-5c7b-41df-9ee6-1cf72ec15824.xml#id-c72c67d3-5c7b-41df-9ee6-1cf72ec15824"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-52069655-76c3-416a-863e-40ab406f6e9f"
+      targetConnections="id-7889c6d6-e2ef-4b3f-9726-3e69f6c8cb26 id-10cde9f8-68c7-4001-a79e-4aa93716adef"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <bounds
+        x="768"
+        y="949"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-5cece798-ca05-46af-9fad-ed941db90cd8.xml#id-5cece798-ca05-46af-9fad-ed941db90cd8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4498c770-df70-48e4-9480-98d0f275039b"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7889c6d6-e2ef-4b3f-9726-3e69f6c8cb26"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-4498c770-df70-48e4-9480-98d0f275039b"
+        target="id-52069655-76c3-416a-863e-40ab406f6e9f">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-0073ad80-1ad3-4ca1-99ab-a4b7f8c49084.xml#id-0073ad80-1ad3-4ca1-99ab-a4b7f8c49084"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-f4c35c23-d5fa-4929-a630-b2555f48c932"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-4498c770-df70-48e4-9480-98d0f275039b"
+        target="id-b2c618ef-2d55-4de5-82a3-a524b1a55938"/>
+    <bounds
+        x="612"
+        y="949"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-50ff4466-f17c-4954-b285-96aca1ff2331.xml#id-50ff4466-f17c-4954-b285-96aca1ff2331"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b2c618ef-2d55-4de5-82a3-a524b1a55938"
+      targetConnections="id-f4c35c23-d5fa-4929-a630-b2555f48c932"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="&quot;På et standarisert format&quot;. Legal virksomhet - benyttes av kriminelle. 130 finansinstitusjoner rapporterer i ulik format (PDF, tekstfiler og Excel). De har ingen felles mal for oppsett av kolonner. Informasjonsen politiet mottar varierer fra finansinstitusjon til finansintitusjon. Senes med ulike krypterte nøkler.&#xA;&#xA;Politiets rolle i smarte byer, hva er politiets rolle?">
+    <bounds
+        y="996"
+        width="437"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c11c66a6-6361-4cdd-bf95-10373dea4b65"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-10cde9f8-68c7-4001-a79e-4aa93716adef"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-c11c66a6-6361-4cdd-bf95-10373dea4b65"
+        target="id-52069655-76c3-416a-863e-40ab406f6e9f">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-cf0ab532-506e-4b96-afb6-a10ef9006d6a.xml#id-cf0ab532-506e-4b96-afb6-a10ef9006d6a"/>
+    </sourceConnections>
+    <bounds
+        x="612"
+        y="1008"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-ab4f3960-743d-4bc7-b16c-7a00f7d83602.xml#id-ab4f3960-743d-4bc7-b16c-7a00f7d83602"/>
+  </children>
+</archimate:ArchimateDiagramModel>

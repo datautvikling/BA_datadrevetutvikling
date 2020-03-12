@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forutse konkurs og nedbemanninger"
+    id="id-4fd08fa8-cb7e-49d0-9654-d87719582b2f"
+    documentation="En fransk case study: Predict the risk of companies heading toward bankruptcy. Signaux Faibles (Weak Signals) is based on a variety of data from taxation, social security, employment and other systems. It is geared toward detecting problems faced by small- and medium-sized enterprises that often wait too long before seeking government support. The tool helps public authorities anticipate and look for ways to prevent the traditional catalyst for the “job loss” life event, which occurs when a company plans for workforce reduction or is going bankrupt (see Figure 6). Since 2018, the  product has been piloted in one region of France and is now gradually being rolled out across the entire country. The algorithm and documentation about the development process is publicly available. Kilde: Gartner Livs hendelser -digital_government_in_action_448005.pdf"/>

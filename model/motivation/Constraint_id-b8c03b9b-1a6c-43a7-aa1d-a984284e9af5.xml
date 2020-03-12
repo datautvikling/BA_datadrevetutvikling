@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data dictionary som forer PDT-er (dataordbok)"
+    id="id-b8c03b9b-1a6c-43a7-aa1d-a984284e9af5"
+    documentation="centralized repository of information about data such as meaning, relationships to other data, origin, usage and format"/>

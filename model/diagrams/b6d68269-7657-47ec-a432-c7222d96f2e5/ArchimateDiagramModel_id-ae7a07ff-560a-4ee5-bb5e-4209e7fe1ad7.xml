@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPS Fiskeri"
+    id="id-ae7a07ff-560a-4ee5-bb5e-4209e7fe1ad7">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7add435f-c817-4fa7-8c3d-2555c23be7fb"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <bounds
+        x="204"
+        y="84"
+        width="340"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-6a3d4670-1632-466c-91b0-733a1cbd9cf7.xml#id-6a3d4670-1632-466c-91b0-733a1cbd9cf7"/>
+  </children>
+</archimate:ArchimateDiagramModel>

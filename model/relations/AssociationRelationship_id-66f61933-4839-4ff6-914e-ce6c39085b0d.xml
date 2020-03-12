@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="krever"
+    id="id-66f61933-4839-4ff6-914e-ce6c39085b0d">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-bb11a494-19ff-4e41-8a16-acaccf2e017c.xml#id-bb11a494-19ff-4e41-8a16-acaccf2e017c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-11b307f8-c1c6-4864-a972-9ac577f5f05b.xml#id-11b307f8-c1c6-4864-a972-9ac577f5f05b"/>
+</archimate:AssociationRelationship>

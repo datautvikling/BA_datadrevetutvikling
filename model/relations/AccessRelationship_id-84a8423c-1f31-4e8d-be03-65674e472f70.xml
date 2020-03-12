@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REST (Åpne data)"
+    id="id-84a8423c-1f31-4e8d-be03-65674e472f70"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d23252a9-fc74-458c-9981-210b21187514.xml#id-d23252a9-fc74-458c-9981-210b21187514"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e218938f-9fbc-413f-8477-a684c1ae669f.xml#id-e218938f-9fbc-413f-8477-a684c1ae669f"/>
+</archimate:AccessRelationship>

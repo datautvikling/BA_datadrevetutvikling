@@ -1,0 +1,5 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Selskapsetablering"
+    id="id-9fdfa703-6ac3-43db-8d3f-cddaf645ffb6"
+    documentation="Informasjon om virkosmheten, eier/eiere (kontaktinfo og/eller org.nr. med eierandel)&#xA;Navn...&#xA;&#xA;Demo fra Evry:&#xA;0. BankID (fnr,) --- > legg til kontaktinformasjon (epost og mobil)&#xA;1. lage stiftelsesdokumenter og stifte selskapet  (navn&lt;-- sjekk om navnet er i bruk fra før, stiftelsesdato, formål, ) &lt;&lt;--- søk fram selskaper -->>&#xA;2. selskapet oppretter kundeforhold i bank (AML sjekk,  skatterapportering, reelle rettighetshavere)&#xA;3. Innbetaling  av aksjekapital&#xA;4. Vi sender samordnet registermelding til Brønnøysund som tildeler orgnr."/>

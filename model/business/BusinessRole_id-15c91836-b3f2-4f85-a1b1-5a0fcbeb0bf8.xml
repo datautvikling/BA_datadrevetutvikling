@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkivvleverandører (Acos)"
+    id="id-15c91836-b3f2-4f85-a1b1-5a0fcbeb0bf8"
+    documentation="Acos Websak og Acos skjemdesigner - som brukes av mange kommuner – har funksjonalitet for oppslag mot enhetsregisteret&#xA;er antageligvis en rekke fagsystem i bruk hos kommuner og andre som etterhvert kommer med ferdig integrasjon mot enhetsregisteret ."/>

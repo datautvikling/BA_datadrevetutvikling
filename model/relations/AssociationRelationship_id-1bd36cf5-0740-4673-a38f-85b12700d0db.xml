@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="registrerer"
+    id="id-1bd36cf5-0740-4673-a38f-85b12700d0db">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-11b307f8-c1c6-4864-a972-9ac577f5f05b.xml#id-11b307f8-c1c6-4864-a972-9ac577f5f05b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-93a54c9c-7f1c-4a6e-b469-b5487c24d706.xml#id-93a54c9c-7f1c-4a6e-b469-b5487c24d706"/>
+</archimate:AssociationRelationship>

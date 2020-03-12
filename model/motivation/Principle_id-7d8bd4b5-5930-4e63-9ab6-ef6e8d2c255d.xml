@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personopplysninger"
+    id="id-7d8bd4b5-5930-4e63-9ab6-ef6e8d2c255d"
+    documentation="Det skilles mellom data med og uten persnoopplysninger. &#xA;&#xA;Kan dataen eknytts til en enkelptperson vil som hovedregel personsopplysningsloven og GDPR forordningen komme til anvendelse.&#xA;&#xA;Det vil dat i de fleste tilfellene være strenge føringer på hvordan datene kan brukes, og det kreves blant annet et konkret behandlingsgrunnlag (f.eks,. samtykke eller avtale)."/>

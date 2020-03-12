@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FTP"
+    id="id-bf7fb075-bf44-4c56-904f-3f788f77786b"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d23252a9-fc74-458c-9981-210b21187514.xml#id-d23252a9-fc74-458c-9981-210b21187514"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2dfc9162-8aa3-457d-948d-cd0b7dbc4a19.xml#id-2dfc9162-8aa3-457d-948d-cd0b7dbc4a19"/>
+</archimate:AccessRelationship>

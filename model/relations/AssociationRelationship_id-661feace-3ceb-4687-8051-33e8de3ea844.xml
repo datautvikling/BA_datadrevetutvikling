@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="logisk datamodell"
+    id="id-661feace-3ceb-4687-8051-33e8de3ea844">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c7e93a07-a405-4683-9165-252c71c90b1b.xml#id-c7e93a07-a405-4683-9165-252c71c90b1b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-77e93bf3.xml#id-77e93bf3"/>
+</archimate:AssociationRelationship>

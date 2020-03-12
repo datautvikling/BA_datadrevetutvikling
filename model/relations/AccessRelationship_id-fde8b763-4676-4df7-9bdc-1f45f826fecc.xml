@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FTP"
+    id="id-fde8b763-4676-4df7-9bdc-1f45f826fecc"
+    documentation="Jegerregisteret har årlig utveksling med SSB."
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d54944a0.xml#id-d54944a0"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8182fc16-2852-46f8-977b-52c90ad89b7d.xml#id-8182fc16-2852-46f8-977b-52c90ad89b7d"/>
+</archimate:AccessRelationship>

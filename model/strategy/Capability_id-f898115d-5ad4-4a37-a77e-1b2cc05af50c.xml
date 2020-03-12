@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.7 Sikre riktig datakvalitet til aktuelt formål"
+    id="id-f898115d-5ad4-4a37-a77e-1b2cc05af50c"
+    documentation="Datakvalitet i den enkelte datakilden er generelt god til formålet. Men datadeling til nye formål, hos nye aktører kan gi et helt annet bilde av datakvaliteten. Hvordan går vi fram for å øke kvaliteten?"/>

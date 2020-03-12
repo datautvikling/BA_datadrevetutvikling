@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FTP"
+    id="id-a4e78778-4074-4a6b-821a-ca1691bd9dc5"
+    documentation="Grasrotandelen"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-a773b9fd-f541-4e08-8ba3-b3257d550a63.xml#id-a773b9fd-f541-4e08-8ba3-b3257d550a63"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-f59cd31f-0575-4e6d-8f3c-57528aa1f28e.xml#id-f59cd31f-0575-4e6d-8f3c-57528aa1f28e"/>
+</archimate:AccessRelationship>
