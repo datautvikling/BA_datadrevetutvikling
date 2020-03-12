@@ -4,8 +4,8 @@
     id="id-f7c038d0-ffa7-4667-bb52-6e5a3e51a90a"
     accessType="1">
   <source
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-1c745992.xml#id-1c745992"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c72c67d3-5c7b-41df-9ee6-1cf72ec15824.xml#id-c72c67d3-5c7b-41df-9ee6-1cf72ec15824"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-d57caa1e-3d48-44d2-a85c-00b05260b7f0.xml#id-d57caa1e-3d48-44d2-a85c-00b05260b7f0"/>
