@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2019"
+    id="f9c5210d-5c2b-4f54-9f96-00cc1c660247">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-4ab93c2b-6615-4ae1-bfd1-83ffa3ad87e6.xml#id-4ab93c2b-6615-4ae1-bfd1-83ffa3ad87e6"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-9c61fd8d-5c7f-4a8b-8316-2eb6334f3f6b.xml#id-9c61fd8d-5c7f-4a8b-8316-2eb6334f3f6b"/>
+</archimate:RealizationRelationship>

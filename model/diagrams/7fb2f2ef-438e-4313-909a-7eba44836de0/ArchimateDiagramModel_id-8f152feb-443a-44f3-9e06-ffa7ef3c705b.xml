@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OPS Bygg Prosjekter"
+    name="OPS Bygg Tiltak"
     id="id-8f152feb-443a-44f3-9e06-ffa7ef3c705b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

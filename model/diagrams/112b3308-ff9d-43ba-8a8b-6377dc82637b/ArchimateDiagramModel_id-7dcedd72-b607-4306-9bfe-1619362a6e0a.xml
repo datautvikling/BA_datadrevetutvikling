@@ -1594,7 +1594,7 @@
           x="15"
           y="119"
           width="151"
-          height="32"/>
+          height="44"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-64739e83-f04a-4bb8-aa2e-4788f71f237c.xml#id-64739e83-f04a-4bb8-aa2e-4788f71f237c"/>
@@ -2372,8 +2372,8 @@
         lineColor="#5c5c5c"
         fillColor="#f5deaa">
       <bounds
-          x="2527"
-          y="188"
+          x="2532"
+          y="122"
           width="164"
           height="113"/>
       <children
