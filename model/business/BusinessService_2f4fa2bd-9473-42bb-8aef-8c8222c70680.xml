@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sykepenger"
+    id="2f4fa2bd-9473-42bb-8aef-8c8222c70680"
+    documentation="Sykepenger erstatter arbeidsinntekt når du ikke kan jobbe på grunn av sykdom eller skade.&#xA;Arbeidgiver betaler de 16 første dagene, Nav betaler deretter. &#xA;&#xA;Sykepenger til selvstendig næringsdrivende og frilansere: &#xA;Du har rett til sykepenger fra 17. fraværsdag. De første 16 kalenderdagene kan du få sykepenger hvis du har tegnet forsikring."/>

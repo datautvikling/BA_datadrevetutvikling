@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="innvilget 2020"
+    id="12676fdc-95c1-4300-85ab-63efca3acdcf">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_af9fe3c6-981b-4cc7-9bde-eb5dd66c0583.xml#af9fe3c6-981b-4cc7-9bde-eb5dd66c0583"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_3c04b656-2ebb-489e-8b2d-271de576c513.xml#3c04b656-2ebb-489e-8b2d-271de576c513"/>
+</archimate:RealizationRelationship>
