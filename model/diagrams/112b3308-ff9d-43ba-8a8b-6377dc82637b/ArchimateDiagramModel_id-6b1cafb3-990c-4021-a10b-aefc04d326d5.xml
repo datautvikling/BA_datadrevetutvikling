@@ -1131,8 +1131,8 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="3360"
-        width="1933"
+        x="2418"
+        width="3053"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -2569,7 +2569,7 @@
       fillColor="#ffffb5">
     <bounds
         x="329"
-        width="3020"
+        width="2080"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
