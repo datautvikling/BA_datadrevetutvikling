@@ -1,11 +1,11 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C - Drivefase Steg 02 kvalifikasjonskrav anbud"
-    id="78f816fc-e15a-4ff1-bff8-065c4a5af3fa">
+    name="C - Drivefase Steg 17 nedbemanning"
+    id="c6127b56-7e4e-401a-a1c8-2604429ec10f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="8fbeef7e-afb8-45dc-a8d1-5c291b27d20e"
+      id="86c745a7-810d-4e8b-9166-c97379026eaf"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -21,7 +21,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="aea6d02b-c5b1-4ce3-b658-27ddfba0b2c8"
+      id="2693c477-7957-4ba7-be22-bd07e49c2259"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -36,7 +36,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="1c338f1f-3ea9-4cf8-ae3c-528114f14891"
+      id="1b4b0b64-1686-45c1-96f7-7ebf5d22181f"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -51,7 +51,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="f2d60050-0434-4391-a455-f39192fe8966"
+      id="9191a881-7d7a-4bf2-9284-4cff7ee95a68"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -66,50 +66,34 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="4523ea58-a94d-44b7-8d56-591b1e147b22"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#fdef2b">
-    <bounds
-        x="87"
-        y="138"
-        width="151"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-ed7869de-9227-44ee-b736-07911d6e5984.xml#id-ed7869de-9227-44ee-b736-07911d6e5984"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="fca1f3aa-e11d-4c3d-a3c2-7abe49cf1586"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#fffbe8">
-    <bounds
-        x="89"
-        y="207"
-        width="147"
-        height="69"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-fdcc6f51-f399-41c2-bf7b-c28a3bf5aa89.xml#id-fdcc6f51-f399-41c2-bf7b-c28a3bf5aa89"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="95ac1c7b-9d51-4363-b3d7-ddea342c9e3b"
+      id="771000b7-3ff8-403e-9b44-9bf1ee4c6491"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="84"
+        x="78"
+        y="141"
+        width="153"
+        height="59"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-4fd08fa8-cb7e-49d0-9654-d87719582b2f.xml#id-4fd08fa8-cb7e-49d0-9654-d87719582b2f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c685154c-9dc5-4f65-8987-cf50d3944e2b"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <bounds
+        x="72"
         y="60"
-        width="157"
+        width="165"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-5dd712df-7a24-425a-a8b9-508170a8eec4.xml#id-5dd712df-7a24-425a-a8b9-508170a8eec4"/>
+        href="BusinessProcess_id-4eab1ca3-8bbe-4ab4-8e9d-461a86fe35e4.xml#id-4eab1ca3-8bbe-4ab4-8e9d-461a86fe35e4"/>
   </children>
 </archimate:ArchimateDiagramModel>
