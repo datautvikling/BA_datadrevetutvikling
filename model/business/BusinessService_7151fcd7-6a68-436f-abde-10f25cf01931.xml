@@ -1,5 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Levere a-melding (månedlig) (copy)"
-    id="7151fcd7-6a68-436f-abde-10f25cf01931"
-    documentation="Etter første innmelding i Aa-registeret skal virksomheten sende melding hver gang et arbeidsforhold begynner eller avsluttes, ved varig endring av de registrerte opplysningene om arbeidstid, yrkestittel (yrkeskode) og arbeidssted (avdeling)."/>

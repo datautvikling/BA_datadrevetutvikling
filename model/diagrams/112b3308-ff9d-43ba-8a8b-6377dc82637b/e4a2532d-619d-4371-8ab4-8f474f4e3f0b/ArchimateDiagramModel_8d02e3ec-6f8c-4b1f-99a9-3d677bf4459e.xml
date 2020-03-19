@@ -62,7 +62,7 @@
         x="-72"
         y="539"
         width="132"
-        height="384"/>
+        height="98"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -115,6 +115,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c03cf2b4-9f9b-4c93-b99e-3f7b0162937d"
+      targetConnections="58cc3451-1295-438d-81de-055d2adb3b10"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -123,7 +124,28 @@
         x="258"
         y="148"
         width="153"
-        height="55"/>
+        height="101"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="899195cf-b998-4316-92a6-20eb8dc53b53">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="58cc3451-1295-438d-81de-055d2adb3b10"
+          source="899195cf-b998-4316-92a6-20eb8dc53b53"
+          target="c03cf2b4-9f9b-4c93-b99e-3f7b0162937d">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_c437220c-9a90-4269-afb9-8ebca1de19c1.xml#c437220c-9a90-4269-afb9-8ebca1de19c1"/>
+      </sourceConnections>
+      <bounds
+          x="6"
+          y="54"
+          width="142"
+          height="39"/>
+      <archimateElement
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_id-85e0d52e-1714-402c-9d18-fdf28509f205.xml#id-85e0d52e-1714-402c-9d18-fdf28509f205"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-e7590379-556d-43de-91d6-55964404d6f1.xml#id-e7590379-556d-43de-91d6-55964404d6f1"/>
