@@ -162,7 +162,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-69ee0e6e-f1f9-4010-97de-c5fd7d858269"
-        targetConnections="id-4e691ced-e565-4117-9735-11566c25ec05 43df1f47-9b36-4f9a-9e80-e61c395421f0 d2f73eb5-adbc-4c10-9933-b3cdfe907b34"
+        targetConnections="43df1f47-9b36-4f9a-9e80-e61c395421f0 d2f73eb5-adbc-4c10-9933-b3cdfe907b34"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
         lineColor="#5c5c5c"
@@ -498,28 +498,6 @@
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
         href="BusinessCollaboration_id-743dd2e6-772e-45cf-90d7-d348813b59a2.xml#id-743dd2e6-772e-45cf-90d7-d348813b59a2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-3ffd819b-f070-459b-8723-9c60b6d54622"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Medfinansieringssøknad 2020">
-    <sourceConnections
-        id="id-4e691ced-e565-4117-9735-11566c25ec05"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-3ffd819b-f070-459b-8723-9c60b6d54622"
-        target="id-69ee0e6e-f1f9-4010-97de-c5fd7d858269"/>
-    <bounds
-        x="646"
-        y="180"
-        width="193"
-        height="30"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
