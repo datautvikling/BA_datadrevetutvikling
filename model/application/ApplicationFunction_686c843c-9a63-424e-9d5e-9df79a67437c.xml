@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Visuell presentasjon"
-    id="686c843c-9a63-424e-9d5e-9df79a67437c"/>
+    id="686c843c-9a63-424e-9d5e-9df79a67437c"
+    documentation="tilgang og autorisasjon (sikker innlogging, avtale/samtykke, fullmakt)&#xA;økonomisk oversik (vis oversikt, mitt budsjett, del oversikt)&#xA;digital dialog (meldingssenter, chat, video)"/>
