@@ -114,7 +114,7 @@
         fillColor="#f5deaa">
       <bounds
           x="228"
-          y="184"
+          y="234"
           width="221"
           height="85"/>
       <archimateElement
@@ -167,7 +167,7 @@
           x="228"
           y="120"
           width="221"
-          height="63"/>
+          height="115"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
           href="CourseOfAction_id-9c61fd8d-5c7f-4a8b-8316-2eb6334f3f6b.xml#id-9c61fd8d-5c7f-4a8b-8316-2eb6334f3f6b"/>

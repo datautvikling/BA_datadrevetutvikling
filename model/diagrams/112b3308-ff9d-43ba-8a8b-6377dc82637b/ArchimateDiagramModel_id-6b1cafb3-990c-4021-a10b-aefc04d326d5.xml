@@ -2623,4 +2623,16 @@
         xsi:type="archimate:BusinessService"
         href="BusinessService_ee0b40aa-8039-460e-a39e-ebac44ed5661.xml#ee0b40aa-8039-460e-a39e-ebac44ed5661"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b5959986-de7d-4bd7-99b8-594623c628eb">
+    <bounds
+        x="1389"
+        y="678"
+        width="166"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_0e2b4eec-7d45-4977-9838-9c6a6f415bc1.xml#0e2b4eec-7d45-4977-9838-9c6a6f415bc1"/>
+  </children>
 </archimate:ArchimateDiagramModel>
