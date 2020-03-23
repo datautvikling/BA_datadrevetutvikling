@@ -49,7 +49,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-253a1e7c-3ad8-4907-99f8-4369acb1af49"
-      targetConnections="id-9196e266-9258-4a58-80bc-bf9dd27f63be"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -2342,23 +2341,6 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-9196e266-9258-4a58-80bc-bf9dd27f63be"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-f08a8aee-c4e7-4e64-8d8d-79a0d0c610bd"
-        target="id-253a1e7c-3ad8-4907-99f8-4369acb1af49">
-      <bendpoints
-          startX="14"
-          startY="388"
-          endX="6"
-          endY="-55"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-48ca0d1b-cb83-46b0-8e43-ff9036ec67a5.xml#id-48ca0d1b-cb83-46b0-8e43-ff9036ec67a5"/>
-    </sourceConnections>
     <bounds
         x="5131"
         y="149"

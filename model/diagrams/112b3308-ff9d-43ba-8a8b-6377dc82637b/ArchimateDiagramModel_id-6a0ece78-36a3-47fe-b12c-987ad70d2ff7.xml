@@ -2442,7 +2442,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-08693e13-db5e-4c1d-99c8-338ac0faf9c3"
-        targetConnections="36cd23eb-5c45-4761-b502-4f5cf3864ab6 285d984f-50a1-4801-ab88-92c5681b2770"
+        targetConnections="36cd23eb-5c45-4761-b502-4f5cf3864ab6"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
         lineColor="#5c5c5c"
@@ -2459,15 +2459,6 @@
           fontColor="#000000"
           lineColor="#5c5c5c"
           fillColor="#ffffb5">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="285d984f-50a1-4801-ab88-92c5681b2770"
-            source="id-f2970f99-47ef-410c-a3c8-721a66185b1f"
-            target="id-08693e13-db5e-4c1d-99c8-338ac0faf9c3">
-          <archimateRelationship
-              xsi:type="archimate:RealizationRelationship"
-              href="RealizationRelationship_id-48ca0d1b-cb83-46b0-8e43-ff9036ec67a5.xml#id-48ca0d1b-cb83-46b0-8e43-ff9036ec67a5"/>
-        </sourceConnections>
         <bounds
             x="8"
             y="54"
