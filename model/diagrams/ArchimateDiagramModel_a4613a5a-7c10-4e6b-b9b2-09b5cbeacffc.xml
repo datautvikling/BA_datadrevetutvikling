@@ -151,9 +151,9 @@
       targetConnections="376f638a-1ffa-4ee5-b5a1-4f4505b1fc28">
     <bounds
         x="312"
-        y="46"
+        y="60"
         width="217"
-        height="55"/>
+        height="41"/>
     <archimateElement
         xsi:type="archimate:CourseOfAction"
         href="CourseOfAction_id-586edfc9-5399-4447-8183-2075df9a8c95.xml#id-586edfc9-5399-4447-8183-2075df9a8c95"/>
@@ -179,7 +179,7 @@
         x="312"
         y="174"
         width="217"
-        height="55"/>
+        height="43"/>
     <archimateElement
         xsi:type="archimate:CourseOfAction"
         href="CourseOfAction_id-7980c9e8-f29e-418a-9227-f5534b256042.xml#id-7980c9e8-f29e-418a-9227-f5534b256042"/>
@@ -224,10 +224,10 @@
           href="AssociationRelationship_id-a0bcb457-fa86-456d-83c6-9b39f479b640.xml#id-a0bcb457-fa86-456d-83c6-9b39f479b640"/>
     </sourceConnections>
     <bounds
-        x="-99"
+        x="-112"
         y="240"
-        width="120"
-        height="55"/>
+        width="133"
+        height="85"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-25d59a13-96d1-471c-9057-5c5b789fb200.xml#id-25d59a13-96d1-471c-9057-5c5b789fb200"/>
