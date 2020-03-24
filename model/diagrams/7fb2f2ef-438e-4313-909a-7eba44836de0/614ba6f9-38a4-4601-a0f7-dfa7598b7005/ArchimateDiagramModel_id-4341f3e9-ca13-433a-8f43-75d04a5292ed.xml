@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OPS Bygg Grunn - Møte 1"
+    name="Grunn - Møte 1"
     id="id-4341f3e9-ca13-433a-8f43-75d04a5292ed">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -416,7 +416,7 @@
         x="146"
         y="522"
         width="239"
-        height="55"/>
+        height="67"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-6a9b5cd1-b2c3-48fa-9f72-226435392e3e.xml#id-6a9b5cd1-b2c3-48fa-9f72-226435392e3e"/>
