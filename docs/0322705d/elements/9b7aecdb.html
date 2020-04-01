@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Regelverkshjelpen</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+		<div class="panel-heading root-panel-heading">
+			<b>Regelverkshjelpen</b>
+			(<span class="i18n-elementtype-WorkPackage"></span>)
+			<a class="glyphicon glyphicon-info-sign" id="hint-WorkPackage" target="hint"></a>
+		</div>
+		<div class="panel-body root-panel-body">
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none">Regelverkshjelpen er et &#171;IKT-verkt&#248;y ("system") for de som skriver lov- og forskriftstekster. Verkt&#248;yet skal hjelpe dem &#229; skrive enkelt spr&#229;k ved f.eks. &#229; varsle om bruk av gammeldagse ord, lange setninger osv. Det skal ogs&#229; gis hjelp til &#229; sette teksten riktig opp, gi entydige henvisninger osv. Et tredje element vil v&#230;re hjelp til &#229; velge og analysere sentrale begreper, om mulig slik at det blir god sammenheng mellom ulike lover. &#216;nsker en &#229; bruke "samboer" vil verkt&#248;yet for eksempel varsle om forekomster og definisjoner av dette ordet i andre lover. Slik kan vi unng&#229; at en kan v&#230;re samboer etter &#233;n lov, men ikke etter en annen beslektet lov. Ogs&#229; en rekke andre funksjoner vil inng&#229; i Regelverkshjelpen&#187;.
+ 
+Som du ser, s&#229; er Regelverkshjelpen f&#248;rst og fremst et verkt&#248;y i utforming av lov og forskrift. Dersom man skriver ordet &#171;samboer&#187; vil man f&#229; opp alle legaldefinisjoner av ordet. Det ble under seminaret p&#229;pekt at det er jo mange begreper som ikke er legaldefinert, men som det finnes en eller flere definisjoner av, for eksempel i forarbeider, rundskriv eller hos forvaltningen. Det ble diskutert at slike definisjoner ogs&#229; b&#248;r kunne finnes i Regelverkshjelpen, og SERES ble ogs&#229; nevnt. Uten at jeg helt kan peke p&#229; hvordan, s&#229; ser jeg at det muligens er noen koblinger mellom informasjonsforvaltningsarbeidet som vi er begynt med og dette.</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
