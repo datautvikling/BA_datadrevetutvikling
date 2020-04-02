@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="B - Etableringsfase Steg 06-08 registrere, digital etterlevelse, oppstart"
+    name="B - Etableringsfase Steg 06-07 registrere, digital etterlevelse"
     id="17fd48d4-a70b-450e-a4de-7787e6095603">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -53,65 +53,11 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        width="715"
+        width="541"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-9ee94c99-0309-4976-82a6-858e3c457610.xml#id-9ee94c99-0309-4976-82a6-858e3c457610"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="3550f071-6a41-4604-8f9e-a6a2b74312a4"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
-    <bounds
-        x="693"
-        y="227"
-        width="175"
-        height="31"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-c374885e-e65f-4786-9e5f-95e91b373c80.xml#id-c374885e-e65f-4786-9e5f-95e91b373c80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="2ca993cc-9c0f-4b28-bacc-b04676582605"
-      targetConnections="a98aaec8-8f28-42cc-a80a-71616286ca87"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#fdef2b">
-    <bounds
-        x="693"
-        y="144"
-        width="175"
-        height="77"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="3ee83ec8-5b04-4411-b817-166e36b0bd61">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="a98aaec8-8f28-42cc-a80a-71616286ca87"
-          source="3ee83ec8-5b04-4411-b817-166e36b0bd61"
-          target="2ca993cc-9c0f-4b28-bacc-b04676582605">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-a580b15b-5bb3-424a-afad-329f95e8e49d.xml#id-a580b15b-5bb3-424a-afad-329f95e8e49d"/>
-      </sourceConnections>
-      <bounds
-          x="10"
-          y="35"
-          width="156"
-          height="39"/>
-      <archimateElement
-          xsi:type="archimate:BusinessRole"
-          href="BusinessRole_id-85e0d52e-1714-402c-9d18-fdf28509f205.xml#id-85e0d52e-1714-402c-9d18-fdf28509f205"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-62edb315-1ea6-49c1-b47f-43216b4740e9.xml#id-62edb315-1ea6-49c1-b47f-43216b4740e9"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -593,22 +539,6 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-06dfddcc-734a-4c50-a413-6c81eebaf6d6.xml#id-06dfddcc-734a-4c50-a413-6c81eebaf6d6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="f6a2180c-d90f-4d32-88cd-1e37c3422649"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
-    <bounds
-        x="702"
-        y="60"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-c1c375c0-db12-46d7-9992-f7f2d91eecd5.xml#id-c1c375c0-db12-46d7-9992-f7f2d91eecd5"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
