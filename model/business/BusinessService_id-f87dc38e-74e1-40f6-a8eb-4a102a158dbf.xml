@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tjenestepensjon"
-    id="id-f87dc38e-74e1-40f6-a8eb-4a102a158dbf"/>
+    id="id-f87dc38e-74e1-40f6-a8eb-4a102a158dbf"
+    documentation="Tjenestepensjoner er pensjonsordninger som tjenes opp i arbeidsforhold. Alle arbeidstakere, både i offentlig og privat sektor, er omfattet av en tjenestepensjonsordning. "/>

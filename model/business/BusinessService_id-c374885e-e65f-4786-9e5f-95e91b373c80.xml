@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Åpningsbalanse"
-    id="id-c374885e-e65f-4786-9e5f-95e91b373c80"/>
+    id="id-c374885e-e65f-4786-9e5f-95e91b373c80"
+    documentation="Nyetablerte aksjeselskap må legge inn en inngående balanse i regnskapet (også kalt åpningsbalanse). "/>
