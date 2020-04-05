@@ -190,7 +190,7 @@
     <bounds
         y="-33"
         width="132"
-        height="121"/>
+        height="128"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -350,7 +350,7 @@
       fillColor="#ffffb5">
     <bounds
         x="326"
-        y="32"
+        y="40"
         width="157"
         height="55"/>
     <archimateElement
@@ -1247,9 +1247,9 @@
         target="e0f1d025-e361-4dcf-8c75-bb3ba52507c7">
       <bendpoints
           startX="88"
-          startY="58"
-          endX="88"
-          endY="-309"/>
+          startY="-14"
+          endX="94"
+          endY="-576"/>
       <bendpoints
           startX="88"
           startY="550"
@@ -2282,7 +2282,7 @@
       fillColor="#ffffb5">
     <bounds
         x="494"
-        y="32"
+        y="39"
         width="157"
         height="55"/>
     <archimateElement
@@ -2298,7 +2298,7 @@
       fillColor="#ffffb5">
     <bounds
         x="671"
-        y="32"
+        y="39"
         width="157"
         height="55"/>
     <archimateElement
@@ -2314,7 +2314,7 @@
       fillColor="#ffffb5">
     <bounds
         x="851"
-        y="32"
+        y="39"
         width="157"
         height="55"/>
     <archimateElement
@@ -4183,7 +4183,7 @@
       fillColor="#ffffb5">
     <bounds
         x="156"
-        y="30"
+        y="40"
         width="151"
         height="55"/>
     <archimateElement
@@ -4488,7 +4488,7 @@
       fillColor="#ffffff">
     <bounds
         x="329"
-        y="467"
+        y="450"
         width="151"
         height="94"/>
     <children
