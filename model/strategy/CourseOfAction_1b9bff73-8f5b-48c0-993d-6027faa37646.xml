@@ -1,0 +1,5 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sentraliserte infratrukturer (for eksempel &quot;data lakes&quot;)"
+    id="1b9bff73-8f5b-48c0-993d-6027faa37646"
+    documentation="Sentraliserte dataplattformer innebærer at alle partenes datasett blir lagret hos en sentral aktør. Plattformleverandøren tilpasser aktørenes data til sine egne dataformater og datamodeller, slik at data kan kontekstualiseres, integreres, berikes og tilgjengeliggjøres for kunnskapsintensive analyse- og simuleringsprosesser som kunstig intelligens, eller digitale tvillinger. Aktørenes data styres, forvaltes og brukes i tråd med forretningslogikken til plattformleverandøren og dens kontrakter med aktørene.&#xA;&#xA;I en sentralisert infrastruktur vil leverandøren av infrastrukturen enten ta en form for ansvar for data som tilgjengeliggjøres via plattformen, eller en &quot;trusted third party&quot; vil ta et ansvar for validering av data"/>

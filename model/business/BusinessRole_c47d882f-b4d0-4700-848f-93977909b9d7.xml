@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data steward"
+    id="c47d882f-b4d0-4700-848f-93977909b9d7"
+    documentation="De må ha &quot;Data Stewards&quot;, med ansvar for å bestemme hvilke data aktøren ønsker å dele, hvor de deles, og hvordan sikre kvalitet."/>
