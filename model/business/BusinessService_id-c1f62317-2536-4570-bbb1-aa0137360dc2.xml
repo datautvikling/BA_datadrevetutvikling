@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Valg av selskapsform"
-    id="id-c1f62317-2536-4570-bbb1-aa0137360dc2"/>
+    id="id-c1f62317-2536-4570-bbb1-aa0137360dc2"
+    documentation="Kostnader ved registrering mv."/>
