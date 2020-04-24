@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Standarder og strukturer</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+		<div class="panel-heading root-panel-heading">
+			<b>Standarder og strukturer</b>
+			(<span class="i18n-elementtype-Requirement"></span>)
+			<a class="glyphicon glyphicon-info-sign" id="hint-Requirement" target="hint"></a>
+		</div>
+		<div class="panel-body root-panel-body">
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none">Effektiv deling av data, ba&#778;de internt i selskapet og eksternt i verdikjeden, krever at felles definisjoner og standarder utformes og tas i bruk. Ofte vil datadeling mellom flere akt&#248;rer v&#230;re begrenset av manglende beskrivelse av informasjonsmodellen, dvs. at det mangler en felles definisjon av informasjonsinnhold for modellering av virtuelle objekter som representerer de faktiske komponentene, produktene og deres produksjonstrinn.
+Det er viktig a&#778; presisere at standardisering av datamodeller ikke er det samme som aggregering til et h&#248;yere abstraksjonsniva&#778;. I mange tilfeller vil det v&#230;re n&#248;dvendig a&#778; ha tilgang til detaljerte data, og ha store mengder data, for eksempel for a&#778; kunne anvende kunstig intelligens fullt ut.
+Definisjoner, standarder og datastrukturer kan variere mellom applikasjoner, mellom selskap i en verdikjede, og mellom sektorer. Mangfoldet av propriet&#230;re formater i kommersielle programvarel&#248;sninger bidrar ytterligere til kompleksiteten, og produserer data som er det er utfordrende a&#778; overf&#248;re mellom systemer. Standardiserte APIer er den mest anerkjente og beste ma&#778;te a&#778; bygge interoperabilitet pa&#778;, pa&#778; tvers av tekniske l&#248;sninger, selv med ulike data- strukturer og formater. Her er det viktig at man benytter seg av moderne prinsipper for implementering av disse programmeringsgrensesnittene.
+I Europakommisjonens datastrategi, lansert 19. februar 2020, indikeres det at det kan v&#230;re en offentlig rolle pa&#778; EU-niva&#778; a&#778; fa&#778; pa&#778; plass en mekanisme for a&#778; prioritere standardiseringsaktiviteter. Ekspertgruppen betviler imidlertid at offentlige myndigheter har den n&#248;dvendige kompetansen til a&#778; utvikle og definere slike standarder, og pa&#778;peker at det i EUs strategi Industri 4.0 allerede eksisterer en rekke standarder. 90 Na&#778;r det gjelder innhold/format/kvalitet for data som deles b&#248;r det utvikles frivillige industristandarder. Dette er grunnlaget for kosteffektive og skalerbare l&#248;sninger. Akt&#248;rene i Norge har mulighet til a&#778; ta ledelse i a&#778; utvikle slike standarder innen omra&#778;der hvor vi har en sterk posisjon, og case-illustrasjonene viser at dette skjer, pa&#778; mange omra&#778;der.
+Ekspertgruppen ser det som naturlig med ulike bransjeinitiativ mot standardisering. Dette kan l&#248;ses pa&#778; flere vis. I enkelte bransjer er det mest naturlig at akt&#248;rene med st&#248;rst &#248;konomisk interesse i ulike verdikjedene tar ansvar for utvikling av sine standarder som kan bli f&#248;rende for og utvikles til bransjestandarder. I andre bransjer, gjerne de der det mangler en tydelig "storkunde" kan sterke bransjeorganisasjoner legge sterke f&#248;ringer og ta styringen. I atter andre bransjer b&#248;r det offentlige bidra ba&#778;de med kompetanse og legge standarder som bransjen kan bruke og adoptere som bransjestandarder. Det b&#248;r legges til rette for deling av l&#248;sninger og kompetanse som utvikler et sa&#778; stort fellesskap som mulig, basert pa&#778; norske og internasjonale erfaringer, herunder blant annet arbeidet som er utf&#248;rt knyttet til EUs strategi Industri 4.0.
+Standarder ma&#778; v&#230;re tilpasset den konkrete bransjens utfordringer, men ekspertgruppen mener likevel det er fordelaktig a&#778; redusere kompleksitet ved at akt&#248;rene benytte standarder pa&#778; sa&#778; h&#248;yt fellesskapsniva&#778; som mulig (se eksempel fra oljebransjen som vist i figur 17 nedenfor), slik at antall ulike standarder i bruk reduseres. Hvis hvert prosjekt/selskap skal definere/bruke sin egen standard (lavt niva&#778; i figuren), forsvinner mye av den potensielle standardiseringsgevinsten.
+
+
+</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
