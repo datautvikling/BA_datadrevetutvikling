@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="B - Etableringsfase Steg 04-05 stifte og immatrielle rettigheter"
+    name="B - Etableringsfase Steg 03-04 stifte og immatrielle rettigheter"
     id="8705365a-713b-429e-b0c5-0ee134981660">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -53,7 +53,7 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        width="499"
+        width="361"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -389,7 +389,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e6529c20-bc16-41ff-94c2-263d019ef0cc"
-      targetConnections="33a372f8-bc03-4a5f-8c88-1d0e27d0641c"
+      targetConnections="33a372f8-bc03-4a5f-8c88-1d0e27d0641c 9cadf426-c69a-430c-8914-70df55192557"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -406,6 +406,15 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="10d0c104-1f2c-4bb6-807a-63f502f28243">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="9cadf426-c69a-430c-8914-70df55192557"
+        source="10d0c104-1f2c-4bb6-807a-63f502f28243"
+        target="e6529c20-bc16-41ff-94c2-263d019ef0cc">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_389a535a-4a1f-44c2-a290-9e92d9001dd2.xml#389a535a-4a1f-44c2-a290-9e92d9001dd2"/>
+    </sourceConnections>
     <bounds
         x="264"
         y="624"

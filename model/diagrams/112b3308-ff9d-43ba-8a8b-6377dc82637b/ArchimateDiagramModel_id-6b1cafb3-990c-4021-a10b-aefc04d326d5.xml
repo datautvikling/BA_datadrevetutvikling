@@ -4785,17 +4785,6 @@
         height="27"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="73eface2-b301-4a79-bb5f-339e6316cbb9"
-      textAlignment="1"
-      content="TBD">
-    <bounds
-        x="1759"
-        y="406"
-        width="35"
-        height="27"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="278266b9-791d-4c6e-a9c1-550c2ab8a8ac">
     <bounds

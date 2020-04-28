@@ -1,0 +1,74 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evner Samarbeid"
+    id="4ac1b9d7-156f-4465-8113-b8c0d7de1991">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="69037351-522e-4aa3-94fb-6ffb3efb481c"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#f5deaa">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d4d3bfe0-e733-4159-8f04-b64b276e1d0b"
+        source="69037351-522e-4aa3-94fb-6ffb3efb481c"
+        target="9406344e-5cda-4c8c-bc21-329b3e652109">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-e97675c5-2b49-4c9a-b738-6e1e57c48ce3.xml#id-e97675c5-2b49-4c9a-b738-6e1e57c48ce3"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="eb800d48-1bc2-45cc-adea-1e79aeba71d4"
+        source="69037351-522e-4aa3-94fb-6ffb3efb481c"
+        target="b57c1ceb-db56-4dcf-bba8-9cbe0845df71">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-13865349-d09e-493d-b149-04084996fb95.xml#id-13865349-d09e-493d-b149-04084996fb95"/>
+    </sourceConnections>
+    <bounds
+        x="48"
+        y="36"
+        width="194"
+        height="253"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="b57c1ceb-db56-4dcf-bba8-9cbe0845df71"
+        targetConnections="eb800d48-1bc2-45cc-adea-1e79aeba71d4"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#fbca36">
+      <bounds
+          x="7"
+          y="36"
+          width="181"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-bdad4017-a9b2-4dda-85db-9ab42f083fdd.xml#id-bdad4017-a9b2-4dda-85db-9ab42f083fdd"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="9406344e-5cda-4c8c-bc21-329b3e652109"
+        targetConnections="d4d3bfe0-e733-4159-8f04-b64b276e1d0b"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#fbca36">
+      <bounds
+          x="7"
+          y="108"
+          width="181"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-44c76f38-a586-4492-8188-064d75d26e78.xml#id-44c76f38-a586-4492-8188-064d75d26e78"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-828ed446-0fb2-4317-8886-436a66b642cf.xml#id-828ed446-0fb2-4317-8886-436a66b642cf"/>
+  </children>
+</archimate:ArchimateDiagramModel>

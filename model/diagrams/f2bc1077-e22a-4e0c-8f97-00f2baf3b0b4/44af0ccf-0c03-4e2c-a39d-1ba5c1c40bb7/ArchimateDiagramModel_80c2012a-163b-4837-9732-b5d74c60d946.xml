@@ -1,0 +1,48 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evner samfunnsøkonomiske analyser"
+    id="80c2012a-163b-4837-9732-b5d74c60d946">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="646e6987-020b-4ff7-a12c-f9eb27c317a4"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#f5deaa">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c7454661-d4e5-4d3a-a4d3-0ca5b28f2c99"
+        source="646e6987-020b-4ff7-a12c-f9eb27c317a4"
+        target="33071904-3f68-45f2-b716-9923247d5bd1">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-3183b6c0-63d9-431a-9cef-3e1f919224d9.xml#id-3183b6c0-63d9-431a-9cef-3e1f919224d9"/>
+    </sourceConnections>
+    <bounds
+        x="36"
+        y="48"
+        width="199"
+        height="253"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="33071904-3f68-45f2-b716-9923247d5bd1"
+        targetConnections="c7454661-d4e5-4d3a-a4d3-0ca5b28f2c99"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#fbca36">
+      <bounds
+          x="11"
+          y="37"
+          width="181"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-9e0034ec-cf9e-4fc1-a9e4-e697652cc837.xml#id-9e0034ec-cf9e-4fc1-a9e4-e697652cc837"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-b6a17d02-733f-4134-8448-ac85d9cf643f.xml#id-b6a17d02-733f-4134-8448-ac85d9cf643f"/>
+  </children>
+</archimate:ArchimateDiagramModel>
