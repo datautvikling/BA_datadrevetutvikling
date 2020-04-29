@@ -89,6 +89,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cc16d0dd-b1ee-4071-9931-a971b151039d"
+      targetConnections="5f22bcab-9d40-4ce3-95ca-87da5fee520b"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -117,5 +118,66 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-826a278b-94d4-4e39-9350-c2d1732be5bc.xml#id-826a278b-94d4-4e39-9350-c2d1732be5bc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2429be3d-9ddd-401c-987a-0fe5cbcc4e7b">
+    <bounds
+        x="100"
+        y="228"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_f0f1e2f0-69d3-4b0d-9a38-5aab2d31c8d3.xml#f0f1e2f0-69d3-4b0d-9a38-5aab2d31c8d3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="88a3339a-842c-4fbb-a579-827d672bce39"
+      textAlignment="1"
+      content="TBD">
+    <bounds
+        x="228"
+        y="224"
+        width="35"
+        height="27"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="10e8c082-c7c8-4674-8ffa-6a9ce885c0d9">
+    <bounds
+        x="100"
+        y="288"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_3b26bf47-d177-4c91-beff-7a151f0da6e0.xml#3b26bf47-d177-4c91-beff-7a151f0da6e0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="cf3d1054-eb0e-4189-b276-6de13da747b8"
+      textAlignment="1"
+      content="TBD">
+    <bounds
+        x="236"
+        y="280"
+        width="35"
+        height="27"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="33604bbc-e87d-4d7b-88c7-fb3f4a002693"
+      textAlignment="1"
+      content="se Skatteetatens avviklingsguide">
+    <sourceConnections
+        id="5f22bcab-9d40-4ce3-95ca-87da5fee520b"
+        source="33604bbc-e87d-4d7b-88c7-fb3f4a002693"
+        target="cc16d0dd-b1ee-4071-9931-a971b151039d"/>
+    <bounds
+        x="348"
+        y="62"
+        width="121"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

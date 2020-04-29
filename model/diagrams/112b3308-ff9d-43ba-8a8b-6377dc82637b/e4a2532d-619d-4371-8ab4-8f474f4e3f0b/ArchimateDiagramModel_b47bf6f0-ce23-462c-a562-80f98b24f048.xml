@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C - Drivefase Steg 14 bokettersyn"
+    name="C - Drivefase Steg 15 bokettersyn"
     id="b47bf6f0-ce23-462c-a562-80f98b24f048">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -13,7 +13,7 @@
     <bounds
         x="72"
         y="-10"
-        width="445"
+        width="385"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -73,10 +73,10 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="79"
-        y="168"
-        width="152"
-        height="73"/>
+        x="72"
+        y="141"
+        width="165"
+        height="64"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2085ff3a-decc-4fd2-a134-547b4af108cf">
@@ -92,7 +92,7 @@
       <bounds
           x="5"
           y="31"
-          width="139"
+          width="152"
           height="25"/>
       <archimateElement
           xsi:type="archimate:BusinessRole"

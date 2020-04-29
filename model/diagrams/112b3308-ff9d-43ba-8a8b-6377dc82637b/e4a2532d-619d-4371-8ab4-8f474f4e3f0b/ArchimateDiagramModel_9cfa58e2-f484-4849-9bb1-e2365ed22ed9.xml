@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C - Drivefase Steg 16 gjeldsrådgivning"
+    name="C - Drivefase Steg 17 gjeldsrådgivning"
     id="9cfa58e2-f484-4849-9bb1-e2365ed22ed9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -201,6 +201,25 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="75ab89e2-3464-4118-b777-ecc27fb60cb9">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="87dd40a0-f66a-4510-aab2-bb0958ec56e7"
+        source="75ab89e2-3464-4118-b777-ecc27fb60cb9"
+        target="3a5a3cb7-afa9-4539-92bf-5dd1f2aecbf0">
+      <bendpoints
+          startX="212"
+          startY="21"
+          endX="152"
+          endY="-390"/>
+      <bendpoints
+          startX="212"
+          startY="393"
+          endX="152"
+          endY="-18"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_7a1f7449-0215-4a50-87c1-2391c2ef41ec.xml#7a1f7449-0215-4a50-87c1-2391c2ef41ec"/>
+    </sourceConnections>
     <bounds
         x="72"
         y="276"
@@ -209,5 +228,22 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_4614e412-cc6f-47c7-bb63-61f20e10ab44.xml#4614e412-cc6f-47c7-bb63-61f20e10ab44"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3a5a3cb7-afa9-4539-92bf-5dd1f2aecbf0"
+      targetConnections="87dd40a0-f66a-4510-aab2-bb0958ec56e7"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#f5deaa">
+    <bounds
+        x="116"
+        y="672"
+        width="185"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-7c56dfc1-faaf-4955-9c59-74a9dc15a442.xml#id-7c56dfc1-faaf-4955-9c59-74a9dc15a442"/>
   </children>
 </archimate:ArchimateDiagramModel>

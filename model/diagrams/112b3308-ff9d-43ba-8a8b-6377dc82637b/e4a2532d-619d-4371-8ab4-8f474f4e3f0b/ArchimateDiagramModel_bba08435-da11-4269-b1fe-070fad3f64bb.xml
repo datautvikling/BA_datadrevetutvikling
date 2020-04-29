@@ -53,7 +53,7 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        width="499"
+        width="397"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -100,7 +100,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3ed121a7-4f52-4cce-9ddd-4e1401a95980"
-      targetConnections="9e0c83bd-0952-49e6-ade9-67aee666dd9b"
+      targetConnections="9e0c83bd-0952-49e6-ade9-67aee666dd9b c4d01d75-9f1b-463f-9fc8-b56e3fa10c07"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -264,5 +264,20 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-26b21c42-9c54-4270-8d4c-72ed2d8515e8.xml#id-26b21c42-9c54-4270-8d4c-72ed2d8515e8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7844cbcd-ca1c-4e16-992a-f3e6f30706b9"
+      textAlignment="1"
+      content="Er det riktig at «Første innbet. av forskuddsskatt skjer nå – tilhører vel driftsfasen?&#xD;&#xA;">
+    <sourceConnections
+        id="c4d01d75-9f1b-463f-9fc8-b56e3fa10c07"
+        source="7844cbcd-ca1c-4e16-992a-f3e6f30706b9"
+        target="3ed121a7-4f52-4cce-9ddd-4e1401a95980"/>
+    <bounds
+        x="348"
+        y="457"
+        width="146"
+        height="93"/>
   </children>
 </archimate:ArchimateDiagramModel>
