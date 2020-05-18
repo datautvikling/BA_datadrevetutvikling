@@ -153,18 +153,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b46de04b-a444-4759-ba01-6441344fcd75"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-ca309cae-f706-4e5b-b7a5-50adc006549f"
-        target="id-a8c6f042-2941-40a5-8745-9d7de073035a">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-f6fd3fc3-5aea-486c-9c84-da51ba71bd6e.xml#id-f6fd3fc3-5aea-486c-9c84-da51ba71bd6e"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-94143c44-6bd1-44f7-84d6-cbfd0df7b075"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
@@ -192,6 +180,18 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-0458fc81-c65f-4a6b-93a4-cc087c4c3211.xml#id-0458fc81-c65f-4a6b-93a4-cc087c4c3211"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b46de04b-a444-4759-ba01-6441344fcd75"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-ca309cae-f706-4e5b-b7a5-50adc006549f"
+        target="id-a8c6f042-2941-40a5-8745-9d7de073035a">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-f6fd3fc3-5aea-486c-9c84-da51ba71bd6e.xml#id-f6fd3fc3-5aea-486c-9c84-da51ba71bd6e"/>
     </sourceConnections>
     <bounds
         x="189"
@@ -459,7 +459,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a8c6f042-2941-40a5-8745-9d7de073035a"
-      targetConnections="id-b46de04b-a444-4759-ba01-6441344fcd75 id-57d7bae0-7ac5-40fc-b2c8-0f27e5b8580b id-639094b4-75fc-4ca8-9991-135712bb6f4f"
+      targetConnections="id-57d7bae0-7ac5-40fc-b2c8-0f27e5b8580b id-639094b4-75fc-4ca8-9991-135712bb6f4f id-b46de04b-a444-4759-ba01-6441344fcd75"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søknad"
+    id="b3e515d9-814d-4921-87e3-93842b2e6b31">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-aa59775b-b64e-465a-9580-88edf7172a83.xml#id-aa59775b-b64e-465a-9580-88edf7172a83"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_2ffa6187-5b70-414e-9148-edec01d8375b.xml#2ffa6187-5b70-414e-9148-edec01d8375b"/>
+</archimate:RealizationRelationship>

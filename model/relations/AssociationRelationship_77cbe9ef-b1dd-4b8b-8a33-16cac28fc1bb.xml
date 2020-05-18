@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="forankret i "
+    id="77cbe9ef-b1dd-4b8b-8a33-16cac28fc1bb">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_6f99d49e-f2e1-479d-bd84-877586254587.xml#6f99d49e-f2e1-479d-bd84-877586254587"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_07694716-0454-42cf-bf27-3e38434d24bf.xml#07694716-0454-42cf-bf27-3e38434d24bf"/>
+</archimate:AssociationRelationship>

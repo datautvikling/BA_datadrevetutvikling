@@ -357,6 +357,20 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-26049651-5f1d-42da-b8a2-d0b964ff31c2.xml#id-26049651-5f1d-42da-b8a2-d0b964ff31c2"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6c56aba6-f538-4b96-a549-e377556cf46a"
+        source="88a1c97b-a53f-4748-ab7f-0e75985595a0"
+        target="fd7cd0d0-dcea-4d28-b40d-0f5e99fb5c29">
+      <bendpoints
+          startX="95"
+          startY="-10"
+          endX="-67"
+          endY="-495"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_d59dd5db-5d9f-4069-86eb-abb673ef3b66.xml#d59dd5db-5d9f-4069-86eb-abb673ef3b66"/>
+    </sourceConnections>
     <bounds
         x="333"
         y="145"
@@ -731,7 +745,7 @@
         x="348"
         y="432"
         width="118"
-        height="61"/>
+        height="55"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -829,5 +843,33 @@
         y="236"
         width="143"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fd7cd0d0-dcea-4d28-b40d-0f5e99fb5c29"
+      targetConnections="6c56aba6-f538-4b96-a549-e377556cf46a 6dc4abb6-9601-43f2-abcb-e3503e09d721">
+    <bounds
+        x="504"
+        y="644"
+        width="150"
+        height="64"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-0139d1fc-1711-4ed6-9f17-8fad8ec8545e.xml#id-0139d1fc-1711-4ed6-9f17-8fad8ec8545e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="74b4a5b8-d70f-4f5a-afb8-38e38e2dbf7b"
+      textAlignment="1"
+      content="Konsept til diskusjon">
+    <sourceConnections
+        id="6dc4abb6-9601-43f2-abcb-e3503e09d721"
+        source="74b4a5b8-d70f-4f5a-afb8-38e38e2dbf7b"
+        target="fd7cd0d0-dcea-4d28-b40d-0f5e99fb5c29"/>
+    <bounds
+        x="518"
+        y="593"
+        width="80"
+        height="43"/>
   </children>
 </archimate:ArchimateDiagramModel>

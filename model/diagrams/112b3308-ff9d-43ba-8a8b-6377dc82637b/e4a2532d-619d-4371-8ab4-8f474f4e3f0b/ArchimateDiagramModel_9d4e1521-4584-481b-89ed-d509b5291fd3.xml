@@ -29,7 +29,7 @@
     <bounds
         x="72"
         y="-10"
-        width="445"
+        width="401"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -159,7 +159,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9eababc9-e392-496b-bcad-71fff2efe721"
-      targetConnections="a3807393-e77a-42bc-bfc0-5df46fe99311 339112fa-f543-4c3e-bb67-c682a39010e2"
+      targetConnections="a3807393-e77a-42bc-bfc0-5df46fe99311 339112fa-f543-4c3e-bb67-c682a39010e2 9571edff-3816-441f-977d-321b8cffcc11"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -218,5 +218,20 @@
         y="345"
         width="35"
         height="27"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8ae18610-04f6-459a-b5f6-c53b23822174"
+      textAlignment="1"
+      content="Desentralisert Data Mesh basert på SAF-T og XBRL GL">
+    <sourceConnections
+        id="9571edff-3816-441f-977d-321b8cffcc11"
+        source="8ae18610-04f6-459a-b5f6-c53b23822174"
+        target="9eababc9-e392-496b-bcad-71fff2efe721"/>
+    <bounds
+        x="288"
+        y="550"
+        width="185"
+        height="46"/>
   </children>
 </archimate:ArchimateDiagramModel>

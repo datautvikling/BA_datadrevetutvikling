@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Industry Foundation Classes (IFC)"
+    id="8657a5b0-241f-4265-bb2a-36a7310b1d52"
+    documentation="IFC (Industry Foundation Classes)  brukes for deling av informasjon mellom aktørene i en byggeprosess og på tvers av programmer som de vanligvis bruker. I dag er dette i stor grad begrenset til geometriske data levert fra ArchiCAD, Revit, DDS etc. som man kan utføre kollisjonstester, energiberegninger etc. Den store endringen vil man få når byggmestere og entreprenører kan få data som kan brukes til innkjøp, fremdriftsplaner og drift- og vedlikehold. For å få til dette må man lage egenskapssett som vi i coBuilder nå holder på å lage, i tett samarbeid med nøkkelaktørene i UK. Det er her linkingen av data og datasett gjøres ved bruk av bSDD, og dette linker da produsentenes data med Revit, IFC, klassifisering eller hva det måtte være. Det arbeidet buildingSMART Norge nå gjør er avgjørende for at man skal lykkes, vi trenger åpne standarder og gode prosesser for å lykkes."/>

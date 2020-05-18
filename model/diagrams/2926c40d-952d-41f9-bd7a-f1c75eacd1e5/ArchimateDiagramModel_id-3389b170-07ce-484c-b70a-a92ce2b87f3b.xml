@@ -153,18 +153,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-1e5a0ae1-36cf-4235-a211-f771a4258de3"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-48aabbbf-1144-42bd-a021-7f72c7d7a3e7"
-        target="id-25ed0e41-bc98-40cd-8469-82eab3f8b4dd">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-f6fd3fc3-5aea-486c-9c84-da51ba71bd6e.xml#id-f6fd3fc3-5aea-486c-9c84-da51ba71bd6e"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d55f1a12-2e5f-467b-a937-d03ebfe531a1"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
@@ -192,6 +180,18 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-0458fc81-c65f-4a6b-93a4-cc087c4c3211.xml#id-0458fc81-c65f-4a6b-93a4-cc087c4c3211"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1e5a0ae1-36cf-4235-a211-f771a4258de3"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-48aabbbf-1144-42bd-a021-7f72c7d7a3e7"
+        target="id-25ed0e41-bc98-40cd-8469-82eab3f8b4dd">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-f6fd3fc3-5aea-486c-9c84-da51ba71bd6e.xml#id-f6fd3fc3-5aea-486c-9c84-da51ba71bd6e"/>
     </sourceConnections>
     <bounds
         x="189"
@@ -459,7 +459,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-25ed0e41-bc98-40cd-8469-82eab3f8b4dd"
-      targetConnections="id-1e5a0ae1-36cf-4235-a211-f771a4258de3 id-0f19bc48-d1d4-41b9-8632-957d35d20f61"
+      targetConnections="id-0f19bc48-d1d4-41b9-8632-957d35d20f61 id-1e5a0ae1-36cf-4235-a211-f771a4258de3"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"

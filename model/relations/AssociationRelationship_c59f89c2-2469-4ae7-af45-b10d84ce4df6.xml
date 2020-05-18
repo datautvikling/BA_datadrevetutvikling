@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="del 2"
+    id="c59f89c2-2469-4ae7-af45-b10d84ce4df6">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_8b59462b-d3a2-4f5c-af5c-5efd342c0d6f.xml#8b59462b-d3a2-4f5c-af5c-5efd342c0d6f"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_2962d034-2f11-4a5b-94de-592d7ff6de58.xml#2962d034-2f11-4a5b-94de-592d7ff6de58"/>
+</archimate:AssociationRelationship>
