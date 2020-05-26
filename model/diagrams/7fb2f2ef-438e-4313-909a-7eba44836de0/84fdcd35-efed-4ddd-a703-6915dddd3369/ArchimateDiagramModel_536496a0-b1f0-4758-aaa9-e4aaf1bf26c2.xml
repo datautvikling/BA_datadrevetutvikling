@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Målbilde"
+    name="Målbilde totalt"
     id="536496a0-b1f0-4758-aaa9-e4aaf1bf26c2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -409,8 +409,8 @@
           source="7fc7852f-d4f2-46cb-b7e8-1e08840fe3fe"
           target="27b8936a-800b-47e3-a676-9f448e9b9215"/>
       <bounds
-          x="24"
-          y="293"
+          x="23"
+          y="267"
           width="157"
           height="32"/>
     </children>

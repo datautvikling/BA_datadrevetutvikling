@@ -58,7 +58,7 @@
       fillColor="#fdef2b">
     <bounds
         x="98"
-        y="141"
+        y="142"
         width="149"
         height="83"/>
     <children
@@ -124,7 +124,7 @@
       id="2429be3d-9ddd-401c-987a-0fe5cbcc4e7b">
     <bounds
         x="100"
-        y="228"
+        y="234"
         width="145"
         height="55"/>
     <archimateElement
@@ -138,7 +138,7 @@
       content="TBD">
     <bounds
         x="228"
-        y="224"
+        y="142"
         width="35"
         height="27"/>
   </children>
@@ -147,7 +147,7 @@
       id="10e8c082-c7c8-4674-8ffa-6a9ce885c0d9">
     <bounds
         x="100"
-        y="288"
+        y="300"
         width="145"
         height="55"/>
     <archimateElement
@@ -160,8 +160,8 @@
       textAlignment="1"
       content="TBD">
     <bounds
-        x="236"
-        y="280"
+        x="240"
+        y="228"
         width="35"
         height="27"/>
   </children>

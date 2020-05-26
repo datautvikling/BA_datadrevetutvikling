@@ -14,7 +14,7 @@
       content="STEG">
     <bounds
         width="132"
-        height="144"/>
+        height="115"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -78,7 +78,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="44ccaa4f-b074-422e-9d83-41480f9612e3"
-      targetConnections="6ce8538a-95ba-4314-a55d-1bbfcf6e8ddb"
+      targetConnections="6ce8538a-95ba-4314-a55d-1bbfcf6e8ddb bdfde2a0-9f5c-4628-a83a-bdee10bf4383"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -871,5 +871,20 @@
         y="593"
         width="80"
         height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="911a4c9d-64ce-4450-916e-3f12106645f6"
+      textAlignment="1"
+      content="Digøk: &#xA;1.3 Forstå korrekt registering av virksomhet&#xA;1.4. Definere opp og avgi informasjonssett ved registreringer">
+    <sourceConnections
+        id="bdfde2a0-9f5c-4628-a83a-bdee10bf4383"
+        source="911a4c9d-64ce-4450-916e-3f12106645f6"
+        target="44ccaa4f-b074-422e-9d83-41480f9612e3"/>
+    <bounds
+        x="182"
+        y="716"
+        width="185"
+        height="101"/>
   </children>
 </archimate:ArchimateDiagramModel>

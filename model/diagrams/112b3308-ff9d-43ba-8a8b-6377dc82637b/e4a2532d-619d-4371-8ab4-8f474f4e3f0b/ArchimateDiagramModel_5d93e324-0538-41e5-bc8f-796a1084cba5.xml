@@ -75,8 +75,8 @@
     <bounds
         x="72"
         y="140"
-        width="153"
-        height="67"/>
+        width="165"
+        height="101"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9c630325-1fb8-4679-a45e-16baa12b9d0e">
@@ -90,8 +90,8 @@
             href="AssignmentRelationship_19d910aa-ee2c-40b8-9837-ad4ca2d51512.xml#19d910aa-ee2c-40b8-9837-ad4ca2d51512"/>
       </sourceConnections>
       <bounds
-          x="10"
-          y="21"
+          x="11"
+          y="53"
           width="133"
           height="41"/>
       <archimateElement
@@ -112,8 +112,8 @@
       fillColor="#ffffb5">
     <bounds
         x="72"
-        y="216"
-        width="153"
+        y="252"
+        width="165"
         height="52"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
