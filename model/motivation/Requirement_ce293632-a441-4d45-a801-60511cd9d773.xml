@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="#1 Implementering av CEN 442 standarder med fokus på Data Maler (Data Templates) "
+    id="ce293632-a441-4d45-a801-60511cd9d773"
+    documentation="Gir Ett felles digitalt språk i design - bygging og drift&#xA;Å ha omforente Data Templates er en forutsetning for vi blir digitale, dvs at maskiner forstår hva som menes. &#xA;Bør samkjøres nordisk og på europeisk plan&#xA;Effekt: For å bygge billigere, grønnere, raskere med mindre feil&#xA;Nytte for Byggherrer, myndigheter, rådgivere, arkitekter, utførende, grossister, produsenter og software aktører&#xA;Eiet av en  norsk uavhengig entitet&#xA;Forslag: Det settes opp et selskap som opererer uavhengig av aktører, slik at samfunnet og aktørene kan bruke Data Templates man kan stole på.&#xA;Finansiiering: De som ønsker å bruke Data Templates betaler, på lik linje med standarder, GS1 produkt identifikatorer etc.&#xA;Eksisterende software må ta i bruk Data Templates og properties, og ikke finne opp dette selv."/>
