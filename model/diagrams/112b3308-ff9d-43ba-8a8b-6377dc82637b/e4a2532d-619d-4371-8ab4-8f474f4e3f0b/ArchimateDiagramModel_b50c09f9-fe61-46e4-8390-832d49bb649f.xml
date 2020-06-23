@@ -97,7 +97,7 @@
     <bounds
         x="84"
         y="-10"
-        width="357"
+        width="179"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -175,8 +175,8 @@
         source="33604bbc-e87d-4d7b-88c7-fb3f4a002693"
         target="cc16d0dd-b1ee-4071-9931-a971b151039d"/>
     <bounds
-        x="348"
-        y="62"
+        x="274"
+        y="60"
         width="121"
         height="80"/>
   </children>

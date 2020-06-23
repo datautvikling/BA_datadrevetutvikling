@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C - Drivefase Steg 04-05 kreditt og finansiering"
+    name="C - Drivefase Steg 04 kreditt"
     id="8d02e3ec-6f8c-4b1f-99a9-3d677bf4459e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -13,7 +13,7 @@
     <bounds
         x="72"
         y="-10"
-        width="445"
+        width="165"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -111,59 +111,5 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-d338f3a4-5ab9-4c6e-8a37-1e2cfe7634eb.xml#id-d338f3a4-5ab9-4c6e-8a37-1e2cfe7634eb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="c03cf2b4-9f9b-4c93-b99e-3f7b0162937d"
-      targetConnections="58cc3451-1295-438d-81de-055d2adb3b10"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#fdef2b">
-    <bounds
-        x="258"
-        y="148"
-        width="153"
-        height="101"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="899195cf-b998-4316-92a6-20eb8dc53b53">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="58cc3451-1295-438d-81de-055d2adb3b10"
-          source="899195cf-b998-4316-92a6-20eb8dc53b53"
-          target="c03cf2b4-9f9b-4c93-b99e-3f7b0162937d">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_c437220c-9a90-4269-afb9-8ebca1de19c1.xml#c437220c-9a90-4269-afb9-8ebca1de19c1"/>
-      </sourceConnections>
-      <bounds
-          x="6"
-          y="54"
-          width="142"
-          height="39"/>
-      <archimateElement
-          xsi:type="archimate:BusinessRole"
-          href="BusinessRole_id-85e0d52e-1714-402c-9d18-fdf28509f205.xml#id-85e0d52e-1714-402c-9d18-fdf28509f205"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-e7590379-556d-43de-91d6-55964404d6f1.xml#id-e7590379-556d-43de-91d6-55964404d6f1"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="46599770-41ed-4109-932a-174143ccc7c2"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
-    <bounds
-        x="252"
-        y="79"
-        width="165"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-1def7d65-fc85-4eb8-914c-c9b73d65ba23.xml#id-1def7d65-fc85-4eb8-914c-c9b73d65ba23"/>
   </children>
 </archimate:ArchimateDiagramModel>
