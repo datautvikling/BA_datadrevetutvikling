@@ -88,7 +88,7 @@
     <bounds
         x="72"
         y="204"
-        width="152"
+        width="165"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -192,7 +192,7 @@
     <bounds
         x="72"
         y="141"
-        width="152"
+        width="165"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -223,7 +223,7 @@
     <bounds
         x="72"
         y="276"
-        width="152"
+        width="165"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
