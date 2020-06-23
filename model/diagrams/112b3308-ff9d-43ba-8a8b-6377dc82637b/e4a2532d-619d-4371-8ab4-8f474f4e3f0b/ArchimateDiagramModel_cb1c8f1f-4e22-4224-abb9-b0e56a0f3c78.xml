@@ -56,7 +56,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="84"
+        x="72"
         y="-10"
         width="165"
         height="55"/>
@@ -73,7 +73,7 @@
       lineColor="#5c5c5c"
       fillColor="#fdef2b">
     <bounds
-        x="92"
+        x="80"
         y="156"
         width="149"
         height="109"/>
@@ -131,7 +131,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="84"
+        x="72"
         y="72"
         width="165"
         height="55"/>

@@ -29,7 +29,7 @@
     <bounds
         x="72"
         y="-10"
-        width="401"
+        width="163"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -43,9 +43,9 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="78"
+        x="72"
         y="56"
-        width="157"
+        width="163"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
