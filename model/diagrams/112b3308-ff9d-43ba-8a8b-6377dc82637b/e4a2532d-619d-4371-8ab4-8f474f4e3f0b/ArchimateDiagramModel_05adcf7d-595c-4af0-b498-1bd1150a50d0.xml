@@ -13,7 +13,7 @@
     <bounds
         x="72"
         y="-10"
-        width="165"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -75,8 +75,8 @@
     <bounds
         x="72"
         y="148"
-        width="165"
-        height="101"/>
+        width="194"
+        height="75"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="cb0a85c8-7315-4730-a8f2-dbb00c9bb5c7">
@@ -91,9 +91,9 @@
       </sourceConnections>
       <bounds
           x="6"
-          y="54"
-          width="142"
-          height="39"/>
+          y="39"
+          width="180"
+          height="28"/>
       <archimateElement
           xsi:type="archimate:BusinessRole"
           href="BusinessRole_id-85e0d52e-1714-402c-9d18-fdf28509f205.xml#id-85e0d52e-1714-402c-9d18-fdf28509f205"/>
@@ -112,7 +112,7 @@
     <bounds
         x="72"
         y="79"
-        width="165"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"

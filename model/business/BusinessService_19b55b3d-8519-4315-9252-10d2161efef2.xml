@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslutte oppløsning"
+    id="19b55b3d-8519-4315-9252-10d2161efef2"
+    documentation="&#xA;Generalforsamlingen beslutter oppløsning av selskapet. Dette krever minst 2/3 flertall, både av de avgitte stemmer og av aksjekapitalen som er representert på generalforsamlingen.&#xA;Generalforsamlingen velger et avviklingsstyre som overtar for styret og daglig leder. Det kan være de samme personene som sitter i det opprinnelige styret.&#xA;Generalforsamlingen kan omgjøre beslutningen om oppløsning. Men ikke hvis aksjonærene har fått utdelt annet enn ordinært utbytte i forbindelse med oppløsningen."/>
