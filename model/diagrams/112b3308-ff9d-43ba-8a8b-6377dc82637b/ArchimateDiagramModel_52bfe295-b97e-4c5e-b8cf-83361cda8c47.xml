@@ -283,7 +283,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="1022"
+        x="1361"
         y="456"
         width="157"
         height="55"/>
@@ -315,7 +315,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="1190"
+        x="1024"
         y="456"
         width="157"
         height="55"/>
@@ -535,7 +535,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5fa5ac27-fab5-41b1-abdb-65b0e2cbf3d5">
     <bounds
-        x="1358"
+        x="1190"
         y="456"
         width="160"
         height="55"/>
@@ -581,8 +581,8 @@
       textAlignment="1"
       content="Digøk: 2. ansette">
     <bounds
-        x="1190"
-        y="522"
+        x="1023"
+        y="516"
         width="328"
         height="28"/>
   </children>
@@ -619,8 +619,8 @@
       textAlignment="1"
       content="Digøk: 1. oppstart og registrering">
     <bounds
-        x="11"
-        y="300"
+        x="10"
+        y="294"
         width="1509"
         height="29"/>
   </children>
@@ -642,8 +642,8 @@
       textAlignment="1"
       content="Digøk 3: inngå avtale">
     <bounds
-        x="13"
-        y="525"
+        x="11"
+        y="517"
         width="325"
         height="30"/>
   </children>
@@ -653,8 +653,8 @@
       textAlignment="1"
       content="Digøk 4: leveranser, utøvelse av drift og dokumentasjon">
     <bounds
-        x="347"
-        y="522"
+        x="345"
+        y="517"
         width="329"
         height="42"/>
   </children>
@@ -664,8 +664,8 @@
       textAlignment="1"
       content="Digøk 5: gjøre opp med foretningspart">
     <bounds
-        x="13"
-        y="554"
+        x="11"
+        y="546"
         width="157"
         height="40"/>
   </children>
@@ -686,8 +686,8 @@
       textAlignment="1"
       content="Digøk 7: etterleve myndighetskrav">
     <bounds
-        x="11"
-        y="675"
+        x="13"
+        y="672"
         width="663"
         height="32"/>
   </children>
