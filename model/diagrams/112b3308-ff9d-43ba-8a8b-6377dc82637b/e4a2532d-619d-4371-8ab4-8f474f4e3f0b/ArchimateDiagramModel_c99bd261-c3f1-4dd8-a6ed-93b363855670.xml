@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C - Drivefase Steg 10 endrede eierforhold"
+    name="C - Drivefase Steg 10 styret og eierforhold"
     id="c99bd261-c3f1-4dd8-a6ed-93b363855670">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -78,22 +78,22 @@
         target="69816161-75a0-4d3c-bd21-c1457ea32871">
       <bendpoints
           startX="140"
-          startY="-8"
+          startY="2"
           endX="122"
-          endY="-487"/>
+          endY="-415"/>
       <bendpoints
           startX="140"
-          startY="496"
+          startY="422"
           endX="122"
-          endY="17"/>
+          endY="5"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-46b46c0d-76e8-4321-80c9-b19eb2fda506.xml#id-46b46c0d-76e8-4321-80c9-b19eb2fda506"/>
     </sourceConnections>
     <bounds
-        x="72"
-        y="141"
-        width="152"
+        x="70"
+        y="218"
+        width="165"
         height="40"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -113,9 +113,9 @@
         target="815a8f71-b238-4f99-b427-e49b6b13492d">
       <bendpoints
           startX="117"
-          startY="8"
+          startY="6"
           endX="98"
-          endY="-317"/>
+          endY="-209"/>
       <bendpoints
           startX="117"
           startY="320"
@@ -132,12 +132,12 @@
         target="69816161-75a0-4d3c-bd21-c1457ea32871">
       <bendpoints
           startX="129"
-          startY="-4"
+          startY="-6"
           endX="110"
-          endY="-415"/>
+          endY="-307"/>
       <bendpoints
           startX="129"
-          startY="404"
+          startY="294"
           endX="110"
           endY="-7"/>
       <archimateRelationship
@@ -146,8 +146,8 @@
     </sourceConnections>
     <bounds
         x="71"
-        y="257"
-        width="153"
+        y="334"
+        width="166"
         height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -217,8 +217,8 @@
         target="67ea5b1d-4d63-4cd3-9a39-f12f8d8f879e"/>
     <bounds
         x="73"
-        y="185"
-        width="156"
+        y="262"
+        width="164"
         height="68"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -262,9 +262,9 @@
       id="c014924a-3902-43ec-872b-09db7b99e830">
     <bounds
         x="72"
-        y="312"
-        width="152"
-        height="72"/>
+        y="141"
+        width="165"
+        height="58"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_7db5e129-f53f-4124-8904-03203e1976bd.xml#7db5e129-f53f-4124-8904-03203e1976bd"/>
@@ -275,8 +275,8 @@
       textAlignment="1"
       content="TBD">
     <bounds
-        x="202"
-        y="297"
+        x="228"
+        y="262"
         width="35"
         height="27"/>
   </children>
