@@ -71,7 +71,7 @@
         x="144"
         y="211"
         width="190"
-        height="73"/>
+        height="66"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b25fcfb4-64c6-4e50-ac56-a2f7c2400772">
@@ -160,7 +160,7 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        y="290"
+        y="288"
         width="189"
         height="30"/>
     <archimateElement

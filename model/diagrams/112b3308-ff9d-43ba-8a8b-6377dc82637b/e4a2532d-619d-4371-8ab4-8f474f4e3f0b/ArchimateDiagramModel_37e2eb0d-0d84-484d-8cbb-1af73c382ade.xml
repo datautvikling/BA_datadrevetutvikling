@@ -213,7 +213,7 @@
       fillColor="#f5deaa">
     <bounds
         x="230"
-        y="591"
+        y="576"
         width="163"
         height="47"/>
     <archimateElement
@@ -295,5 +295,60 @@
         y="243"
         width="143"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b87afa3d-ea1e-4942-bb6d-3dfa891c3fba"
+      targetConnections="606d889b-89e8-4f7a-9069-698366992279">
+    <bounds
+        x="230"
+        y="630"
+        width="163"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_af58a96e-566d-4b07-935c-ece1e9d8cbb8.xml#af58a96e-566d-4b07-935c-ece1e9d8cbb8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e9130296-5a43-44d7-8662-15d789e5d5bb"
+      targetConnections="83e37572-a426-45a2-b2dd-252151c52d40">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="606d889b-89e8-4f7a-9069-698366992279"
+        source="e9130296-5a43-44d7-8662-15d789e5d5bb"
+        target="b87afa3d-ea1e-4942-bb6d-3dfa891c3fba">
+      <bendpoints
+          startX="-24"
+          startY="150"
+          endX="-107"
+          endY="-3"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_f665561b-ca54-4c91-b423-6adcf13c2127.xml#f665561b-ca54-4c91-b423-6adcf13c2127"/>
+    </sourceConnections>
+    <bounds
+        x="144"
+        y="504"
+        width="168"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_049363d4-8755-4659-8385-e0024869b7d9.xml#049363d4-8755-4659-8385-e0024869b7d9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c8cd4de2-7260-495d-abbe-fa3cc213891e"
+      textAlignment="1"
+      content="Vurder om denne henger på 04">
+    <sourceConnections
+        id="83e37572-a426-45a2-b2dd-252151c52d40"
+        source="c8cd4de2-7260-495d-abbe-fa3cc213891e"
+        target="e9130296-5a43-44d7-8662-15d789e5d5bb"/>
+    <bounds
+        x="372"
+        y="496"
+        width="133"
+        height="53"/>
   </children>
 </archimate:ArchimateDiagramModel>
