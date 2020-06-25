@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C - Drivefase Steg 15 innkreving"
+    name="C - Drivefase Steg 16 betalingsvansker og innkreving"
     id="db69751f-99f0-41ee-83bf-4fe3bf28bf36">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -83,9 +83,9 @@
     </sourceConnections>
     <bounds
         x="72"
-        y="159"
-        width="153"
-        height="190"/>
+        y="192"
+        width="165"
+        height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="dcfebaba-0d54-4515-95fb-94b977d1e35a">
@@ -99,8 +99,8 @@
             href="AssignmentRelationship_92bfe6cb-b796-4a99-8b11-62ed10706dee.xml#92bfe6cb-b796-4a99-8b11-62ed10706dee"/>
       </sourceConnections>
       <bounds
-          x="8"
-          y="146"
+          x="12"
+          y="132"
           width="138"
           height="30"/>
       <archimateElement
@@ -132,12 +132,56 @@
       id="0cbfa51d-209e-4f2b-a0cf-b17f08c34215"
       targetConnections="834d13aa-6c63-40bf-8138-0b733d91a7e2">
     <bounds
-        x="84"
+        x="72"
         y="539"
-        width="120"
-        height="55"/>
+        width="157"
+        height="38"/>
     <archimateElement
         xsi:type="archimate:CourseOfAction"
         href="CourseOfAction_id-fc28f8bf-2e1b-4ebe-8784-3c4d2e12f793.xml#id-fc28f8bf-2e1b-4ebe-8784-3c4d2e12f793"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="03ce465e-8f7a-43b1-b143-85853f21f33b">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ffcd1f5a-0f06-4201-adf6-0a491f4182ce"
+        source="03ce465e-8f7a-43b1-b143-85853f21f33b"
+        target="6c96628c-ed95-4325-8309-2591323205fa">
+      <bendpoints
+          startX="110"
+          startY="-5"
+          endX="114"
+          endY="-468"/>
+      <bendpoints
+          startX="110"
+          startY="475"
+          endX="114"
+          endY="12"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_248f084b-048f-4997-a1b7-438369ce199c.xml#248f084b-048f-4997-a1b7-438369ce199c"/>
+    </sourceConnections>
+    <bounds
+        x="72"
+        y="141"
+        width="165"
+        height="40"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_3f627b77-d702-43aa-af37-aed3be35ee4b.xml#3f627b77-d702-43aa-af37-aed3be35ee4b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6c96628c-ed95-4325-8309-2591323205fa"
+      targetConnections="ffcd1f5a-0f06-4201-adf6-0a491f4182ce">
+    <bounds
+        x="72"
+        y="588"
+        width="157"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_1667021e-566c-4d5a-ba25-1919c6077065.xml#1667021e-566c-4d5a-ba25-1919c6077065"/>
   </children>
 </archimate:ArchimateDiagramModel>
