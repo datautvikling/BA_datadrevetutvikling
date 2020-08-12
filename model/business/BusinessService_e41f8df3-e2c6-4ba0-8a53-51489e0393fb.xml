@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Søke tilskudd"
-    id="e41f8df3-e2c6-4ba0-8a53-51489e0393fb"/>
+    name="Søke støtteordninger"
+    id="e41f8df3-e2c6-4ba0-8a53-51489e0393fb"
+    documentation=" Støtteordninger kobles mot fremtidig virkemiddelportal, samt ulike lånefinansieringer. Søke etter mulige støtteordninger hos BR-Starte og drive."/>

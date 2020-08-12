@@ -4,67 +4,6 @@
     name="D - Avvikling Steg 04 sletting og/eller oppløsning"
     id="2f9478b1-2b88-48b5-8778-657abbc0cef9">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="082d2f6b-ed3a-493a-8c12-b06d192d9d7b"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="STEG">
-    <bounds
-        x="-72"
-        y="-10"
-        width="132"
-        height="144"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="e8c9b217-e64d-48f4-9bf9-ecd7cb5a029f"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="AKTIVITETER">
-    <bounds
-        x="-72"
-        y="141"
-        width="132"
-        height="384"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="bf8f549c-eea9-4089-9beb-0c1e9b901c5a"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="TILTAK">
-    <bounds
-        x="-72"
-        y="539"
-        width="132"
-        height="98"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="b64e5e63-310e-4ba2-bfec-8c48825a9390"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
-    <bounds
-        x="72"
-        y="-10"
-        width="169"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-5c34a84a-d2c7-4e33-b891-8c106043f2ea.xml#id-5c34a84a-d2c7-4e33-b891-8c106043f2ea"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5985df1b-63a7-4d11-ae8b-442621c219e8"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
@@ -72,12 +11,73 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="72"
+        x="73"
         y="79"
-        width="165"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_aa3198f3-cc67-4a3f-9325-cb6e9142eb17.xml#aa3198f3-cc67-4a3f-9325-cb6e9142eb17"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1cd2078d-2f03-4892-9461-df658c1bc69c"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <bounds
+        x="73"
+        y="9"
+        width="205"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-5c34a84a-d2c7-4e33-b891-8c106043f2ea.xml#id-5c34a84a-d2c7-4e33-b891-8c106043f2ea"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7088b750-3949-4f9e-b17e-f7416eec3098"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="TILTAK">
+    <bounds
+        x="-79"
+        y="703"
+        width="132"
+        height="98"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="53bd5839-0da4-4e25-a494-7cc80407180f"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="STEG">
+    <bounds
+        x="-79"
+        y="9"
+        width="132"
+        height="125"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="39d64e9b-7359-487d-8349-d685e62a3c25"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="AKTIVITETER">
+    <bounds
+        x="-79"
+        y="163"
+        width="132"
+        height="523"/>
   </children>
 </archimate:ArchimateDiagramModel>

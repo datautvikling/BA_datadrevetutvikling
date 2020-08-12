@@ -6,15 +6,16 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1ce1b28d-d5e8-4eb8-921c-b189a704ded5"
+      targetConnections="cc1aaa42-70e9-46d2-a0be-7aaf5dbfef52"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="81"
+        x="72"
         y="142"
-        width="152"
-        height="56"/>
+        width="205"
+        height="39"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-05a03773-8827-4159-88f0-6cc1d4e3d496.xml#id-05a03773-8827-4159-88f0-6cc1d4e3d496"/>
@@ -29,7 +30,7 @@
     <bounds
         x="72"
         y="-10"
-        width="163"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -38,14 +39,15 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="74317aa6-20fc-412c-8a85-e718f631a6a0"
+      targetConnections="edc2187e-febd-4367-8c60-d49c4ea685d7"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
         x="72"
-        y="56"
-        width="163"
+        y="60"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -54,6 +56,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="53134edd-9ccf-4787-8114-a663b6d4b37b"
+      targetConnections="156299e2-ceaf-4902-8a76-0057d2cc5b45"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -73,9 +76,9 @@
           href="RealizationRelationship_id-669fe43d-64a0-4237-a020-6b7ab412abfe.xml#id-669fe43d-64a0-4237-a020-6b7ab412abfe"/>
     </sourceConnections>
     <bounds
-        x="81"
-        y="284"
-        width="152"
+        x="72"
+        y="276"
+        width="205"
         height="41"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -84,6 +87,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ad6249e1-a718-4e2f-bc98-4fd16903059f"
+      targetConnections="85d0606f-7908-4f3c-a20e-18cebd53ac0a"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -102,28 +106,13 @@
           href="RealizationRelationship_id-fc591c53-fae3-43de-958d-8e316c747881.xml#id-fc591c53-fae3-43de-958d-8e316c747881"/>
     </sourceConnections>
     <bounds
-        x="81"
-        y="249"
-        width="152"
+        x="72"
+        y="242"
+        width="205"
         height="31"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-8b9bd5e8-97f7-4a9a-b8c1-e663adf8bf04.xml#id-8b9bd5e8-97f7-4a9a-b8c1-e663adf8bf04"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="c6e4d186-b873-4028-84e6-6fc9940daad1"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="STEG">
-    <bounds
-        x="-72"
-        y="-10"
-        width="132"
-        height="144"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -164,7 +153,7 @@
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
     <bounds
-        x="96"
+        x="151"
         y="612"
         width="165"
         height="68"/>
@@ -174,35 +163,12 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ad6aae45-18e5-4228-9d8b-f0590b520cb1">
-    <bounds
-        x="81"
-        y="330"
-        width="152"
-        height="35"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_45d000d2-d46d-4900-8651-a314a17dd27c.xml#45d000d2-d46d-4900-8651-a314a17dd27c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="47e42d5a-8a3d-4544-91c9-5aaf019da724"
-      textAlignment="1"
-      content="TBD">
-    <bounds
-        x="217"
-        y="338"
-        width="35"
-        height="27"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="eb6e84a0-5f9e-4893-a247-dc7d6afb1fdb">
     <bounds
-        x="81"
-        y="379"
-        width="152"
-        height="42"/>
+        x="72"
+        y="322"
+        width="205"
+        height="63"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_59a02096-1def-4962-ab83-4fb40b336af4.xml#59a02096-1def-4962-ab83-4fb40b336af4"/>
@@ -213,8 +179,8 @@
       textAlignment="1"
       content="TBD">
     <bounds
-        x="217"
-        y="376"
+        x="252"
+        y="372"
         width="35"
         height="27"/>
   </children>
@@ -228,8 +194,8 @@
         source="8ae18610-04f6-459a-b5f6-c53b23822174"
         target="9eababc9-e392-496b-bcad-71fff2efe721"/>
     <bounds
-        x="288"
-        y="612"
+        x="360"
+        y="623"
         width="185"
         height="46"/>
   </children>
@@ -237,12 +203,65 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9c9f0800-28ea-40a1-bb3c-a4b1442e58cb">
     <bounds
-        x="81"
-        y="204"
-        width="152"
-        height="32"/>
+        x="72"
+        y="192"
+        width="205"
+        height="43"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_140d8b76-722b-4963-be0c-e42e32491fa6.xml#140d8b76-722b-4963-be0c-e42e32491fa6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="417fdecc-4d50-4ab6-9ba0-88aaee45f744"
+      textAlignment="1"
+      content="Forslag s&amp;d: slå sammen disse">
+    <sourceConnections
+        id="85d0606f-7908-4f3c-a20e-18cebd53ac0a"
+        source="417fdecc-4d50-4ab6-9ba0-88aaee45f744"
+        target="ad6249e1-a718-4e2f-bc98-4fd16903059f"/>
+    <sourceConnections
+        id="156299e2-ceaf-4902-8a76-0057d2cc5b45"
+        source="417fdecc-4d50-4ab6-9ba0-88aaee45f744"
+        target="53134edd-9ccf-4787-8114-a663b6d4b37b"/>
+    <bounds
+        x="312"
+        y="252"
+        width="170"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a3527162-84f1-4a42-af0a-81505e3643c2"
+      textAlignment="1"
+      content="Forslag s&amp;d: La dette være navnet på steget&#xA;">
+    <sourceConnections
+        id="cc1aaa42-70e9-46d2-a0be-7aaf5dbfef52"
+        source="a3527162-84f1-4a42-af0a-81505e3643c2"
+        target="1ce1b28d-d5e8-4eb8-921c-b189a704ded5"/>
+    <sourceConnections
+        id="edc2187e-febd-4367-8c60-d49c4ea685d7"
+        source="a3527162-84f1-4a42-af0a-81505e3643c2"
+        target="74317aa6-20fc-412c-8a85-e718f631a6a0"/>
+    <bounds
+        x="296"
+        y="150"
+        width="170"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="83b803d9-f262-4a39-aa39-934243b81cda"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="STEG">
+    <bounds
+        x="-72"
+        y="-10"
+        width="132"
+        height="125"/>
   </children>
 </archimate:ArchimateDiagramModel>

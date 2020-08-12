@@ -5,19 +5,6 @@
     id="0919ef86-e055-4e20-9d51-0d688d234f4c">
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="7371adbc-562a-4887-81f7-8180cfc7d7b4"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="STEG">
-    <bounds
-        width="132"
-        height="144"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="80db03d6-db1e-4e3e-bf0b-3a5a335d4051"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
@@ -53,7 +40,7 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        width="190"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -70,7 +57,7 @@
     <bounds
         x="144"
         y="211"
-        width="190"
+        width="205"
         height="66"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -87,7 +74,7 @@
       <bounds
           x="6"
           y="36"
-          width="177"
+          width="187"
           height="25"/>
       <archimateElement
           xsi:type="archimate:BusinessRole"
@@ -108,7 +95,7 @@
     <bounds
         x="144"
         y="151"
-        width="190"
+        width="205"
         height="54"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -125,7 +112,7 @@
       <bounds
           x="6"
           y="24"
-          width="176"
+          width="187"
           height="25"/>
       <archimateElement
           xsi:type="archimate:BusinessRole"
@@ -144,8 +131,8 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        y="60"
-        width="190"
+        y="70"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -161,10 +148,23 @@
     <bounds
         x="144"
         y="288"
-        width="189"
+        width="205"
         height="30"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-b2f06fc9-2ff7-46d8-84d0-6ffa4f1c405c.xml#id-b2f06fc9-2ff7-46d8-84d0-6ffa4f1c405c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="040a4020-58e6-4419-a5b2-10a359c9f211"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="STEG">
+    <bounds
+        width="132"
+        height="125"/>
   </children>
 </archimate:ArchimateDiagramModel>

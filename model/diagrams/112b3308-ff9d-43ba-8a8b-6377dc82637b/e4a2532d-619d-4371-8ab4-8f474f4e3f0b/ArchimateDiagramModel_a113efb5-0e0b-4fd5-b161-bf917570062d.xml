@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C - Drivefase Steg 04 tilsyn"
+    name="C - Drivefase Steg 04 FJERN tilsyn"
     id="a113efb5-0e0b-4fd5-b161-bf917570062d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -13,26 +13,11 @@
     <bounds
         x="72"
         y="-10"
-        width="165"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-853791ec-4bd5-43f5-9a7a-6197e1851d8d.xml#id-853791ec-4bd5-43f5-9a7a-6197e1851d8d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="72665f3d-1ffc-4d17-ae8b-602efe3c23a4"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="STEG">
-    <bounds
-        x="-72"
-        y="-10"
-        width="132"
-        height="144"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -81,9 +66,9 @@
           href="RealizationRelationship_id-b244c52d-7f15-4898-8a82-2f9cbbfc29a7.xml#id-b244c52d-7f15-4898-8a82-2f9cbbfc29a7"/>
     </sourceConnections>
     <bounds
-        x="79"
+        x="72"
         y="153"
-        width="152"
+        width="205"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -99,7 +84,7 @@
     <bounds
         x="72"
         y="60"
-        width="165"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -110,12 +95,27 @@
       id="ec66cc23-afb2-4331-bb29-288d9685a108"
       targetConnections="20275d93-4f2c-41cf-a4cd-7dc3dfaea997">
     <bounds
-        x="84"
+        x="72"
         y="539"
-        width="133"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:CourseOfAction"
         href="CourseOfAction_id-f2ecfe54-178b-464b-9611-ca25bab9f338.xml#id-f2ecfe54-178b-464b-9611-ca25bab9f338"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d40389c8-b2c1-4e52-bc4b-fa8c087674e0"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="STEG">
+    <bounds
+        x="-72"
+        y="-10"
+        width="132"
+        height="125"/>
   </children>
 </archimate:ArchimateDiagramModel>

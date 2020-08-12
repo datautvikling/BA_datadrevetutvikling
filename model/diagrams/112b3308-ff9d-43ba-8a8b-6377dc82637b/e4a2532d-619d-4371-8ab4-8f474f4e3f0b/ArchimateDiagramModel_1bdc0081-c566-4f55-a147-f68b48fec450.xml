@@ -18,8 +18,8 @@
     <bounds
         x="72"
         y="408"
-        width="193"
-        height="109"/>
+        width="205"
+        height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f8b88ea9-c487-41ae-b23d-8b603b5f9a1a"
@@ -31,22 +31,21 @@
           source="f8b88ea9-c487-41ae-b23d-8b603b5f9a1a"
           target="1c7ff6ff-0d6d-485e-af14-51966ae9fc15">
         <bendpoints
-            startX="122"
-            endX="134"
-            endY="-109"/>
+            startX="138"
+            endX="138"
+            endY="-97"/>
         <bendpoints
-            startX="122"
+            startX="138"
             startY="96"
-            endX="134"
-            endY="-13"/>
+            endX="138"
+            endY="-1"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_a19bdd36-49d9-4761-84b6-e755d2548c69.xml#a19bdd36-49d9-4761-84b6-e755d2548c69"/>
       </sourceConnections>
       <bounds
-          x="12"
           y="36"
-          width="165"
+          width="205"
           height="49"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
@@ -66,26 +65,11 @@
     <bounds
         x="72"
         y="-10"
-        width="165"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-853791ec-4bd5-43f5-9a7a-6197e1851d8d.xml#id-853791ec-4bd5-43f5-9a7a-6197e1851d8d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="81bd05be-1114-4d1f-a5e0-3f8980514739"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="STEG">
-    <bounds
-        x="-72"
-        y="-10"
-        width="132"
-        height="144"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -127,7 +111,7 @@
     <bounds
         x="72"
         y="158"
-        width="165"
+        width="205"
         height="48"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -142,8 +126,8 @@
       fillColor="#ffffb5">
     <bounds
         x="72"
-        y="79"
-        width="165"
+        y="60"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -156,10 +140,25 @@
     <bounds
         x="72"
         y="540"
-        width="165"
+        width="205"
         height="50"/>
     <archimateElement
         xsi:type="archimate:CourseOfAction"
         href="CourseOfAction_id-e8de47ba-216e-43f8-831d-6036dfd5ae34.xml#id-e8de47ba-216e-43f8-831d-6036dfd5ae34"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c0b9a6c7-90c8-45b6-a395-81bbce62361e"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="STEG">
+    <bounds
+        x="-72"
+        y="-10"
+        width="132"
+        height="125"/>
   </children>
 </archimate:ArchimateDiagramModel>

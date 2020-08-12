@@ -235,7 +235,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="181"
+        x="180"
         y="456"
         width="157"
         height="55"/>
@@ -251,7 +251,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="686"
+        x="687"
         y="456"
         width="157"
         height="55"/>
@@ -267,7 +267,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="349"
+        x="350"
         y="456"
         width="157"
         height="55"/>
@@ -283,7 +283,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="1361"
+        x="1530"
         y="456"
         width="157"
         height="55"/>
@@ -331,8 +331,8 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="1529"
-        y="456"
+        x="9"
+        y="610"
         width="165"
         height="55"/>
     <archimateElement
@@ -347,7 +347,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="13"
+        x="180"
         y="611"
         width="157"
         height="55"/>
@@ -370,22 +370,6 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-5d71dbe9-71cd-4d8b-a61a-ba36dc2b2b50.xml#id-5d71dbe9-71cd-4d8b-a61a-ba36dc2b2b50"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="441decae-954a-4307-b831-c2546cee0e15"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
-    <bounds
-        x="182"
-        y="611"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-0ce9b1f9-95a9-44b3-bce1-da35f0167923.xml#id-0ce9b1f9-95a9-44b3-bce1-da35f0167923"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -418,22 +402,6 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-5a1ad4c9-e13c-483f-a5d1-1c10b4486595.xml#id-5a1ad4c9-e13c-483f-a5d1-1c10b4486595"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="8c86395d-e0da-4ef5-acbc-dc25237464b8"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
-    <bounds
-        x="518"
-        y="456"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-c6437e88-843f-4ed1-ae6b-af25af6b3758.xml#id-c6437e88-843f-4ed1-ae6b-af25af6b3758"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -535,7 +503,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5fa5ac27-fab5-41b1-abdb-65b0e2cbf3d5">
     <bounds
-        x="1190"
+        x="1360"
         y="456"
         width="160"
         height="55"/>
@@ -581,9 +549,9 @@
       textAlignment="1"
       content="Digøk: 2. ansette">
     <bounds
-        x="1023"
-        y="516"
-        width="328"
+        x="1024"
+        y="518"
+        width="495"
         height="28"/>
   </children>
   <children
@@ -642,7 +610,7 @@
       textAlignment="1"
       content="Digøk 3: inngå avtale">
     <bounds
-        x="11"
+        x="180"
         y="517"
         width="325"
         height="30"/>
@@ -653,10 +621,10 @@
       textAlignment="1"
       content="Digøk 4: leveranser, utøvelse av drift og dokumentasjon">
     <bounds
-        x="345"
+        x="514"
         y="517"
-        width="329"
-        height="42"/>
+        width="162"
+        height="69"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -664,7 +632,7 @@
       textAlignment="1"
       content="Digøk 5: gjøre opp med foretningspart">
     <bounds
-        x="11"
+        x="180"
         y="546"
         width="157"
         height="40"/>
@@ -686,9 +654,33 @@
       textAlignment="1"
       content="Digøk 7: etterleve myndighetskrav">
     <bounds
-        x="13"
+        x="180"
         y="672"
-        width="663"
+        width="496"
         height="32"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8ac4e7c4-8e5d-4a25-aefe-fe3ae11e9425">
+    <bounds
+        x="518"
+        y="456"
+        width="158"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_e66e50df-eac0-4077-a061-faf7541a9ce4.xml#e66e50df-eac0-4077-a061-faf7541a9ce4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fba93903-0079-4ba7-951a-35bdd8ab4f96">
+    <bounds
+        x="1194"
+        y="456"
+        width="158"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_0d6ed595-b82d-43b3-ba25-2dfe10a22d5e.xml#0d6ed595-b82d-43b3-ba25-2dfe10a22d5e"/>
   </children>
 </archimate:ArchimateDiagramModel>
