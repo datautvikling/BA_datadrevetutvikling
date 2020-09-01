@@ -4,34 +4,6 @@
     name="B - Etableringsfase Steg 04 immatrielle rettigheter"
     id="0919ef86-e055-4e20-9d51-0d688d234f4c">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="80db03d6-db1e-4e3e-bf0b-3a5a335d4051"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="AKTIVITETER">
-    <bounds
-        y="151"
-        width="132"
-        height="384"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="40738c71-4c3e-48c7-85a4-1b02eb3dd6eb"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="TILTAK">
-    <bounds
-        y="549"
-        width="132"
-        height="124"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bdd4e057-3a11-4c36-b384-6f966a0ead18"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
@@ -156,15 +128,46 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="040a4020-58e6-4419-a5b2-10a359c9f211"
+      id="391745b5-9712-4098-b415-56f03f806970"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="STEG">
+      content="TILTAK"
+      borderType="2">
+    <bounds
+        y="684"
+        width="132"
+        height="124"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="88c72bd7-2a64-49e5-b0a7-d3c7c01727a5"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="STEG"
+      borderType="2">
     <bounds
         width="132"
         height="125"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b7f04e19-5171-463f-8126-fd32137c7ef7"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="AKTIVITETER"
+      borderType="2">
+    <bounds
+        y="155"
+        width="132"
+        height="513"/>
   </children>
 </archimate:ArchimateDiagramModel>

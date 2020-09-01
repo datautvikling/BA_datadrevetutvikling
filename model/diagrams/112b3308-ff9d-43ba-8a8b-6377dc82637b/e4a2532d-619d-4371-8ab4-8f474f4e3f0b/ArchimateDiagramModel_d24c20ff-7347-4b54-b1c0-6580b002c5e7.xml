@@ -11,7 +11,8 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="TILTAK">
+      content="TILTAK"
+      borderType="2">
     <bounds
         x="10"
         y="696"
@@ -90,7 +91,8 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="STEG">
+      content="STEG"
+      borderType="2">
     <bounds
         x="10"
         y="10"
@@ -105,7 +107,8 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="AKTIVITETER">
+      content="AKTIVITETER"
+      borderType="2">
     <bounds
         x="10"
         y="161"

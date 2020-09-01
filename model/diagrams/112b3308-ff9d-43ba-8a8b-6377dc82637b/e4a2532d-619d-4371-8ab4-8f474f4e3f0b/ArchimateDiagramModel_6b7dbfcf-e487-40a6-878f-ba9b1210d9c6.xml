@@ -20,36 +20,6 @@
         href="BusinessProcess_id-853791ec-4bd5-43f5-9a7a-6197e1851d8d.xml#id-853791ec-4bd5-43f5-9a7a-6197e1851d8d"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="e95d7b56-ab9d-42c0-898f-2715ec5f5a15"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="AKTIVITETER">
-    <bounds
-        x="-72"
-        y="141"
-        width="132"
-        height="384"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="4e8aac5f-7641-4334-8c32-6e00cd3f1aaa"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="TILTAK">
-    <bounds
-        x="-72"
-        y="612"
-        width="132"
-        height="98"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cbdb93ae-ec7e-42de-8b71-81c263984a73">
     <bounds
@@ -261,5 +231,35 @@
         y="-10"
         width="132"
         height="125"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="836e68cf-beda-49c3-8c9e-ef1bdc6e17b3"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="AKTIVITETER">
+    <bounds
+        x="-72"
+        y="141"
+        width="132"
+        height="498"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="dc81f4e3-35cc-4add-813c-eb29d9c6849e"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="TILTAK">
+    <bounds
+        x="-72"
+        y="650"
+        width="132"
+        height="76"/>
   </children>
 </archimate:ArchimateDiagramModel>

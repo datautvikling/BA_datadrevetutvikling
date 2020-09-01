@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C - Drivefase Steg 05 kreditt"
+    name="C - Drivefase Steg 05 kreditt og investeringer"
     id="8d02e3ec-6f8c-4b1f-99a9-3d677bf4459e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -18,36 +18,6 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-853791ec-4bd5-43f5-9a7a-6197e1851d8d.xml#id-853791ec-4bd5-43f5-9a7a-6197e1851d8d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="cd61638a-b88b-4f00-9606-ed78e6777201"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="AKTIVITETER">
-    <bounds
-        x="-72"
-        y="141"
-        width="132"
-        height="384"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="4617b247-9537-4b11-bb2a-dc24afd22cf6"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="TILTAK">
-    <bounds
-        x="-72"
-        y="539"
-        width="132"
-        height="98"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -111,5 +81,35 @@
         y="-10"
         width="132"
         height="125"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="489590df-8ded-4225-8bf2-8972efc1f8f5"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="AKTIVITETER">
+    <bounds
+        x="-72"
+        y="148"
+        width="132"
+        height="498"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="74f9ee15-e7c7-4f1f-9ad3-434545c82001"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="TILTAK">
+    <bounds
+        x="-72"
+        y="657"
+        width="132"
+        height="76"/>
   </children>
 </archimate:ArchimateDiagramModel>

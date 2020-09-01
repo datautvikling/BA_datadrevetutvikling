@@ -4,34 +4,6 @@
     name="B - Etableringsfase Steg 06 digital etterlevelse"
     id="37e2eb0d-0d84-484d-8cbb-1af73c382ade">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="de49a1ae-b7cb-4f5b-9977-4ccba3b616ec"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="AKTIVITETER">
-    <bounds
-        y="151"
-        width="132"
-        height="414"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="8380f8eb-1dfb-4b6a-89d7-74476c680b1a"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="TILTAK">
-    <bounds
-        y="576"
-        width="132"
-        height="109"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="da2adb62-aa07-4016-8949-19f36f99b609"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
@@ -56,7 +28,7 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        y="151"
+        y="275"
         width="205"
         height="119"/>
     <children
@@ -115,7 +87,7 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        y="272"
+        y="396"
         width="205"
         height="58"/>
     <children
@@ -173,17 +145,17 @@
         source="09bb1d25-fecd-4d5b-aec0-b55df04ecc96"
         target="1c6d98f7-4ceb-4502-b4a1-cded96eb1097">
       <bendpoints
-          startX="125"
+          startX="137"
           startY="-5"
-          endX="61"
-          endY="-203"/>
+          endX="54"
+          endY="-311"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-d949f6f4-3757-4ca9-bd76-ebe429934671.xml#id-d949f6f4-3757-4ca9-bd76-ebe429934671"/>
     </sourceConnections>
     <bounds
         x="145"
-        y="382"
+        y="506"
         width="204"
         height="39"/>
     <archimateElement
@@ -199,8 +171,8 @@
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
     <bounds
-        x="230"
-        y="576"
+        x="228"
+        y="808"
         width="205"
         height="47"/>
     <archimateElement
@@ -212,7 +184,7 @@
       id="cd09c3cb-780c-4e50-be80-fdb21250320d">
     <bounds
         x="144"
-        y="346"
+        y="470"
         width="205"
         height="27"/>
     <archimateElement
@@ -224,7 +196,7 @@
       id="583c072e-5849-45b9-8585-da7168674717">
     <bounds
         x="144"
-        y="426"
+        y="550"
         width="205"
         height="40"/>
     <archimateElement
@@ -238,7 +210,7 @@
       content="TBD">
     <bounds
         x="348"
-        y="336"
+        y="460"
         width="35"
         height="27"/>
   </children>
@@ -268,7 +240,7 @@
         target="b7f41350-7d9a-4c4b-83f5-027454a5b781"/>
     <bounds
         x="408"
-        y="240"
+        y="364"
         width="143"
         height="80"/>
   </children>
@@ -277,8 +249,8 @@
       id="b87afa3d-ea1e-4942-bb6d-3dfa891c3fba"
       targetConnections="606d889b-89e8-4f7a-9069-698366992279">
     <bounds
-        x="230"
-        y="630"
+        x="228"
+        y="868"
         width="205"
         height="55"/>
     <archimateElement
@@ -295,9 +267,9 @@
         source="e9130296-5a43-44d7-8662-15d789e5d5bb"
         target="b87afa3d-ea1e-4942-bb6d-3dfa891c3fba">
       <bendpoints
-          startX="-24"
-          startY="150"
-          endX="-107"
+          startX="-42"
+          startY="282"
+          endX="-126"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
@@ -305,7 +277,7 @@
     </sourceConnections>
     <bounds
         x="144"
-        y="468"
+        y="592"
         width="205"
         height="37"/>
     <archimateElement
@@ -323,7 +295,7 @@
         target="e9130296-5a43-44d7-8662-15d789e5d5bb"/>
     <bounds
         x="372"
-        y="496"
+        y="620"
         width="133"
         height="53"/>
   </children>
@@ -334,21 +306,95 @@
       content="TBD">
     <bounds
         x="348"
-        y="420"
+        y="544"
         width="35"
         height="27"/>
   </children>
   <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="503fa7fc-b17c-451c-b777-cffc0b1c61f8">
+    <bounds
+        x="145"
+        y="156"
+        width="217"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_9cf587df-ff6f-443b-a2cb-426fca3f7774.xml#9cf587df-ff6f-443b-a2cb-426fca3f7774"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="edc2cf1b-0860-4467-97fc-47d32315e3cd">
+    <bounds
+        x="382"
+        y="156"
+        width="217"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_e968d757-fafc-4004-b45c-e54ba58bfe0f.xml#e968d757-fafc-4004-b45c-e54ba58bfe0f"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelNote"
-      id="bf662cca-9131-40a2-a24c-681d6d51da51"
+      id="9c3c062d-d6f5-4fda-9548-7edf9519dce0"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="STEG">
+      content="TILTAK"
+      borderType="2">
     <bounds
+        x="-12"
+        y="876"
+        width="132"
+        height="124"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="0cfeda32-50c9-41f8-a357-38f44966a431"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="STEG"
+      borderType="2">
+    <bounds
+        x="-12"
         width="132"
         height="125"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a6ea4298-4899-4dae-996f-bf4b6b504af2"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="AKTIVITETER"
+      borderType="2">
+    <bounds
+        x="-12"
+        y="275"
+        width="132"
+        height="582"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ec0b8abb-03b4-44db-875f-84c474699d75"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="INNSIKT"
+      borderType="2">
+    <bounds
+        x="-12"
+        y="144"
+        width="132"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>
