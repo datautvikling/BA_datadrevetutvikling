@@ -28,7 +28,7 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        y="211"
+        y="336"
         width="205"
         height="66"/>
     <children
@@ -66,7 +66,7 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        y="151"
+        y="276"
         width="205"
         height="54"/>
     <children
@@ -119,7 +119,7 @@
       fillColor="#ffffb5">
     <bounds
         x="144"
-        y="288"
+        y="413"
         width="205"
         height="30"/>
     <archimateElement
@@ -128,7 +128,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="391745b5-9712-4098-b415-56f03f806970"
+      id="5e4638ff-6c53-46dd-a55f-791b1e30afaf"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -137,13 +137,13 @@
       content="TILTAK"
       borderType="2">
     <bounds
-        y="684"
+        y="876"
         width="132"
         height="124"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="88c72bd7-2a64-49e5-b0a7-d3c7c01727a5"
+      id="5088003c-3e66-4708-9998-f5cbbd25bd76"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -157,7 +157,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="b7f04e19-5171-463f-8126-fd32137c7ef7"
+      id="65c4e942-f21b-46dd-b510-d5939ba6b507"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -166,8 +166,23 @@
       content="AKTIVITETER"
       borderType="2">
     <bounds
-        y="155"
+        y="275"
         width="132"
-        height="513"/>
+        height="582"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="12ffa0c5-bd87-4201-9dbd-0733e8f65ba0"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="INNSIKT"
+      borderType="2">
+    <bounds
+        y="144"
+        width="132"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>

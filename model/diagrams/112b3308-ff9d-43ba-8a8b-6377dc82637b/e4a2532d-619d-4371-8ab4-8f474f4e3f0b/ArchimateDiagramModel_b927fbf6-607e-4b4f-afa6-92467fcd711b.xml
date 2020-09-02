@@ -28,7 +28,7 @@
       fillColor="#fdef2b">
     <bounds
         x="146"
-        y="155"
+        y="275"
         width="202"
         height="73"/>
     <children
@@ -74,7 +74,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="32bfd6d6-2675-4cb6-8f74-8426a690961e"
+      id="a1a87933-388a-4401-ac66-d937f9dc4cbc"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -83,13 +83,13 @@
       content="TILTAK"
       borderType="2">
     <bounds
-        y="684"
+        y="876"
         width="132"
         height="124"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="1e09725e-e28c-4510-a929-535b1116d2dd"
+      id="37103645-4aee-4840-a8d0-feeb9492c028"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -103,7 +103,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="7bd8f40f-7413-48e5-8b97-cd8d73d1f77f"
+      id="eb3cf399-95b6-4e22-9cdc-5c8a0a44c5cd"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -112,8 +112,23 @@
       content="AKTIVITETER"
       borderType="2">
     <bounds
-        y="155"
+        y="275"
         width="132"
-        height="513"/>
+        height="582"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7afe440b-0802-4a05-a19b-42e1f35d0fa8"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="INNSIKT"
+      borderType="2">
+    <bounds
+        y="144"
+        width="132"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>
