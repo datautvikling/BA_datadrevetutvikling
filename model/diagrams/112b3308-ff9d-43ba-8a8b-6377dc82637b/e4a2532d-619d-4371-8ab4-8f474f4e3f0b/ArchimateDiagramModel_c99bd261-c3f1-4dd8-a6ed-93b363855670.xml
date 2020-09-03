@@ -4,21 +4,6 @@
     name="C - Drivefase Steg 11 styret og eierforhold"
     id="c99bd261-c3f1-4dd8-a6ed-93b363855670">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="d85767e6-1019-409c-861b-07114cf11d25"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="TILTAK">
-    <bounds
-        x="-72"
-        y="696"
-        width="132"
-        height="158"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f6a7d63e-0460-4b41-8487-ea275da88c4e"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
@@ -181,21 +166,6 @@
         height="27"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="76939cbc-a9a8-463a-b63e-2903d72b9095"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="STEG">
-    <bounds
-        x="-72"
-        y="-10"
-        width="132"
-        height="125"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0abb65e8-00db-4c54-8460-01ee1367ca77"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
@@ -287,21 +257,6 @@
         href="Grouping_31a60498-3ffd-41f9-ba6a-12cab670e6a9.xml#31a60498-3ffd-41f9-ba6a-12cab670e6a9"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="411d7bfc-2463-4214-9a91-3ec413d873f6"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="AKTIVITETER">
-    <bounds
-        x="-72"
-        y="141"
-        width="132"
-        height="523"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="63c4ac43-6bba-4c42-b72d-cc4f7ea0f173">
     <bounds
@@ -324,5 +279,69 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_bce425f7-3aff-4339-a494-b99963e65be6.xml#bce425f7-3aff-4339-a494-b99963e65be6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="851167c2-d431-429a-a8c4-a1611e288033"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="TILTAK"
+      borderType="2">
+    <bounds
+        x="-72"
+        y="866"
+        width="132"
+        height="124"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="5c05dc35-8b79-4bdd-91cf-835dd50008af"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="STEG"
+      borderType="2">
+    <bounds
+        x="-72"
+        y="-10"
+        width="132"
+        height="125"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="5f0024bd-1648-476d-bf08-533720ac8fa9"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="AKTIVITETER"
+      borderType="2">
+    <bounds
+        x="-72"
+        y="265"
+        width="132"
+        height="582"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ddda350d-5446-4c6a-b05a-09548028a831"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="INNSIKT"
+      borderType="2">
+    <bounds
+        x="-72"
+        y="134"
+        width="132"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>

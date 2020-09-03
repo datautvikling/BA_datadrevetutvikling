@@ -4,21 +4,6 @@
     name="C - Drivefase Steg 12 betale skatt og avgift"
     id="b6da8f9a-f591-4b72-8da9-dc4c0dad97ef">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="a2127131-0ab8-46da-9dd8-a888b5337a88"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="TILTAK">
-    <bounds
-        x="-72"
-        y="672"
-        width="132"
-        height="98"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0728c89c-5b42-436e-a77a-952e2cb54717"
       targetConnections="28238483-8994-47fc-bcf5-7dd131df2ed8"
@@ -28,7 +13,7 @@
       fillColor="#ffffb5">
     <bounds
         x="75"
-        y="336"
+        y="460"
         width="207"
         height="89"/>
     <children
@@ -66,7 +51,7 @@
       fillColor="#ffffb5">
     <bounds
         x="75"
-        y="235"
+        y="359"
         width="207"
         height="88"/>
     <children
@@ -119,7 +104,7 @@
       fillColor="#ffffb5">
     <bounds
         x="75"
-        y="432"
+        y="556"
         width="207"
         height="27"/>
     <archimateElement
@@ -143,21 +128,6 @@
         href="BusinessProcess_id-853791ec-4bd5-43f5-9a7a-6197e1851d8d.xml#id-853791ec-4bd5-43f5-9a7a-6197e1851d8d"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="72bfb720-32f9-481c-90b3-3463dd2638d8"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="STEG">
-    <bounds
-        x="-72"
-        y="-10"
-        width="132"
-        height="125"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="24acc4cb-c326-4485-af37-a721423dc6c3"
       targetConnections="129a4954-d1b7-4c84-a4c7-5ef42715a225"
@@ -167,7 +137,7 @@
       fillColor="#ffffb5">
     <bounds
         x="75"
-        y="141"
+        y="265"
         width="207"
         height="88"/>
     <children
@@ -197,17 +167,66 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="bd9270e6-8444-4fb1-a419-dfd11f0b41d7"
+      id="6a56e3f4-da1b-4bfc-ab39-dd3df0c2000e"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="AKTIVITETER">
+      content="TILTAK"
+      borderType="2">
     <bounds
         x="-72"
-        y="138"
+        y="866"
         width="132"
-        height="523"/>
+        height="124"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="cd93997b-0f00-4bf3-a7ba-37b123a121c6"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="STEG"
+      borderType="2">
+    <bounds
+        x="-72"
+        y="-10"
+        width="132"
+        height="125"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="92b02fc0-be8f-4176-88fc-5bc5e4309013"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="AKTIVITETER"
+      borderType="2">
+    <bounds
+        x="-72"
+        y="265"
+        width="132"
+        height="582"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7e103c32-9630-4ab5-a8ab-dc41c8c1a108"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="INNSIKT"
+      borderType="2">
+    <bounds
+        x="-72"
+        y="134"
+        width="132"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>
