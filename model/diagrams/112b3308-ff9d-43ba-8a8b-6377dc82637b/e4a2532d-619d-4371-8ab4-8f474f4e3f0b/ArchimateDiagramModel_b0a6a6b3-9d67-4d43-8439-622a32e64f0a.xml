@@ -29,7 +29,7 @@
       fillColor="#ffffb5">
     <bounds
         x="73"
-        y="265"
+        y="373"
         width="208"
         height="51"/>
     <children
@@ -75,7 +75,7 @@
       targetConnections="ac44ad83-c67b-4025-8cdb-056959a0b177">
     <bounds
         x="75"
-        y="568"
+        y="676"
         width="206"
         height="48"/>
     <children
@@ -109,7 +109,7 @@
       targetConnections="3cf6b6ce-7f8b-423d-8686-619f015d8aff">
     <bounds
         x="72"
-        y="319"
+        y="427"
         width="209"
         height="50"/>
     <children
@@ -143,7 +143,7 @@
       targetConnections="930e00fe-3f13-4b45-a1a3-39c0338ab6b4">
     <bounds
         x="73"
-        y="372"
+        y="480"
         width="208"
         height="63"/>
     <children
@@ -176,7 +176,7 @@
       id="f3d521df-0aa4-4a1c-a377-edb56e08031f">
     <bounds
         x="73"
-        y="763"
+        y="871"
         width="208"
         height="25"/>
     <archimateElement
@@ -193,7 +193,7 @@
       fillColor="#ffffb5">
     <bounds
         x="74"
-        y="735"
+        y="843"
         width="208"
         height="25"/>
     <archimateElement
@@ -211,7 +211,7 @@
         target="e9c6adb0-6779-465d-a654-3da6958656b4"/>
     <bounds
         x="312"
-        y="726"
+        y="834"
         width="185"
         height="43"/>
   </children>
@@ -221,7 +221,7 @@
       targetConnections="5ef95044-a012-41db-8b54-3fa0c77d506d">
     <bounds
         x="73"
-        y="438"
+        y="546"
         width="208"
         height="63"/>
     <children
@@ -255,7 +255,7 @@
       targetConnections="627f36e2-4c4b-42d4-b289-aa090815e899">
     <bounds
         x="72"
-        y="503"
+        y="611"
         width="209"
         height="62"/>
     <children
@@ -289,7 +289,7 @@
       targetConnections="5156f746-da81-498c-a7d6-bd180766efb4">
     <bounds
         x="74"
-        y="619"
+        y="727"
         width="207"
         height="46"/>
     <children
@@ -327,7 +327,7 @@
       fillColor="#ffffb5">
     <bounds
         x="73"
-        y="669"
+        y="777"
         width="209"
         height="63"/>
     <children
@@ -357,7 +357,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="d53df95f-25d3-4c12-acf6-f5013dcf1062"
+      id="97a1ce0c-e21c-42ab-aaa2-838cea388f59"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -367,13 +367,13 @@
       borderType="2">
     <bounds
         x="-72"
-        y="866"
+        y="954"
         width="132"
         height="124"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="1d1efbf5-e686-4b80-b1d3-41595f33409f"
+      id="8ea74aab-6573-455e-a760-26571621c775"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -389,7 +389,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="602d0c06-9db9-4495-a5c6-88204fcb5ca2"
+      id="01796bce-1117-4f2b-8c59-a86f925acb16"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -399,13 +399,13 @@
       borderType="2">
     <bounds
         x="-72"
-        y="265"
+        y="373"
         width="132"
         height="582"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="4eb38e09-6b92-4f63-b58d-2f6a25e0ce63"
+      id="ad333a02-a8c0-4e52-ac02-b30068d2aacf"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -415,8 +415,48 @@
       borderType="2">
     <bounds
         x="-72"
-        y="134"
+        y="121"
         width="132"
         height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a059f4f5-85c2-4762-9e91-e4f188c964be"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="REGELVERK"
+      borderType="2">
+    <bounds
+        x="-72"
+        y="246"
+        width="132"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b6fc6494-6158-4219-a7cd-0754a5e19a98">
+    <bounds
+        x="73"
+        y="252"
+        width="208"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_dd19607e-e02c-450d-b24e-62e034905bf6.xml#dd19607e-e02c-450d-b24e-62e034905bf6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="22bf75fc-f1b0-4339-a2dc-f94e3d12e9f3">
+    <bounds
+        x="75"
+        y="300"
+        width="207"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_808c132f-18ab-4568-a09a-3ce1f52b873a.xml#808c132f-18ab-4568-a09a-3ce1f52b873a"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -48,7 +48,7 @@
     </sourceConnections>
     <bounds
         x="72"
-        y="324"
+        y="432"
         width="205"
         height="71"/>
     <children
@@ -98,7 +98,7 @@
       targetConnections="fc36e2c6-5f56-4c52-ac41-c581365bae26">
     <bounds
         x="72"
-        y="866"
+        y="974"
         width="205"
         height="37"/>
     <archimateElement
@@ -130,7 +130,7 @@
     </sourceConnections>
     <bounds
         x="72"
-        y="562"
+        y="670"
         width="205"
         height="81"/>
     <children
@@ -185,7 +185,7 @@
       targetConnections="4fd3be29-4989-4d6e-b26f-1563f27d6578">
     <bounds
         x="72"
-        y="265"
+        y="373"
         width="205"
         height="55"/>
     <children
@@ -219,7 +219,7 @@
       targetConnections="21385f9f-f55a-4e74-8595-69aa0477ba05 3303691e-5e62-4d07-aeb0-8c6e35efd249">
     <bounds
         x="72"
-        y="909"
+        y="1017"
         width="205"
         height="35"/>
     <archimateElement
@@ -255,7 +255,7 @@
     </sourceConnections>
     <bounds
         x="72"
-        y="482"
+        y="590"
         width="205"
         height="73"/>
     <children
@@ -289,7 +289,7 @@
       targetConnections="34088f08-87f2-4802-86e2-9df30df51453 f3637233-967a-477c-8dd3-c64bf14dcbb4">
     <bounds
         x="72"
-        y="400"
+        y="508"
         width="205"
         height="78"/>
     <children
@@ -340,7 +340,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="ea6c3ef1-0aa8-4bd6-b741-6da4655a3ca2"
+      id="a785a67f-240a-4a6b-a61a-2977b3a055af"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -350,13 +350,13 @@
       borderType="2">
     <bounds
         x="-72"
-        y="866"
+        y="954"
         width="132"
         height="124"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="15c37a46-f792-49be-89bb-e4c4502e97c4"
+      id="ba1f79c2-fec6-4964-9b7b-9582fb2248b7"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -372,7 +372,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="b575d2d7-c750-4363-9a68-fe84add76fad"
+      id="18ddec80-0049-4e41-96eb-120304f72d6c"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -382,13 +382,13 @@
       borderType="2">
     <bounds
         x="-72"
-        y="265"
+        y="373"
         width="132"
         height="582"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="ce374896-7046-40f3-8935-b986209113bf"
+      id="0e5c14ca-8a0a-470a-b7c3-e8c79e6ed927"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -398,8 +398,60 @@
       borderType="2">
     <bounds
         x="-72"
-        y="134"
+        y="121"
         width="132"
         height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1a9c5479-1c18-44f2-94f3-0ecd0748223e"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="REGELVERK"
+      borderType="2">
+    <bounds
+        x="-72"
+        y="246"
+        width="132"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="81ba3242-ab77-4c1e-9e29-be90953296c2">
+    <bounds
+        x="72"
+        y="252"
+        width="205"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_e997cc8c-3d3f-4c27-a98d-e3b49422ee56.xml#e997cc8c-3d3f-4c27-a98d-e3b49422ee56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ade28844-f222-4357-89ee-9a2874086b25">
+    <bounds
+        x="72"
+        y="300"
+        width="205"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_b05b904a-b42a-4317-ada9-4039265623ba.xml#b05b904a-b42a-4317-ada9-4039265623ba"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1b42e056-a353-4dd0-a7ae-78882b6cd215">
+    <bounds
+        x="288"
+        y="252"
+        width="205"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_0275a0fe-ace5-4f09-a7ff-9cae729b26cb.xml#0275a0fe-ace5-4f09-a7ff-9cae729b26cb"/>
   </children>
 </archimate:ArchimateDiagramModel>

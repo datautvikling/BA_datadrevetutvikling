@@ -37,7 +37,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="4723a914-491e-4727-8065-c3edfeb21603"
+      id="4e4ca4ca-715e-4be3-bdf3-5bce7f3da921"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -47,13 +47,13 @@
       borderType="2">
     <bounds
         x="-72"
-        y="885"
+        y="973"
         width="132"
         height="124"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="0ca472ad-76cf-4367-b021-ddc5a9352aab"
+      id="2c1b0e89-8963-4b13-aed3-43ace211b712"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -69,7 +69,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="57c9623f-fd31-4ad6-943b-3eaabe31de91"
+      id="e1fa1330-ea01-4b8f-b494-ed6c7848ab71"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -79,13 +79,13 @@
       borderType="2">
     <bounds
         x="-72"
-        y="284"
+        y="392"
         width="132"
         height="582"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="9821f03b-ed33-435e-bef0-d2dee4f6e130"
+      id="b7c0463d-cad4-4b72-9dc1-b56e7927e969"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -95,7 +95,23 @@
       borderType="2">
     <bounds
         x="-72"
-        y="153"
+        y="140"
+        width="132"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="785ab850-8790-4f72-bb89-bf726a1b463c"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="REGELVERK"
+      borderType="2">
+    <bounds
+        x="-72"
+        y="265"
         width="132"
         height="121"/>
   </children>

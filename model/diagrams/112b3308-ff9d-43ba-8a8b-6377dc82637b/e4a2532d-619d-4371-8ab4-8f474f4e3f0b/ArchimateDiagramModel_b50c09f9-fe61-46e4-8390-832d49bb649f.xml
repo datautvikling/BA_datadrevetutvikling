@@ -13,7 +13,7 @@
       fillColor="#fdef2b">
     <bounds
         x="82"
-        y="302"
+        y="412"
         width="205"
         height="53"/>
     <children
@@ -80,7 +80,7 @@
       targetConnections="4b96bda6-e214-465e-b786-ea58d89f7bc8">
     <bounds
         x="83"
-        y="528"
+        y="638"
         width="204"
         height="68"/>
     <children
@@ -113,7 +113,7 @@
       id="10e8c082-c7c8-4674-8ffa-6a9ce885c0d9">
     <bounds
         x="82"
-        y="600"
+        y="710"
         width="205"
         height="40"/>
     <archimateElement
@@ -140,7 +140,7 @@
       id="69b4e55e-0d51-48e4-8185-49cd1bad2e23">
     <bounds
         x="82"
-        y="263"
+        y="373"
         width="205"
         height="35"/>
     <archimateElement
@@ -154,7 +154,7 @@
       fillColor="#fdef2b">
     <bounds
         x="83"
-        y="361"
+        y="471"
         width="204"
         height="58"/>
     <children
@@ -187,7 +187,7 @@
       id="6b2d0fc1-883b-4dbb-a329-458ad7c6b9cc">
     <bounds
         x="82"
-        y="425"
+        y="535"
         width="205"
         height="40"/>
     <archimateElement
@@ -201,7 +201,7 @@
       fillColor="#fdef2b">
     <bounds
         x="83"
-        y="470"
+        y="580"
         width="204"
         height="51"/>
     <children
@@ -234,7 +234,7 @@
       id="e0a2be04-43fc-438c-bde7-88d0975c6512">
     <bounds
         x="83"
-        y="144"
+        y="132"
         width="217"
         height="55"/>
     <archimateElement
@@ -243,7 +243,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="20d53d85-5ecc-481c-92b6-6bcd9099be8a"
+      id="5b39bf1e-77d7-49f3-a3ce-1703da2e4934"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -252,14 +252,14 @@
       content="TILTAK"
       borderType="2">
     <bounds
-        x="-72"
-        y="866"
+        x="-60"
+        y="954"
         width="132"
         height="124"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="c9bc36ae-061f-443f-8f37-143a2cf2b5ca"
+      id="9b3beb0f-9f80-4d3b-83a6-26c3979ef369"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -268,14 +268,14 @@
       content="STEG"
       borderType="2">
     <bounds
-        x="-72"
+        x="-60"
         y="-10"
         width="132"
         height="125"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="511663a5-357c-48d2-a57c-fd6f16bb93f0"
+      id="0f1b062c-ec4a-42ee-b7a5-0357e2332897"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -284,14 +284,14 @@
       content="AKTIVITETER"
       borderType="2">
     <bounds
-        x="-72"
-        y="265"
+        x="-60"
+        y="373"
         width="132"
         height="582"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="d2a33628-868a-4bd1-8659-134fba6f1888"
+      id="18b51bf6-fce4-4e4f-b5ac-32f14f7effb0"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -300,8 +300,24 @@
       content="INNSIKT"
       borderType="2">
     <bounds
-        x="-72"
-        y="134"
+        x="-60"
+        y="121"
+        width="132"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4ba6a4d1-c644-41f4-80e7-dfa5e21a3baf"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="REGELVERK"
+      borderType="2">
+    <bounds
+        x="-60"
+        y="246"
         width="132"
         height="121"/>
   </children>
