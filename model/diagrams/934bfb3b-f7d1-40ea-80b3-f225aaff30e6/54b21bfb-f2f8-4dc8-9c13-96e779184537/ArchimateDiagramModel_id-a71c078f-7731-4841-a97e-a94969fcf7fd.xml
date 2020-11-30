@@ -58,6 +58,7 @@
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
+      textAlignment="1"
       fillColor="#d2d7d7"
       documentation="The EU code of conduct on agricultural &#xA;data sharing will look at general principles &#xA;for sharing agricultural data from farm &#xA;to farm products within the agro-food &#xA;chain.">
     <bounds

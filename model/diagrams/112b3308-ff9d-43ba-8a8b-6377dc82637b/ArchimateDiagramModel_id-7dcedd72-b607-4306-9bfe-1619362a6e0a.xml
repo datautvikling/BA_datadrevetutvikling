@@ -9,8 +9,12 @@
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
+      textAlignment="1"
       fillColor="#ffffff"
       alpha="0">
+    <features
+        name="lineAlpha"
+        value="0"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="17be30e6-c2d7-428f-b5f9-f392de3d0603"

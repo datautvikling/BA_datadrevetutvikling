@@ -183,7 +183,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="f6ad62fa-79e9-411b-9d81-891e2fd1d3ac">
+      id="f6ad62fa-79e9-411b-9d81-891e2fd1d3ac"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="24891fa4-599e-4863-b205-6cfdb76dc7ed"
