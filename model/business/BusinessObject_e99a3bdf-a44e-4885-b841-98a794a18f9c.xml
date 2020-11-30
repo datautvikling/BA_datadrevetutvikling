@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOR listen (markedsadgang til EU)"
+    id="e99a3bdf-a44e-4885-b841-98a794a18f9c"
+    documentation="- adresse, virksomhetsnavn etc. hentes fra Brønnøysundregistrene/Enhetsregisteret synkroniseres til MATS. Der har virksomhetene et ansvar om at informasjonen er riktig&#xA;- informasjon fra MT: Varetyper, type produsent, godkjenninger har de&#xA;- etterspørres fra Importland: Bransjen må punche inn&#xA;"/>

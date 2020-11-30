@@ -13,7 +13,7 @@
       fillColor="#fdef2b">
     <bounds
         x="80"
-        y="265"
+        y="373"
         width="205"
         height="94"/>
     <children
@@ -96,7 +96,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="66dd976e-6507-4d9f-a8e2-8117db9e8898"
+      id="51c12c9a-72de-4a42-a672-9cdf8cc9787a"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -105,14 +105,14 @@
       content="TILTAK"
       borderType="2">
     <bounds
-        x="-72"
-        y="866"
+        x="-60"
+        y="954"
         width="132"
         height="124"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="3f7c9129-fd08-4db3-a213-4dbcfacb4eb6"
+      id="ac8ec72f-367f-434f-a707-e97d60598db0"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -121,14 +121,14 @@
       content="STEG"
       borderType="2">
     <bounds
-        x="-72"
+        x="-60"
         y="-10"
         width="132"
         height="125"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="b14250ac-19c5-4c7e-8b65-526adf73af98"
+      id="0af74205-7f18-45d9-b178-85a79786cba8"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -137,14 +137,14 @@
       content="AKTIVITETER"
       borderType="2">
     <bounds
-        x="-72"
-        y="265"
+        x="-60"
+        y="373"
         width="132"
         height="582"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="6eff6caf-be20-4f6e-b363-dcdc0bcc3853"
+      id="0099946a-882e-41ed-a45b-7477387294a5"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -153,8 +153,24 @@
       content="INNSIKT"
       borderType="2">
     <bounds
-        x="-72"
-        y="134"
+        x="-60"
+        y="121"
+        width="132"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="52b03b72-475b-499e-bc01-b7714fa368c1"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="REGELVERK"
+      borderType="2">
+    <bounds
+        x="-60"
+        y="246"
         width="132"
         height="121"/>
   </children>

@@ -280,7 +280,8 @@
         lineColor="#5c5c5c"
         fillColor="#ffffff">
       <bounds
-          y="24"
+          x="5"
+          y="21"
           width="211"
           height="64"/>
       <children

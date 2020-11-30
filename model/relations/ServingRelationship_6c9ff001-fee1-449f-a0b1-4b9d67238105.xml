@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tilbyr"
+    id="6c9ff001-fee1-449f-a0b1-4b9d67238105">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_9f944c7c-d340-4be5-b490-6e0eaa6a5ada.xml#9f944c7c-d340-4be5-b490-6e0eaa6a5ada"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_a492236b-0007-47ae-8e0e-7f47fc54c945.xml#a492236b-0007-47ae-8e0e-7f47fc54c945"/>
+</archimate:ServingRelationship>

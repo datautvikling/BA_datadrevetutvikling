@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pantsettelse av aksjer"
+    id="5da8b3ad-34c5-4369-8240-636bfc59d15a"
+    documentation="Overdragelse og pantsettelse av aksjer skal også innføres i aksjeeierboken.&#xA;&#xA;Finansielle instrumenter registrert i en verdipapirsentral med Norge som hjemstat kan pantsettes ved registrering i verdipapirsentralen, jf. verdipapirsentralloven.&#xA;&#xA;Panteretten Rettsvern for aksjer som ikke er registrert i verdipapirsentralen,  får rettsvern ved at selskapet får melding om pantsettelsen"/>

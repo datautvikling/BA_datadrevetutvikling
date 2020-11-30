@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Søke refusjon foreldrepenger"
-    id="fbeb5be3-52df-46fb-900d-d1dba67a6a50"/>
+    id="fbeb5be3-52df-46fb-900d-d1dba67a6a50"
+    documentation="https://data.brreg.no/oppgaveregisteret/api/skjema/E9"/>
