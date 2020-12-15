@@ -19,23 +19,34 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b>Utredning om hjemling av deling av data</b>
-			(<span class="i18n-elementtype-CourseOfAction"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-CourseOfAction" target="hint"></a>
+            <!-- Name -->
+               <b>Utredning om hjemling av deling av data</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-CourseOfAction"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-CourseOfAction" target="hint"></a>
 		</div>
+
 		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">Kluge: 
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Kluge: 
 - Rieber-Mohn
 Advokat Opphavasrett 
 - Kristian Galtung - offentlighetsloven
@@ -47,8 +58,7 @@ Problemstillinger
 - Hva skal man ha plikt til
 - P&#229; hvilken m&#229;te
 
-Dagens system som er innsynsbasert, checks and balances i vurderingen. Totalt forskjellig. Ut &#229;pent og maskinlesbart.</textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+Dagens system som er innsynsbasert, checks and balances i vurderingen. Totalt forskjellig. Ut &#229;pent og maskinlesbart.</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

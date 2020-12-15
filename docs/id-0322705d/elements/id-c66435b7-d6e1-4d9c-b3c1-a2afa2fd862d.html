@@ -19,23 +19,34 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b>Synliggj&#248;re kompetansebevis</b>
-			(<span class="i18n-elementtype-BusinessService"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-BusinessService" target="hint"></a>
+            <!-- Name -->
+               <b>Synliggj&#248;re kompetansebevis</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessService"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessService" target="hint"></a>
 		</div>
+
 		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">Dette gjelder spesielt for tillatelser med kommunal eller fylkeskommunal selvbestemmelsesrett. 
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Dette gjelder spesielt for tillatelser med kommunal eller fylkeskommunal selvbestemmelsesrett. 
 Kaf&#233; og restaurant:
 	- godkjenning fra plan- og bygningsetaten i den enkelte kommune, 
 	- s&#248;knad om serverings- og skjenkebevilling.
@@ -45,8 +56,7 @@ For import-/ eksportsegmentet
 Se SKD "Uavbrutt digital kjede"	- registrering av virksomhet
 1. Fellesregistrering av virksomhet med bransjekrav
 2. Tredjeparter verifiserer bransjekrav
-3. Inntreden i markedet (akt&#248;rer rundt virksomheten bidrar til &#229; oppfylle bransjekrav)</textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+3. Inntreden i markedet (akt&#248;rer rundt virksomheten bidrar til &#229; oppfylle bransjekrav)</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

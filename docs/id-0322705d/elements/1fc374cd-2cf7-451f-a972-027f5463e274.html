@@ -19,24 +19,34 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b>Det vil v&#230;re hensiktsmessig at informasjonen samles ett sted (forvaltningsorgan) som s&#229; kan sette sammen ulike "informasjonspakker". Innkj&#248;pere og forbrukere m&#229; ogs&#229; forst&#229; informasjonen som blir gitt, og dette b&#248;r ikke v&#230;re en oppgave for det offentlige.  Profesjonelle akt&#248;rer b&#248;r bidra med vurderinger og tilr&#229; eller advare mot bruk av leverand&#248;rer (lyssignal, smilefjes ol) </b>
-			(<span class="i18n-elementtype-Assessment"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-Assessment" target="hint"></a>
+            <!-- Name -->
+               <b>Det vil v&#230;re hensiktsmessig at informasjonen samles ett sted (forvaltningsorgan) som s&#229; kan sette sammen ulike "informasjonspakker". Innkj&#248;pere og forbrukere m&#229; ogs&#229; forst&#229; informasjonen som blir gitt, og dette b&#248;r ikke v&#230;re en oppgave for det offentlige.  Profesjonelle akt&#248;rer b&#248;r bidra med vurderinger og tilr&#229; eller advare mot bruk av leverand&#248;rer (lyssignal, smilefjes ol) </b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Assessment"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Assessment" target="hint"></a>
 		</div>
+
 		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none"></textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

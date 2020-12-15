@@ -19,28 +19,38 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b>Data access, control and portability</b>
-			(<span class="i18n-elementtype-Principle"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-Principle" target="hint"></a>
+            <!-- Name -->
+               <b>Data access, control and portability</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Principle"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Principle" target="hint"></a>
 		</div>
+
 		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">The collection, access, storage and usage of the collected agricultural data can only occur once the data originator has granted their explicit, express and informed permission via contractural agreement. The data originator must be informed in a clear and unambigiuous manner if someone intends to collect and store their data. If both parties are in agreement, the contract should specify the conditions according to which the identification of the data orgiinator may be possible. Otherwise, the data should be subject to psudomysation.
+						<div class="convertlinks documentation" style="white-space:pre-wrap">The collection, access, storage and usage of the collected agricultural data can only occur once the data originator has granted their explicit, express and informed permission via contractural agreement. The data originator must be informed in a clear and unambigiuous manner if someone intends to collect and store their data. If both parties are in agreement, the contract should specify the conditions according to which the identification of the data orgiinator may be possible. Otherwise, the data should be subject to psudomysation.
 
 The data originator must give permission for their data to be used and shared with third parties including cirumstances in which decisions are made based on the data. Information should only be given to third parties as aggregated, pseudonymized or anonomized data, unless it is requried to deliver the requested service and/or the conditions pecified in the contract. Unless specificed in the contract, the data user must take all precautions to avoid re-identification.
 
-Data must be collected and used for the specific purpose agreed in the contract. The dataset should only be kept for as long as is strictly nessesary for the relevant analyses to be carried out. In addition, data should only be accessed by those with the required autorization.</textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+Data must be collected and used for the specific purpose agreed in the contract. The dataset should only be kept for as long as is strictly nessesary for the relevant analyses to be carried out. In addition, data should only be accessed by those with the required autorization.</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

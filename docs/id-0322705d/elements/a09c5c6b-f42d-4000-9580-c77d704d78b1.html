@@ -19,24 +19,34 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b>Utvidet skatteattest (landsdekkende avtaler)</b>
-			(<span class="i18n-elementtype-Product"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-Product" target="hint"></a>
+            <!-- Name -->
+               <b>Utvidet skatteattest (landsdekkende avtaler)</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Product"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Product" target="hint"></a>
 		</div>
+
 		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">- n&#248;kkelinformasjon fra Enhets-/Foretaksregisteret, skatte- og avgiftsrestanser, omsetning fra MVA-oppgaver siste 3 terminer, opplysninger om arbeidsgiveravgiftsgrunnlag siste 3 terminer og opplysninger fra oppdragsregisteret</textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap">- n&#248;kkelinformasjon fra Enhets-/Foretaksregisteret, skatte- og avgiftsrestanser, omsetning fra MVA-oppgaver siste 3 terminer, opplysninger om arbeidsgiveravgiftsgrunnlag siste 3 terminer og opplysninger fra oppdragsregisteret</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

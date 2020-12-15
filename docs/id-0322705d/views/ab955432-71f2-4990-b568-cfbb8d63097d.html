@@ -19,40 +19,52 @@
 
 <body>
 	<div class="panel panel-default root-panel">
-		<div class="panel-heading root-panel-heading">
-			<b>Digital aksjeeierbok</b>
-			(<span class="i18n-viewpoint-"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
-		</div>
-		<div class="panel-body root-panel-body">
-			<img class="diagram" src="../images/ab955432-71f2-4990-b568-cfbb8d63097d.png" alt="Digital aksjeeierbok" usemap="#ab955432-71f2-4990-b568-cfbb8d63097dmap">
-			<map name="ab955432-71f2-4990-b568-cfbb8d63097dmap">
-						<area shape="rect" coords="48,358,276,527" href="../elements/id-f6b1565e-9808-42a6-91a6-37faedc1cf3b.html"  target="element">
-						<area shape="rect" coords="70,178,227,269" href="../elements/id-e685d459-afeb-45c2-a7a1-895a58825e2a.html"  target="element">
-						<area shape="rect" coords="250,178,419,269" href="../elements/id-b089d0e9-e05b-41dd-8f7e-9aa40a63cb25.html"  target="element">
-						<area shape="rect" coords="862,430,982,485" href="../elements/id-a3a9554d-7200-460e-94e7-6d8e23537764.html"  target="element">
-						<area shape="rect" coords="10,10,213,150" href="../elements/id-350195cf-1567-4246-bd1f-56fb366db8c5.html"  target="element">
-						<area shape="rect" coords="454,430,574,485" href="../elements/id-06dfddcc-734a-4c50-a413-6c81eebaf6d6.html"  target="element">
-						<area shape="rect" coords="730,430,850,485" href="../elements/id-eb4cf392-fb5f-49fb-827b-fc810bdc9d03.html"  target="element">
-						<area shape="rect" coords="586,430,706,485" href="../elements/id-e1ef70ae-f0d9-46a6-9a92-1c507d664a3b.html"  target="element">
-						<area shape="rect" coords="382,574,526,622" href="../elements/id-e7a00610-7a5b-466a-9704-1f947916c44d.html"  target="element">
-						<area shape="rect" coords="622,634,742,689" href="../elements/8dccd490-8eb7-4921-98fe-8b2fb1607108.html"  target="element">
 
-			</map>
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Digital aksjeeierbok</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/ab955432-71f2-4990-b568-cfbb8d63097d.png" alt="Digital aksjeeierbok" usemap="#ab955432-71f2-4990-b568-cfbb8d63097dmap"/>
+			   <map name="ab955432-71f2-4990-b568-cfbb8d63097dmap">
+				  		<area shape="rect" coords="1244,1268,1484,1378" href="../elements/8dccd490-8eb7-4921-98fe-8b2fb1607108.html"  target="element">
+				  		<area shape="rect" coords="764,1148,1052,1244" href="../elements/id-e7a00610-7a5b-466a-9704-1f947916c44d.html"  target="element">
+				  		<area shape="rect" coords="1172,860,1412,970" href="../elements/id-e1ef70ae-f0d9-46a6-9a92-1c507d664a3b.html"  target="element">
+				  		<area shape="rect" coords="1460,860,1700,970" href="../elements/id-eb4cf392-fb5f-49fb-827b-fc810bdc9d03.html"  target="element">
+				  		<area shape="rect" coords="908,860,1148,970" href="../elements/id-06dfddcc-734a-4c50-a413-6c81eebaf6d6.html"  target="element">
+				  		<area shape="rect" coords="20,20,426,300" href="../elements/id-350195cf-1567-4246-bd1f-56fb366db8c5.html"  target="element">
+				  		<area shape="rect" coords="1724,860,1964,970" href="../elements/id-a3a9554d-7200-460e-94e7-6d8e23537764.html"  target="element">
+				  		<area shape="rect" coords="500,356,838,538" href="../elements/id-b089d0e9-e05b-41dd-8f7e-9aa40a63cb25.html"  target="element">
+				  		<area shape="rect" coords="140,356,454,538" href="../elements/id-e685d459-afeb-45c2-a7a1-895a58825e2a.html"  target="element">
+				  		<area shape="rect" coords="96,716,552,1054" href="../elements/id-f6b1565e-9808-42a6-91a6-37faedc1cf3b.html"  target="element">
+
+			   </map>
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
 						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none"></textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
@@ -75,16 +87,56 @@
 									</tr>
 								</thead>
 								<tbody>
-											<tr><td> <a href="../elements/id-f6b1565e-9808-42a6-91a6-37faedc1cf3b.html" target="element"> Digital aksjeeierbok </a> </td><td class="i18n-elementtype-CourseOfAction"></td></tr>
-											<tr><td> <a href="../elements/id-e685d459-afeb-45c2-a7a1-895a58825e2a.html" target="element"> Helhetlig og forenklet rapportering av aksjeopplysninger </a> </td><td class="i18n-elementtype-CourseOfAction"></td></tr>
-											<tr><td> <a href="../elements/id-b089d0e9-e05b-41dd-8f7e-9aa40a63cb25.html" target="element"> 2.5 Desentralisert sanntidstilgang </a> </td><td class="i18n-elementtype-Capability"></td></tr>
-											<tr><td> <a href="../elements/id-a3a9554d-7200-460e-94e7-6d8e23537764.html" target="element"> Kj&#248;p og salg av eierandeler </a> </td><td class="i18n-elementtype-BusinessService"></td></tr>
-											<tr><td> <a href="../elements/id-350195cf-1567-4246-bd1f-56fb366db8c5.html" target="element"> Livshendelsen Starte og drive bedift </a> </td><td class="i18n-elementtype-Grouping"></td></tr>
-											<tr><td> <a href="../elements/id-06dfddcc-734a-4c50-a413-6c81eebaf6d6.html" target="element"> Etablere aksjeeierbok og aksjebevis </a> </td><td class="i18n-elementtype-BusinessService"></td></tr>
-											<tr><td> <a href="../elements/id-eb4cf392-fb5f-49fb-827b-fc810bdc9d03.html" target="element"> Aksjon&#230;rregisteroppgave </a> </td><td class="i18n-elementtype-BusinessService"></td></tr>
-											<tr><td> <a href="../elements/id-e1ef70ae-f0d9-46a6-9a92-1c507d664a3b.html" target="element"> Kj&#248;p og salg av n&#230;ringseiendom (virksomhet) </a> </td><td class="i18n-elementtype-BusinessService"></td></tr>
-											<tr><td> <a href="../elements/id-e7a00610-7a5b-466a-9704-1f947916c44d.html" target="element"> Aksjeeierbok/andelsbevis </a> </td><td class="i18n-elementtype-BusinessObject"></td></tr>
-											<tr><td> <a href="../elements/8dccd490-8eb7-4921-98fe-8b2fb1607108.html" target="element"> Aksjeeierbok </a> </td><td class="i18n-elementtype-ApplicationComponent"></td></tr>
+											<tr>
+											    <td> <a href="../elements/id-f6b1565e-9808-42a6-91a6-37faedc1cf3b.html" target="element"> Digital aksjeeierbok </a> </td>
+											    <td> <a href="../elements/id-f6b1565e-9808-42a6-91a6-37faedc1cf3b.html" target="element" class="i18n-elementtype-CourseOfAction"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-e685d459-afeb-45c2-a7a1-895a58825e2a.html" target="element"> Helhetlig og forenklet rapportering av aksjeopplysninger </a> </td>
+											    <td> <a href="../elements/id-e685d459-afeb-45c2-a7a1-895a58825e2a.html" target="element" class="i18n-elementtype-CourseOfAction"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-b089d0e9-e05b-41dd-8f7e-9aa40a63cb25.html" target="element"> 2.5 Desentralisert sanntidstilgang </a> </td>
+											    <td> <a href="../elements/id-b089d0e9-e05b-41dd-8f7e-9aa40a63cb25.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-a3a9554d-7200-460e-94e7-6d8e23537764.html" target="element"> Kj&#248;p og salg av eierandeler </a> </td>
+											    <td> <a href="../elements/id-a3a9554d-7200-460e-94e7-6d8e23537764.html" target="element" class="i18n-elementtype-BusinessService"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-350195cf-1567-4246-bd1f-56fb366db8c5.html" target="element"> Livshendelsen Starte og drive bedift </a> </td>
+											    <td> <a href="../elements/id-350195cf-1567-4246-bd1f-56fb366db8c5.html" target="element" class="i18n-elementtype-Grouping"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-06dfddcc-734a-4c50-a413-6c81eebaf6d6.html" target="element"> Etablere aksjeeierbok og aksjebevis </a> </td>
+											    <td> <a href="../elements/id-06dfddcc-734a-4c50-a413-6c81eebaf6d6.html" target="element" class="i18n-elementtype-BusinessService"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-eb4cf392-fb5f-49fb-827b-fc810bdc9d03.html" target="element"> Aksjon&#230;rregisteroppgave </a> </td>
+											    <td> <a href="../elements/id-eb4cf392-fb5f-49fb-827b-fc810bdc9d03.html" target="element" class="i18n-elementtype-BusinessService"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-e1ef70ae-f0d9-46a6-9a92-1c507d664a3b.html" target="element"> Kj&#248;p og salg av n&#230;ringseiendom (virksomhet) </a> </td>
+											    <td> <a href="../elements/id-e1ef70ae-f0d9-46a6-9a92-1c507d664a3b.html" target="element" class="i18n-elementtype-BusinessService"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-e7a00610-7a5b-466a-9704-1f947916c44d.html" target="element"> Aksjeeierbok/andelsbevis </a> </td>
+											    <td> <a href="../elements/id-e7a00610-7a5b-466a-9704-1f947916c44d.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/8dccd490-8eb7-4921-98fe-8b2fb1607108.html" target="element"> Aksjeeierbok </a> </td>
+											    <td> <a href="../elements/8dccd490-8eb7-4921-98fe-8b2fb1607108.html" target="element" class="i18n-elementtype-ApplicationComponent"> </a> </td>
+											</tr>
+
 
 								</tbody>
 							</table>

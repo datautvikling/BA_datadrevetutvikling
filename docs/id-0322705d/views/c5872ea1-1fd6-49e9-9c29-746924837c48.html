@@ -19,33 +19,45 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b>Evner arkitektur</b>
-			(<span class="i18n-viewpoint-"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Name -->
+               <b>Evner arkitektur</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
 		</div>
+
 		<div class="panel-body root-panel-body">
-			<img class="diagram" src="../images/c5872ea1-1fd6-49e9-9c29-746924837c48.png" alt="Evner arkitektur" usemap="#c5872ea1-1fd6-49e9-9c29-746924837c48map">
-			<map name="c5872ea1-1fd6-49e9-9c29-746924837c48map">
-								<area shape="rect" coords="22,46,200,107" href="../elements/id-2364abd4-785f-4472-b0bc-edeaf6fd2fc3.html"  target="element">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/c5872ea1-1fd6-49e9-9c29-746924837c48.png" alt="Evner arkitektur" usemap="#c5872ea1-1fd6-49e9-9c29-746924837c48map"/>
+			   <map name="c5872ea1-1fd6-49e9-9c29-746924837c48map">
+				  				<area shape="rect" coords="44,92,400,214" href="../elements/id-2364abd4-785f-4472-b0bc-edeaf6fd2fc3.html"  target="element">
 
-						<area shape="rect" coords="10,10,206,263" href="../elements/id-fd4386d3-1380-476c-9ed8-e64a1bad252d.html"  target="element">
+				  		<area shape="rect" coords="20,20,412,526" href="../elements/id-fd4386d3-1380-476c-9ed8-e64a1bad252d.html"  target="element">
 
-			</map>
+			   </map>
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
 						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none"></textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
@@ -68,8 +80,16 @@
 									</tr>
 								</thead>
 								<tbody>
-											<tr><td> <a href="../elements/id-fd4386d3-1380-476c-9ed8-e64a1bad252d.html" target="element"> 5. Arkitektur </a> </td><td class="i18n-elementtype-Capability"></td></tr>
-													<tr><td> <a href="../elements/id-2364abd4-785f-4472-b0bc-edeaf6fd2fc3.html" target="element"> 5.1 Samhandlingsarkitektur </a> </td><td class="i18n-elementtype-Capability"></td></tr>
+											<tr>
+											    <td> <a href="../elements/id-fd4386d3-1380-476c-9ed8-e64a1bad252d.html" target="element"> 5. Arkitektur </a> </td>
+											    <td> <a href="../elements/id-fd4386d3-1380-476c-9ed8-e64a1bad252d.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-2364abd4-785f-4472-b0bc-edeaf6fd2fc3.html" target="element"> 5.1 Samhandlingsarkitektur </a> </td>
+													    <td> <a href="../elements/id-2364abd4-785f-4472-b0bc-edeaf6fd2fc3.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+													</tr>
+
 											
 
 								</tbody>

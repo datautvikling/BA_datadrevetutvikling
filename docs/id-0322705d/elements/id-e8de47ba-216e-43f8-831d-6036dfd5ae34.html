@@ -19,23 +19,34 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b>Digitale HMS-kort</b>
-			(<span class="i18n-elementtype-CourseOfAction"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-CourseOfAction" target="hint"></a>
+            <!-- Name -->
+               <b>Digitale HMS-kort</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-CourseOfAction"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-CourseOfAction" target="hint"></a>
 		</div>
+
 		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">"V&#230;re seri&#248;s" - initiert av Jan Tore Sanner
+						<div class="convertlinks documentation" style="white-space:pre-wrap">"V&#230;re seri&#248;s" - initiert av Jan Tore Sanner
 Fors&#248;ke &#229; se informasjonsflyten under ett. Innom 4-5 dep og 9-10 direktorater.
 
 HMS kort som alle p&#229; byggeplass skal ha. Fysisk med bilde og QR kode p&#229; baksiden. Utstedes &#233;n per arbeidsgiver. Gjelder for to &#229;r. Mange kort.
@@ -46,8 +57,7 @@ F&#248;r godkjenning f&#229;r du en "lapp"/f&#248;rgodkjenning.
 Vi &#248;nsker &#229; vite kompetanse  (kilde).  Vitnem&#229;lregister (f.eks. fagarbeider t&#248;mrer &lt;---tariffl&#248;nn myndighetskrav), Kurs - obligatoriske krav (f.eks. dykkersertifikat, stilas, mester)
 
 P&#229; byggeplass - lister om hvem som er p&#229; byggeplass n&#229;r og hvor.
-Den st&#248;rste delen som hvitvaskes g&#229;r gjennom v&#229;r n&#230;ring.</textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+Den st&#248;rste delen som hvitvaskes g&#229;r gjennom v&#229;r n&#230;ring.</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

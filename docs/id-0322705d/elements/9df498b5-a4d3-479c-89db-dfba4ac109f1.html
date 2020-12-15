@@ -19,23 +19,34 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b>Juridiske og regulatoriske betraktninger</b>
-			(<span class="i18n-elementtype-Requirement"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-Requirement" target="hint"></a>
+            <!-- Name -->
+               <b>Juridiske og regulatoriske betraktninger</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Requirement"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Requirement" target="hint"></a>
 		</div>
+
 		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">Selv om deling av data har potensial for verdiskaping i ulike kontekster, kan deling ogsa&#778; inneb&#230;re risiko. Synet pa&#778; alvorlighetsgrad og hvordan risiko b&#248;r ha&#778;ndteres vil variere mellom selskaper og mellom industrier. Risikovurderingene b&#248;r dekke juridiske og regulatoriske aspekter, relatert til ba&#778;de transport av data over landegrenser, tilgjengeliggj&#248;ring av data for nye brukere, og kombinering av data pa&#778; nye ma&#778;ter og til nye forma&#778;l. Vi kommer tilbake til juridiske sp&#248;rsma&#778;l i slutten av dokumentet, men noen viktige hensyn a&#778; avklare inkluderer:
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Selv om deling av data har potensial for verdiskaping i ulike kontekster, kan deling ogsa&#778; inneb&#230;re risiko. Synet pa&#778; alvorlighetsgrad og hvordan risiko b&#248;r ha&#778;ndteres vil variere mellom selskaper og mellom industrier. Risikovurderingene b&#248;r dekke juridiske og regulatoriske aspekter, relatert til ba&#778;de transport av data over landegrenser, tilgjengeliggj&#248;ring av data for nye brukere, og kombinering av data pa&#778; nye ma&#778;ter og til nye forma&#778;l. Vi kommer tilbake til juridiske sp&#248;rsma&#778;l i slutten av dokumentet, men noen viktige hensyn a&#778; avklare inkluderer:
 &#8226; Identiteten til eieren av data; om det er selskapet, 3.part, partnerskap e.l.
 &#8226; Relevansen og vilka&#778;rene knyttet til immaterielle rettigheter
 &#8226; Restriksjoner for deling under kontraktsvilka&#778;r, konsesjonsvilka&#778;r, joint-ventures, lisensvilka&#778;r
@@ -45,8 +56,7 @@ e.l. (for eksempel non-disclosure forpliktelser)
 relatert til innsideforskriftene
 &#8226; Relevansen til konkurranseloven
 &#8226; Om dataene inneholder personlig identifiserbar informasjon som kan utl&#248;se GDPR-
-bestemmelser.</textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+bestemmelser.</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

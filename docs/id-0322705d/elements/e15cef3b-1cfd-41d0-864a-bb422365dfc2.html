@@ -19,17 +19,27 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b></b>
-			(<span class="i18n-elementtype-CompositionRelationship"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-CompositionRelationship" target="hint"></a>
+            <!-- Name -->
+               <b class="i18n-elementtype-CompositionRelationship"></b>
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-CompositionRelationship"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-CompositionRelationship" target="hint"></a>
 		</div>
+
 		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
@@ -45,8 +55,7 @@
 									15. For a&#778; styrke kapasitet og kompetanse pa&#778; trygg deling, utveksling og bearbeiding av data pa&#778; omra&#778;der av s&#230;rlig stor samfunnsinteresse og verdipotensial for norske virksomheter b&#248;r det vurderes et samarbeid mellom det offentlige, bransjer og ledende industriakt&#248;rer om a&#778; legge til rette for a&#778; opprette en eller flere "datafabrikker" som sikrer m&#248;teplasser og tilgang pa&#778; relevante data egnet for bruk av kunstig intelligens og andre metoder, samt infrastruktur for a&#778; kunne trene modeller. 
 								</a> <br>
 							<br>
-						<textarea id="docsrc" style="display:none"></textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

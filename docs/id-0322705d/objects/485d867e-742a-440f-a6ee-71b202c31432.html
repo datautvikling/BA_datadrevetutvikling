@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title></title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b class="i18n-elementtype-DiagramModelNote"></b>
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-DiagramModelNote"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelNote" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+                       <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-content"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">En form for &#171;Min side&#187; for bedrifter som gir en oversikt over alle relevante offentlige forhold for den n&#230;ringsdrivende, eksempelvis full oversikt over "egne" opplysninger hos det offentlige, bl.a.
+s&#248;knader, rapportering, reskontro, fastsettinger
+Felles oversikt over opplysninger hos det offentlige, oversikt over n&#229;situasjon, historikk og frem i tid (prediksjon)
+Oversikten vil bidra til &#229; gj&#248;re bruker mer selvhjulpen og gi brukeren mulighet til &#229; ta de rette valgene
+N&#230;ringsdrivende m&#229; forholde seg til mange offentlig etater i sin n&#230;ringsvirksomhet.  Rapportering, innbetaling og annen kommunikasjon er ikke samkj&#248;rt og det er vanskelig &#229; holde rede p&#229; status, n&#229;r nye innbetalinger/krav kommer osv. Dette medf&#248;rer at de n&#230;ringsdrivende bruker mye tid p&#229; dialog og til &#229; skaffe seg oversikt. Dette kan medf&#248;re feil som kan f&#229; &#248;konomiske konsekvenser, og det kan bli en uheldig spiral. For sm&#229; bedrifter oppleves dette ekstra belastende da det stjeler tid og oppmerksomhet fra kjerneoppgavene.</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

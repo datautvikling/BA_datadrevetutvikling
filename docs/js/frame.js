@@ -10,6 +10,11 @@ function strcmp(a, b){
     return 0;
 }
 
+function createLinks(text) {
+	return text.replace(/(\w+:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>')
+          .replace(/mailto:(\S+)/g, '<a href="mailto:$1">$1</a>');
+}
+
 // Hints URLs
 var hints = {
 // Hints for viewpoints
@@ -36,8 +41,10 @@ var hints = {
     viewpoint_stakeholder: "vp_stakeholder.html",
     viewpoint_strategy: "vp_strategy.html",
     viewpoint_technology: "vp_technology.html",
-    viewpoint_technology_usage: "vp_technology_usage.html",
+	viewpoint_technology_usage: "vp_technology_usage.html",
+	viewpoint_value_stream: "vp_value_stream.html",
 // Hints for concepts
+    ArchimateModel: "model.html",
 	AccessRelationship: "access.html",
 	AggregationRelationship: "aggregation.html",
 	ApplicationCollaboration: "application_collaboration.html",
@@ -108,7 +115,20 @@ var hints = {
     TechnologyService: "technology_service.html",
 	TriggeringRelationship: "triggering.html",
 	Value: "value.html",
-	WorkPackage: "workpackage.html"
+	ValueStream: "value_stream.html",
+	WorkPackage: "workpackage.html",
+// Hints for graphical objects
+	DiagramModelNote: "note.html",
+	DiagramModelGroup: "group.html",
+// Hints for sketch objects
+	SketchModel: "sketch.html",
+	SketchModelSticky: "sketch_sticky.html",
+	SketchModelActor: "sketch_actor.html",
+// Hints for canvas objects
+	CanvasModel: "canvas_diagram.html",
+	CanvasModelBlock: "canvas_block.html",
+	CanvasModelImage: "canvas_image.html",
+	CanvasModelSticky: "canvas_sticky.html",
 };
 
 $(document).ready(function() {
@@ -121,13 +141,11 @@ $(document).ready(function() {
 		e.stopPropagation();
 	});
 	
-	// Update documentation div and create links
-	$('#doctgt').text($('#docsrc').text());
-	$('#doctgt').html($('#doctgt').html()
-		.replace(/(\w+:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>')
-		.replace(/mailto:(\S+)/g, '<a href="mailto:$1">$1</a>')
-	);
-	
+	// Create links in this class
+    $('.convertlinks').each(function() {
+        $(this).html(createLinks($(this).text()));
+    });
+
 	// Replace Hint URL
 	for (var id in hints) {
 		if (document.getElementById('hint-'+id) != null)

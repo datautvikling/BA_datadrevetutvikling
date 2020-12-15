@@ -19,27 +19,37 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b>Beslutte oppl&#248;sning</b>
-			(<span class="i18n-elementtype-BusinessService"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-BusinessService" target="hint"></a>
+            <!-- Name -->
+               <b>Beslutte oppl&#248;sning</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessService"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessService" target="hint"></a>
 		</div>
+
 		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">
 Generalforsamlingen beslutter oppl&#248;sning av selskapet. Dette krever minst 2/3 flertall, b&#229;de av de avgitte stemmer og av aksjekapitalen som er representert p&#229; generalforsamlingen.
 Generalforsamlingen velger et avviklingsstyre som overtar for styret og daglig leder. Det kan v&#230;re de samme personene som sitter i det opprinnelige styret.
-Generalforsamlingen kan omgj&#248;re beslutningen om oppl&#248;sning. Men ikke hvis aksjon&#230;rene har f&#229;tt utdelt annet enn ordin&#230;rt utbytte i forbindelse med oppl&#248;sningen.</textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+Generalforsamlingen kan omgj&#248;re beslutningen om oppl&#248;sning. Men ikke hvis aksjon&#230;rene har f&#229;tt utdelt annet enn ordin&#230;rt utbytte i forbindelse med oppl&#248;sningen.</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

@@ -19,26 +19,36 @@
 
 <body>
 	<div class="panel panel-default root-panel">
+
 		<div class="panel-heading root-panel-heading">
-			<b>Bokf&#248;ring (daglig)</b>
-			(<span class="i18n-elementtype-BusinessService"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-BusinessService" target="hint"></a>
+            <!-- Name -->
+               <b>Bokf&#248;ring (daglig)</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessService"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessService" target="hint"></a>
 		</div>
+
 		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">Alle virksomheter som driver n&#230;ring har bokf&#248;ringsplikt, men det er som nevnt ikke et krav om at dette m&#229; gj&#248;res av en regnskapsf&#248;rer.
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Alle virksomheter som driver n&#230;ring har bokf&#248;ringsplikt, men det er som nevnt ikke et krav om at dette m&#229; gj&#248;res av en regnskapsf&#248;rer.
 
-&#197; v&#230;re bokf&#248;ringspliktig inneb&#230;rer at selskapet har plikt til bokf&#248;ring, spesifikasjon, dokumentasjon og oppbevaring av regnskapsopplysninger. Plikten til l&#248;pende bokf&#248;ring inneb&#230;rer at man m&#229; registrere transaksjoner og andre regnskapsmessige disposisjoner som direkte p&#229;virker resultat og balanse.</textarea>
-						<div id="doctgt" style="white-space:pre-wrap"></div>
+&#197; v&#230;re bokf&#248;ringspliktig inneb&#230;rer at selskapet har plikt til bokf&#248;ring, spesifikasjon, dokumentasjon og oppbevaring av regnskapsopplysninger. Plikten til l&#248;pende bokf&#248;ring inneb&#230;rer at man m&#229; registrere transaksjoner og andre regnskapsmessige disposisjoner som direkte p&#229;virker resultat og balanse.</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
