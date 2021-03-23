@@ -1,5 +1,0 @@
-<archimate:CourseOfAction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Distribuerte infrastrukturer (for eksempel Blockchain-basert datadeling)"
-    id="713996ee-554a-46d7-9b41-7d5e82c064b2"
-    documentation="Distribuerte infrastrukturer egner seg best for en løs kobling av aktørene med en lav grad av avhengighet og interaksjon, som for eksempel i markedsplasser for kjøp og salg av data. Her utveksles/deles datasett på ad-hoc basis mens transaksjonene logges i en blockchain eller tilsvarende teknologier.&#xA;&#xA;I en distribuert infrastruktur vil det normalt ikke være noen third party, og aktørene selv må, med støtte av infrastrukturen, sikre kvalitet"/>

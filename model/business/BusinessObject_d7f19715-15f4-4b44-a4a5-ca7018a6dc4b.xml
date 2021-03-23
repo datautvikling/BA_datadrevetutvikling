@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Listeoppføring"
-    id="d7f19715-15f4-4b44-a4a5-ca7018a6dc4b"
-    documentation="- adresse, virksomhetsnavn etc. hentes fra Brønnøysundregistrene/Enhetsregisteret synkroniseres til MATS. Der har virksomhetene et ansvar om at informasjonen er riktig&#xA;- informasjon fra MT: Varetyper, type produsent, godkjenninger har de&#xA;- etterspørres fra Importland: Bransjen må punche inn&#xA;"/>

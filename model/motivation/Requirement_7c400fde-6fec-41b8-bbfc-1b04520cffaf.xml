@@ -1,5 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kvalitative og egnede data"
-    id="7c400fde-6fec-41b8-bbfc-1b04520cffaf"
-    documentation="Metadata, som inkluderer datas kontekst, kvalitet og opprinnelse, må gjøres tilgjengelig for å sikre at data er pålitelige og brukbare. I tillegg til å sikre tillit til de faktiske dataene som er delt, må tilgjengeligheten og påliteligheten til tjenesten/tilbudet som sådan være forutsigbar. Dette kan typisk håndteres gjennom Service Level Agreement (SLA) eller lignende kontrakter."/>
