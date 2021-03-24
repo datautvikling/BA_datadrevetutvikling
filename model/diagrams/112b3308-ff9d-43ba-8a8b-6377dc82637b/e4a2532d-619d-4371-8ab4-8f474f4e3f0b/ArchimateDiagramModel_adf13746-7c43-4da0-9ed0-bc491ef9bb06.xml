@@ -43,25 +43,6 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#fdef2b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4991eca6-b6cc-41ee-8cbc-2d04e4984f7d"
-        source="582f4793-0740-4926-88f4-65a022c82dd2"
-        target="39437c25-8a6b-4653-a7ca-6716ee39c611">
-      <bendpoints
-          startX="126"
-          startY="3"
-          endX="125"
-          endY="-452"/>
-      <bendpoints
-          startX="126"
-          startY="459"
-          endX="125"
-          endY="4"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_2be3ce71-f88d-4d77-9c8a-15b1abdc6668.xml#2be3ce71-f88d-4d77-9c8a-15b1abdc6668"/>
-    </sourceConnections>
     <bounds
         x="139"
         y="440"
@@ -106,19 +87,6 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-9ee94c99-0309-4976-82a6-858e3c457610.xml#id-9ee94c99-0309-4976-82a6-858e3c457610"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="39437c25-8a6b-4653-a7ca-6716ee39c611"
-      targetConnections="4991eca6-b6cc-41ee-8cbc-2d04e4984f7d">
-    <bounds
-        x="144"
-        y="965"
-        width="196"
-        height="41"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_b5105ba7-d96d-4c83-b4b2-4fef0a215d5e.xml#b5105ba7-d96d-4c83-b4b2-4fef0a215d5e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -206,5 +174,17 @@
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_08bcdcb2-4649-4a10-8b41-78b2bd50b582.xml#08bcdcb2-4649-4a10-8b41-78b2bd50b582"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bba73e5eeca84db888b367c04b31b5ce">
+    <bounds
+        x="144"
+        y="965"
+        width="196"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-ed30f1cf-9cba-44a5-96ae-eee4250a8077.xml#id-ed30f1cf-9cba-44a5-96ae-eee4250a8077"/>
   </children>
 </archimate:ArchimateDiagramModel>
