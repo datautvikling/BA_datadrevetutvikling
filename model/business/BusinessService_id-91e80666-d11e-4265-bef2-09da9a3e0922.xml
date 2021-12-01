@@ -1,5 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Samordnet registermeldning (inn)"
+    name="Samordnet registermeldning"
     id="id-91e80666-d11e-4265-bef2-09da9a3e0922"
     documentation="den primære innrapporteringsløsningen for alle registrene (Foretaksregisteret, Enhetsregisteret, Frivillighetsregisteret og Partiregisteret)."/>
