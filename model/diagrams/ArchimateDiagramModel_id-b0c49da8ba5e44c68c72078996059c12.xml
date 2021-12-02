@@ -18,19 +18,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4666a77276514216975b00b5c788a00d"
-      targetConnections="id-feb80a8753094ecea5a2380367d6ea8b">
-    <bounds
-        x="144"
-        y="120"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Assessment"
-        href="Assessment_id-2b53f0ae5a1d4d9fbfcb018c0ee17a91.xml#id-2b53f0ae5a1d4d9fbfcb018c0ee17a91"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7243fee462db4ca58c66d6910a478c11"
       targetConnections="id-7e23632d758c4650a888d220ce238332">
     <sourceConnections
@@ -42,7 +29,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-feb80a8753094ecea5a2380367d6ea8b"
           source="id-053977ef61a942f6b44351f1460f4b46"
-          target="id-4666a77276514216975b00b5c788a00d">
+          target="id-ad676a32b601459781b799f52004dc22">
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-8c75866c149a41a9a5df2fbd328f44ba.xml#id-8c75866c149a41a9a5df2fbd328f44ba"/>
@@ -527,5 +514,18 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-6a08b0499cf14332b060344d71b3f677.xml#id-6a08b0499cf14332b060344d71b3f677"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ad676a32b601459781b799f52004dc22"
+      targetConnections="id-feb80a8753094ecea5a2380367d6ea8b">
+    <bounds
+        x="-74"
+        y="138"
+        width="171"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-210e021dacf24734b4864e2fab264e4c.xml#id-210e021dacf24734b4864e2fab264e4c"/>
   </children>
 </archimate:ArchimateDiagramModel>
