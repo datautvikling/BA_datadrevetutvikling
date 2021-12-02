@@ -163,4 +163,16 @@
         width="132"
         height="121"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-57de6757c0844aebb5bca10674dad4fb">
+    <bounds
+        x="156"
+        y="156"
+        width="205"
+        height="39"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-210e021dacf24734b4864e2fab264e4c.xml#id-210e021dacf24734b4864e2fab264e4c"/>
+  </children>
 </archimate:ArchimateDiagramModel>
