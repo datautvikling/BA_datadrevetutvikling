@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tidligere roller"
+    id="id-873d0bd4060845bcb0385bc9ad55b6f3">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ed4d20c1f8db42829b27c6598eac4460.xml#id-ed4d20c1f8db42829b27c6598eac4460"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-84428d9bcbba49bf95041795737d8405.xml#id-84428d9bcbba49bf95041795737d8405"/>
+</archimate:AssociationRelationship>
