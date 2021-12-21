@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LH SDB - C - Drivefase Steg 08 utbetaling lønn"
-    id="f793d2a4-4ef7-42c4-bfc9-e9976039c452">
+    id="f793d2a4-4ef7-42c4-bfc9-e9976039c452"
+    documentation="Fra innsiktsintervju med regnskapsfører">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b23e7cea-378c-4fa9-acc4-c4126731f904"
@@ -429,5 +430,29 @@
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_69b678c6-d90a-48eb-b411-d23134ee3306.xml#69b678c6-d90a-48eb-b411-d23134ee3306"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-de702f4e89924192911b7df0391f6d63">
+    <bounds
+        x="76"
+        y="132"
+        width="205"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-d56135f84cce4c3f81b4afe1dcd518f0.xml#id-d56135f84cce4c3f81b4afe1dcd518f0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e6cdbeb3028843ea986233304a7ad8ff">
+    <bounds
+        x="288"
+        y="132"
+        width="203"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-b24d41017b5b4c82965dcb2b40041ec7.xml#id-b24d41017b5b4c82965dcb2b40041ec7"/>
   </children>
 </archimate:ArchimateDiagramModel>

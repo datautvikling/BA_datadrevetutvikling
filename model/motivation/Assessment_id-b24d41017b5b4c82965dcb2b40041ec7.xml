@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Glemmer å betale skatt fra skatteetrekkskonto - fører til at midler låses på kontoen"
+    id="id-b24d41017b5b4c82965dcb2b40041ec7"
+    documentation="Fra innsiktsintervju med regnskapsfører. Arbeidsgiveravgift betales fra driftskonto mens forskuddstrekk fra skatteetrekkskonto. Lett å glemme å bruke begge, dermed blir stadig mer midler låst på skatteetrekkskonto. Gir potensielt likviditetsproblemer."/>
