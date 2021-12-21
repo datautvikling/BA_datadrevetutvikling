@@ -337,12 +337,24 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9c3c5a58a42848eaacd866f51672efc6">
     <bounds
-        x="312"
+        x="492"
         y="144"
         width="181"
         height="85"/>
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-f45b69ae34eb473a9953ca9d4a639b5b.xml#id-f45b69ae34eb473a9953ca9d4a639b5b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-99933dfb7b17432cacb0b44176d8a5ed">
+    <bounds
+        x="288"
+        y="144"
+        width="193"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-5dbb24f1fd7f457995411223a4f2306f.xml#id-5dbb24f1fd7f457995411223a4f2306f"/>
   </children>
 </archimate:ArchimateDiagramModel>
