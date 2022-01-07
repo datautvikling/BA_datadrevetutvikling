@@ -526,4 +526,16 @@
         xsi:type="archimate:Assessment"
         href="Assessment_id-e49fb6220dde4389a69b5acb93470db4.xml#id-e49fb6220dde4389a69b5acb93470db4"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4bbfb962cbcd457580c3f3e78a08628c">
+    <bounds
+        x="864"
+        y="156"
+        width="217"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-8dccb4b3beac443e9dc949d2af3b3e7e.xml#id-8dccb4b3beac443e9dc949d2af3b3e7e"/>
+  </children>
 </archimate:ArchimateDiagramModel>
