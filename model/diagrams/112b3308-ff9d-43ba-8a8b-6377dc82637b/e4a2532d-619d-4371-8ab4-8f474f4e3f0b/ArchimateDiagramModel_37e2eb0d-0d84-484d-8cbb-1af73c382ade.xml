@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LH SDB - B - Etableringsfase Steg 06 digital etterlevelse"
-    id="37e2eb0d-0d84-484d-8cbb-1af73c382ade">
+    id="37e2eb0d-0d84-484d-8cbb-1af73c382ade"
+    documentation="Kilde: Regnskap Norges prissammenligning av regnskapssystemer&#xD;&#xA;Bakgrunnen er uro og kritikk fra mange regnskapsforetak, til pris og prismodeller på regnskapssystemer som brukes.&#xD;&#xA;Se: https://www.regnskapnorge.no/faget/artikler/bransjeaktuelt/prissammenligning-av-regnskapssystemer/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="da2adb62-aa07-4016-8949-19f36f99b609"
@@ -525,5 +526,41 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-e49fb6220dde4389a69b5acb93470db4.xml#id-e49fb6220dde4389a69b5acb93470db4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4bbfb962cbcd457580c3f3e78a08628c">
+    <bounds
+        x="852"
+        y="156"
+        width="217"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-8dccb4b3beac443e9dc949d2af3b3e7e.xml#id-8dccb4b3beac443e9dc949d2af3b3e7e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-797ecb3d25a441b0a6f2b426dd1e081b">
+    <bounds
+        x="1092"
+        y="159"
+        width="165"
+        height="66"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-bd3beac2b84e4d92af58486a4008bd08.xml#id-bd3beac2b84e4d92af58486a4008bd08"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0d52ad7c5caf4562a6b103993a8b839f">
+    <bounds
+        x="1272"
+        y="159"
+        width="193"
+        height="66"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-1466cdfa97bd4f30ae99920770f630ba.xml#id-1466cdfa97bd4f30ae99920770f630ba"/>
   </children>
 </archimate:ArchimateDiagramModel>

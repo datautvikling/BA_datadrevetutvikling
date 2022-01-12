@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bankavstemming"
+    id="id-45ae65af08dd4dbfb131ec97f08e56a4"
+    documentation="Bokføringen må jevnlig avstemmes med banktransaksjoner f.eks. før rapportering."/>
