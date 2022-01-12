@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LH SDB - C - Drivefase Steg 12 betale skatt og avgift"
-    id="b6da8f9a-f591-4b72-8da9-dc4c0dad97ef">
+    id="b6da8f9a-f591-4b72-8da9-dc4c0dad97ef"
+    documentation="Kilde: Rett fra start">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0728c89c-5b42-436e-a77a-952e2cb54717"
@@ -280,5 +281,87 @@
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-4d602480d65c47feada92f781a5e1512.xml#id-4d602480d65c47feada92f781a5e1512"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-23e67dda3d6f4371834bde620530b9fc">
+    <bounds
+        x="300"
+        y="132"
+        width="217"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-1e7b9e21fa154e88b683d510b93d2adc.xml#id-1e7b9e21fa154e88b683d510b93d2adc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-10d92e8f99944aeeaf8a10b360122b52">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0d3db52752e34971ab4134c978348cc2"
+        source="id-10d92e8f99944aeeaf8a10b360122b52"
+        target="id-295dd346ebf049dd8c7c3432f15b179a">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-07e64d3f7d6048099b401f6d30feb15e.xml#id-07e64d3f7d6048099b401f6d30feb15e"/>
+    </sourceConnections>
+    <bounds
+        x="228"
+        y="852"
+        width="173"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-fc28f8bf-2e1b-4ebe-8784-3c4d2e12f793.xml#id-fc28f8bf-2e1b-4ebe-8784-3c4d2e12f793"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-295dd346ebf049dd8c7c3432f15b179a"
+      targetConnections="id-0d3db52752e34971ab4134c978348cc2">
+    <bounds
+        x="72"
+        y="954"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-d48711113e524177bbabb2bc19c850fc.xml#id-d48711113e524177bbabb2bc19c850fc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-51ec64632acf4294bfa191de52feb54d">
+    <bounds
+        x="528"
+        y="132"
+        width="217"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-9af41f9ab78b4a8abd25ff124dc0ece0.xml#id-9af41f9ab78b4a8abd25ff124dc0ece0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cb0976b72e82461b968cc74044f1d6c3">
+    <bounds
+        x="756"
+        y="132"
+        width="217"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-2bf3559cd2db4df494f78e7b2f65c36a.xml#id-2bf3559cd2db4df494f78e7b2f65c36a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2d8d571942394067aa4db6d0eeab05ea">
+    <bounds
+        x="996"
+        y="132"
+        width="217"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-aa439892cb24490981d28f04a3ab012e.xml#id-aa439892cb24490981d28f04a3ab012e"/>
   </children>
 </archimate:ArchimateDiagramModel>
