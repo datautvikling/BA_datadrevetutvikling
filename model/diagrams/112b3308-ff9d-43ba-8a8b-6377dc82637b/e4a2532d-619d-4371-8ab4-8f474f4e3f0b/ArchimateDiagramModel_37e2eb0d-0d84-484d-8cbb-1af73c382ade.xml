@@ -522,7 +522,7 @@
         x="612"
         y="156"
         width="217"
-        height="71"/>
+        height="96"/>
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-e49fb6220dde4389a69b5acb93470db4.xml#id-e49fb6220dde4389a69b5acb93470db4"/>
@@ -546,7 +546,7 @@
         x="1092"
         y="159"
         width="165"
-        height="66"/>
+        height="82"/>
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-bd3beac2b84e4d92af58486a4008bd08.xml#id-bd3beac2b84e4d92af58486a4008bd08"/>
@@ -558,7 +558,7 @@
         x="1272"
         y="159"
         width="193"
-        height="66"/>
+        height="82"/>
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-1466cdfa97bd4f30ae99920770f630ba.xml#id-1466cdfa97bd4f30ae99920770f630ba"/>
