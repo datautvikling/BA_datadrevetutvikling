@@ -7292,23 +7292,6 @@
         target="id-401915c3-615a-4bcf-a78e-ba545863e7a7">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-b68942f2-eea4-48f2-9c6b-e27d9dbbe369.xml#id-b68942f2-eea4-48f2-9c6b-e27d9dbbe36onnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="7daedc6e-32b8-4ea1-9253-06ca9315a904"
-        source="id-b749f9c1-f297-4f2e-8bc6-0657166c875a"
-        target="id-992e1aee-014e-4c04-bd9f-b9d32c8ea8a2">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-afc88e65-04f3-4833-88da-c5f58ce1d64c.xml#id-afc88e65-04f3-4833-88da-c5f58ce1d64c"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="bfeea2b6-e0f7-4bcc-8f36-4dd7e8642f42"
-        source="id-b749f9c1-f297-4f2e-8bc6-0657166c875a"
-        target="id-401915c3-615a-4bcf-a78e-ba545863e7a7">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-b68942f2-eea4-48f2-9c6b-e27d9dbbe369.xml#id-b68942f2-eea4-48f2-9c6b-e27d9dbbe369"/>
     </sourceConnections>
     <sourceConnections
@@ -8488,7 +8471,21 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
-          href="CourseOfAction_id-9e1ff615-c5b1-4903-86d5-de0ee5cc1ba9.xmlves (outside in).">
+          href="CourseOfAction_id-9e1ff615-c5b1-4903-86d5-de0ee5cc1ba9.xml#id-9e1ff615-c5b1-4903-86d5-de0ee5cc1ba9"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-de256eec-f6e9-4fca-9d55-206d7310e0c8.xml#id-de256eec-f6e9-4fca-9d55-206d7310e0c8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cd0f88f8-187a-4a2b-8994-c6a15b76c86e"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="The general idea of life events is to invert government’s traditional perspectives. It means moving away from an administration that modernizes along its own needs, procedures and organizational settings (inside out), instead moving toward an administration that wants to understand how citizens experience and perceive the whole chain of interactions with the administration during important events in their lives (outside in).">
     <sourceConnections
         id="id-feffd890-8b5e-449d-8dd2-cdcf63f46e9c"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
@@ -9517,30 +9514,6 @@
     <archimateElement
         xsi:type="archimate:Location"
         href="Location_id-4a48e78a-7c5f-4a82-9263-d825f72a56e4.xml#id-4a48e78a-7c5f-4a82-9263-d825f72a56e4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="d1f22b52-fb75-4e27-985b-b15407179765">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="2d178f9c-2cc4-41b3-97ce-361083652f2e"
-        source="d1f22b52-fb75-4e27-985b-b15407179765"
-        target="10528b68-00ae-44e2-a8a5-06fbd4816eea">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_12676fdc-95c1-4300-85ab-63efca3acdcf.xml#12676fdc-95c1-4300-85ab-63efca3acdcf"/>
-    </sourceConnections>
-    <bounds
-        x="1332"
-        y="934"
-        width="147"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Resource"
-        href="Resource_af9fe3c6-981b-4cc7-9bde-eb5dd66c0583.xml#af9fe3c6-981b-4cc7-9bde-eb5dd66c0583"/>
-  </children>
-</archimate:ArchimateDiagramModel>
-4.xml#id-4a48e78a-7c5f-4a82-9263-d825f72a56e4"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
